@@ -1,0 +1,77 @@
+# NHẬT KÝ QUYẾT ĐỊNH THIẾT LẬP (DECISIONS LOG)
+* **Dự án:** Vọng Âm Thực Tại
+* **Thời điểm cập nhật:** 06/10/2026
+
+---
+
+## 1. QUYẾT ĐỊNH LOẠI BỎ TOÀN BỘ "HỆ THỐNG" (SYSTEM) & YẾU TỐ GAME
+* **Lý do:** Tác giả quyết định thay đổi hình tượng nhân vật chính thành một người bình thường tự lực sinh tồn, không phụ thuộc vào "bàn tay vàng" hệ thống hay cơ chế game hóa.
+* **Các yếu tố đã loại bỏ triệt để:**
+  - Không có bảng hiển thị kỹ năng (skill panel).
+  - Không có giao diện hệ thống (status screen).
+  - Không có kho đồ không gian (inventory).
+  - Không có thông báo hệ thống / nhiệm vụ cấp phát.
+  - Xóa bỏ khái niệm "di vật tiền truyện" dạng game.
+* **Cơ chế thay thế:**
+  - Tiêu Trường Sinh tự thích nghi, học kỹ năng qua thực chiến sinh tử, quan sát, thử sai và sự đồng hành của Linh vật M.
+  - Đồ đạc sinh tồn phải tự chế tạo, tự mang vác (ba lô vải, túi đeo nhặt từ tàn tích).
+
+---
+
+## 2. QUYẾT ĐỊNH ĐIỀU CHỈNH TIMELINE
+* **Lý do:** Tạo nhịp phát triển tự nhiên hơn cho lứa tuổi học sinh cấp 3 và mở rộng không gian cho Arc 2.
+* **Nội dung điều chỉnh:**
+  - Tiêu Trường Sinh khởi đầu ở tuổi **17**, đang học **cuối lớp 11**.
+  - **Chương 1** bắt đầu từ đúng thời điểm **tan học ngày bế giảng cuối cùng của năm học lớp 11** (trước kỳ nghỉ hè).
+  - Biến cố rơi sang Primordia (Arc 1) diễn ra trong mùa hè.
+  - Trở về Trái Đất (đầu Arc 2) trong kỳ nghỉ hè giữa lớp 11 lên lớp 12: diễn ra vụ án trừ tà giải nguyền 1 tuần cho Hạ Linh An.
+  - Bước vào năm học mới: Hạ Linh An khôi phục nhan sắc, chuyển trường đến học chung **năm học Lớp 12** với Trường Sinh (bối cảnh của phần lớn Arc 2 và chuyến dã ngoại đêm lửa trại).
+
+---
+
+## 3. QUYẾT ĐỊNH XÁC LẬP ĐỊA ĐIỂM TRÁI ĐẤT (VIỆT NAM)
+* **Lý do:** Đưa bối cảnh về Việt Nam cụ thể, giàu chất liệu hiện thực đời sống và gần gũi.
+* **Địa chỉ chuẩn hóa:**
+  - Quê nhà của Tiêu Trường Sinh: **Xã Minh Tân, Huyện Dầu Tiếng, Tỉnh Bình Dương (Việt Nam)**.
+  - Các địa danh thực tế liên quan: Trường THPT Dầu Tiếng, những lô cao su bạt ngàn của Dầu Tiếng, lòng hồ Dầu Tiếng.
+  - Đô thị hoạt động trừ tà: Thủ Dầu Một và TP. Hồ Chí Minh (cuối tuần bắt xe lên thành phố làm nhiệm vụ cùng nhóm bạn).
+
+---
+
+## 4. QUYẾT ĐỊNH VỀ LÝ DO MAIN BỊ CHỌN & HỆ THỐNG SỨC MẠNH
+* **Lý do bị chọn làm điểm neo:**
+  - Cỗ máy Pendelton nổ tạo vết nứt không gian cần điểm neo sinh mệnh có Hạch Mana chưa cá nhân hóa.
+  - Trường Sinh sở hữu "Lỗ Hổng" Hạch Mana bẩm sinh (lỗi đột biến tự nhiên, không có Quirk).
+  - Tỷ lệ: 1/8 tỷ (kẻ xui xẻo nhất hành tinh, không phải người hùng định mệnh).
+* **2 Đặc tính cá nhân:** "Vô" (Trái Đất - dung hòa) + "Cuồng" (Primordia - bộc phát).
+* **Linh vật M:** Cầu nối điều hòa, ổn định và áp chế Nguyên Mana khi xâm nhập cơ thể.
+* **Haki Vũ Trang nắm đấm:** Nắm đấm bọc Nguyên Mana cứng như thép (Cường hóa nắm đấm, Găng tay mana, Chưởng nổ, Kiếm khí). Đấm ăn mòn, đấm áp chế, đấm cuồng loạn. Lộ trình từ đấm tường tới đấm nổ tung nửa hòn đảo.
+* **Giới hạn sức mạnh:** Chỉ hấp thụ mana vô chủ trong tự nhiên; KHÔNG hút mana người khác; hồi phục chậm trong trận dài.
+
+---
+
+## 5. DANH SÁCH TẬP TIN ĐÃ CẬP NHẬT ĐỒNG BỘ
+1. `context/master_context.md`: Lưu toàn bộ ngữ cảnh dự án chuẩn hóa.
+2. `canon/premise.md`: Cập nhật premise, bỏ game/hệ thống/kho đồ, cập nhật địa danh Bình Dương.
+3. `canon/world_structure.md`: Cập nhật cấu trúc thế giới, bối cảnh Dầu Tiếng, Bình Dương.
+4. `canon/power_system.md`: Tạo mới hệ thống sức mạnh chi tiết toàn diện.
+5. `canon/characters/Main_actors/tieu_truong_sinh.md`: Cập nhật timeline cuối lớp 11, quê Minh Tân, bỏ di vật tiền truyện.
+6. `canon/characters/Main_actors/ha_linh_an.md`: Cập nhật timeline giải nguyền trong hè, học chung lớp 12.
+7. `canon/characters.md`: Cập nhật tổng mục hồ sơ nhân vật.
+8. `canon/ideas_backlog.md`: Cập nhật timeline ý tưởng giải nguyền và khiêu vũ.
+9. `outline/three_acts.md`: Cập nhật đại cương 3 hồi.
+10. `outline/overview.md`: Cập nhật master overview.
+11. `outline/arcs_overview.md` & `outline/arcs.md`: Cập nhật chi tiết 8 arc.
+12. `outline/arc_1_detail.md`: Cập nhật 4 giai đoạn Arc 1.
+13. `outline/chapter_contracts_arc_1.md`: Cập nhật hợp đồng 40 chương Arc 1 (bỏ kho đồ, ba lô tự chế).
+14. `chapters/Hoi_1/Arc_01/chuong_001.md`: Cập nhật tan học bế giảng lớp 11, Dầu Tiếng, Minh Tân, Bình Dương.
+15. `chapters/Hoi_1/Arc_01/chuong_002.md`: Cập nhật 17 tuổi, bỏ hoàn toàn bảng giao diện và kho đồ, giữ vật phẩm bật lửa của ông nội.
+
+## 6. QUYẾT ĐỊNH VỀ ĐỘ DÀI CHƯƠNG VÀ BỘ 4 CÂU HỎI KIỂM SOÁT NHỊP ĐIỆU
+* **Khung tham chiếu linh hoạt:** 2.500 – 3.500 chữ (Đời thường: 2.500 – 3.000; Hành động: 3.000 – 3.500; Cao trào: 3.500 – 4.500; Mở arc: 2.500 – 3.000; Kết arc: 3.000 – 4.000).
+* **Nguyên tắc cốt lõi:** Độ dài phục vụ nội dung, tuyệt đối không gượng ép.
+* **Bộ 4 câu hỏi tự đánh giá bắt buộc sau khi hoàn thành mỗi chương:**
+  1. Chương có 1 cảnh chính hay nhiều cảnh?
+  2. Cảnh chính có turn (bước ngoặt) không?
+  3. Cliffhanger có đủ mạnh không?
+  4. Có chỗ nào lan man không?
