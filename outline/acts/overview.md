@@ -1,6 +1,6 @@
 # Tổng Quan Tác Phẩm: Vọng Âm Thực Tại (Master Overview)
 
-> **TRẠNG THÁI TẬP TIN:** Đây là tài liệu sống (Living Document) được lưu trữ tại thư mục `chapters/`, đóng vai trò kim chỉ nam và bản đồ định hướng toàn cục cho toàn bộ quá trình sáng tác. Tài liệu này có thể được cập nhật, tinh chỉnh linh hoạt theo từng giai đoạn viết thực tế.
+> **TRẠNG THÁI TẬP TIN:** Đây là tài liệu sống (Living Document) được lưu trữ tại [outline/acts/overview.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/outline/acts/overview.md), đóng vai trò kim chỉ nam và bản đồ định hướng toàn cục cho toàn bộ quá trình sáng tác. Tài liệu này có thể được cập nhật, tinh chỉnh linh hoạt theo từng giai đoạn viết thực tế.
 
 ---
 

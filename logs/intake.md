@@ -134,7 +134,7 @@
   * 1% sống sót phát sinh biến dị thích nghi, rút mana vào tế bào hình thành Hạch Mana, rồi thoái hóa và hòa vào các nhánh người tiền sử (khớp với tiến hóa nhân loại, kỷ băng hà, người tinh khôn).
   * Đến thời hiện đại, Hạch Mana là bí mật tối mật do một số gia tộc thượng tầng và tập đoàn tài phiệt kiểm soát (kẻ làm lộ bị tử hình).
 * **Nguồn gốc pháo đài di động bánh xích & Steampunk ma pháp:** Thuộc về **Primordia**, hình thành do lịch sử chiến tranh liên miên và các đợt di cư ma thú tàn phá suốt hàng triệu năm bị bỏ rơi.
-* **Quy chuẩn trình bày:** Toàn bộ file [canon/world_structure.md](file:///home/thang/Syllabus/Syllabus/Orther/Something%20Special/Novel/canon/world_structure.md) đã được viết lại hoàn toàn, **loại bỏ toàn bộ bảng biểu**, sử dụng danh mục so sánh trực diện và văn phong mạch lạc.
+* **Quy chuẩn trình bày:** Toàn bộ file [canon/world_structure.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/world_structure.md) đã được viết lại hoàn toàn, **loại bỏ toàn bộ bảng biểu**, sử dụng danh mục so sánh trực diện và văn phong mạch lạc.
 
 ---
 
@@ -143,7 +143,7 @@
 * **Ý tưởng 1 (Vợ 2 - Trái Đất):** Nhiệm vụ trừ tà hóa giải lời nguyền mụn cóc biến dạng (kết quả của sự ghen ghét đố kỵ). 2 năm cô độc tự nhìn nhận bản thân. Quá trình hẹn hò phá hủy 3 vật phong ấn (nhẫn, búp bê, thư). Học chung lớp 12 với Tiêu Trường Sinh.
 * **Ý tưởng 2 (Khúc khiêu vũ Lớp 12):** Điệu múa đôi thất truyền của cổ tộc đã tuyệt chủng ở Primordia. Vũ điệu bên đống lửa trại giữa Trường Sinh và linh hồn Vợ 1 trong bộ váy dân tộc đỏ rực như Nước và Lửa.
 * **Ý tưởng 3 (Vợ 1 & Khúc phản bội Arc 1):** Bị Lich đe dọa sinh mạng của mẹ nên buộc phải tiếp tay cho Lich. Sự thức tỉnh, hy sinh thân mình cứu Trường Sinh để chuộc tội. Linh hồn gắn kết cùng Trường Sinh.
-* **Lưu trữ tài liệu:** Đã ghi chép chi tiết vào [canon/ideas_backlog.md](file:///home/thang/Syllabus/Syllabus/Orther/Something%20Special/Novel/canon/ideas_backlog.md) và [canon/characters.md](file:///home/thang/Syllabus/Syllabus/Orther/Something%20Special/Novel/canon/characters.md).
+* **Lưu trữ tài liệu:** Đã ghi chép chi tiết vào [canon/ideas_backlog.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/ideas_backlog.md) và [canon/characters.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters.md).
 
 ---
 

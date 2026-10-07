@@ -1,5 +1,9 @@
 # Cấu Trúc Thế Giới (World Structure): Vọng Âm Thực Tại
 
+> 📂 **HỆ THỐNG MODULE CHI TIẾT:** Cấu trúc thế giới đã được module hóa chuyên sâu tại:
+> * Địa danh hai bờ: [canon/places/](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/places/) (Xem thêm: [00_Index/Place.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/00_Index/Place.md))
+> * Thế giới quan & Lịch sử: [canon/world_building/](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/world_building/) (Xem thêm: [00_Index/World_Building.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/00_Index/World_Building.md))
+
 ## 1. Tổng Quan: Hai Thực Tại Tách Biệt
 
 Thế giới trong tác phẩm được phân định ranh giới rõ ràng thành hai thực tại riêng biệt, bị ngăn cách bởi vách ngăn không gian kiên cố suốt hàng triệu năm:

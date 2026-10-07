@@ -1,6 +1,8 @@
 # Hệ Thống Sức Mạnh (Power System): Vọng Âm Thực Tại
 
 > **NGUYÊN TẮC CỐT LÕI:** Tác phẩm xây dựng thế giới quan kỳ bí, quy tắc năng lượng chặt chẽ theo trường phái Science-Fantasy. **TUYỆT ĐỐI KHÔNG CÓ HỆ THỐNG / GAME**, không có bảng kỹ năng, không có giao diện chỉ số, không có kho đồ không gian hay nhiệm vụ cấp phát. Mọi sự phát triển đều đến từ rèn luyện, thực chiến và bản năng sinh tồn.
+> 
+> 📂 **HỆ THỐNG MODULE CHI TIẾT:** Hệ thống sức mạnh đã được phân tách thành các chuyên đề chuyên sâu tại thư mục [canon/power_system/](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/power_system/) (Xem thêm: [00_Index/Power_System.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/00_Index/Power_System.md)).
 
 ---
 
