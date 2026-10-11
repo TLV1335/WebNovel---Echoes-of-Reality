@@ -59,3 +59,21 @@
 - **Khung đề xuất:** 2.500 – 3.500 chữ/chương (Hành động: 3.000 – 3.500; Cao trào: 3.500 – 4.500; Đời thường/chuyển cảnh: 2.500 – 3.000).
 - **Nguyên tắc:** Độ dài phục vụ nội dung. Không cắt xén làm hụt cảm xúc cao trào, không bôi chữ kéo dài cảnh đơn giản.
 - **Tự vấn sau khi viết:** Cảnh chính có turn không? Cliffhanger có đủ sức kéo không? Có lan man không?
+
+---
+
+## 8. Quy Chuẩn Hội Thoại (Xem chi tiết tại `canon/dialouge_rules.md`)
+1. **Thoại dưới áp lực:** Ngắn, rời rạc, cụ thể (<10–12 tiếng). Mang thông tin/ý định rõ ràng (tên, hướng, vật, cảnh báo, van xin, nói dối). Tránh tiếng thét sáo rỗng. Khi ẩn nấp: im lặng hoặc thì thầm.
+2. **Hành động xen kẽ:** Chỉ chèn để neo tư thế/vị trí hoặc lộ subtext. Không chèn miêu tả chung chung. Trao đổi nhanh cho phép 3–4 lượt lời không tả.
+3. **Cấm nhồi lore:** Không thuyết minh qua thoại hay suy nghĩ. Trường Sinh chỉ nhận tin vội/cắt ngang/cảnh báo. Giới hạn 2–3 quy tắc thế giới mới mỗi cảnh ở Arc 1 (1 quy tắc ở các Arc sau).
+4. **Giọng Tiêu Trường Sinh:** Quan sát nhiều, nói ít, cụt lủn, né nói về mình, hay hỏi lại. Nội tâm tối đa 2–3 chỗ/cảnh (mỗi chỗ 1–2 câu) và chỉ gắn với lựa chọn riêng, không suy nghĩ triết lý sinh tồn sáo rỗng.
+
+---
+
+## 9. Quy Chuẩn Kiểm Soát Tiết Lộ Thông Tin (Xem chi tiết tại `canon/information_reveal_rules.md`)
+1. **POV Ngôi 3 giới hạn tuyệt đối:** Độc giả chỉ biết những gì Tiêu Trường Sinh biết. Không hơn, không kém. Nếu main không biết, độc giả không biết; main hoang mang thì độc giả hoang mang; main sợ thì độc giả sợ.
+2. **CẤM Tác giả toàn tri giải thích thay:** Không đứng từ trên cao giải thích nguyên nhân, nguồn gốc hoặc so sánh kiến thức thế giới khi main chưa tự khám phá.
+3. **Quy tắc 1 Đáp - 2 Hỏi:** Mỗi lần hé lộ một thông tin phải giải quyết 1 câu hỏi và mở ra 2 câu hỏi mới lớn hơn.
+4. **Không để NPC làm loa phát thanh, không cho main suy luận trước kịch bản:** Mọi nhận thức thế giới phải xuất phát từ va đập thể xác, giác quan và trải nghiệm sinh tử thực tế.
+
+

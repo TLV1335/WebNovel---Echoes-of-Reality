@@ -13,7 +13,7 @@
 * **Quy mô:** 3 Hồi – 8 Arc lớn – 275+ chương.
 * **Nguyên tắc nhân vật chính (TUYỆT ĐỐI KHÔNG HỆ THỐNG / GAME):**
   * Nhân vật chính là **người bình thường**, tự lực sinh tồn, **KHÔNG CÓ HỆ THỐNG**, không bảng kỹ năng, không giao diện, không kho đồ không gian, không thông báo nhiệm vụ.
-  * Mọi kỹ năng và tiến bộ đều đến từ **thực chiến, quan sát, thử sai, bản năng thích nghi** và sự hỗ trợ điều hòa của **Linh vật M**.
+  * Mọi kỹ năng và tiến bộ đều đến từ **thực chiến, quan sát, thử sai, bản năng thích nghi** và sự hỗ trợ điều hòa của **Hirra**.
 * **Timeline chuẩn:**
   * Khởi đầu: Tiêu Trường Sinh đang học **cuối lớp 11** (17 tuổi).
   * Chương 1: Bắt đầu vào đúng buổi chiều **tan học ngày cuối cùng của năm học lớp 11** (chuẩn bị bước vào kỳ nghỉ hè).
@@ -33,7 +33,7 @@
   * Cậu là người xui xẻo nhất hành tinh (1/8 tỷ) bị vết nứt cỗ máy của Pendelton chọn làm điểm neo ổn định.
   * Tiềm năng: Không bị đóng khung, có thể dung nạp mọi dòng mana.
   * Hai đặc tính cá nhân song hành: **"Vô"** (Trái Đất - trống rỗng dung hòa) và **"Cuồng"** (Primordia - bộc phát uy lực Nguyên Mana).
-* **Linh vật M:** Cầu nối sống còn giúp Trường Sinh chế ngự, làm ổn định và thanh lọc Nguyên Mana khi tràn vào cơ thể.
+* **Hirra:** Cầu nối sống còn giúp Trường Sinh chế ngự, làm ổn định và thanh lọc Nguyên Mana khi tràn vào cơ thể.
 * **Phong cách chiến đấu (Haki Vũ Trang):** Nắm đấm bọc Nguyên Mana cứng như thép (Cường hóa nắm đấm, Găng tay mana, Chưởng nổ, Vạn kiếm quy tông dạng kiếm khí). Đấm ăn mòn, đấm áp chế, đấm cuồng loạn.
 * **Giới hạn sức mạnh:** Khả năng hấp thụ mana vô chủ từ môi trường; KHÔNG hút được mana của người khác; hồi phục chậm trong trận đánh dài.
 

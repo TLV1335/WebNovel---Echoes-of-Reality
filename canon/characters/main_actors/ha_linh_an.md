@@ -91,3 +91,43 @@ Cô say mê Toán và Vật lý, tin rằng mọi hiện tượng vũ trụ đ�
 * Hạ Linh An biết về sự tồn tại của Caelia (thể linh hồn màu xanh lá gắn kết bên Trường Sinh).
 * Không có sự ghen tuông hẹp hòi hay tranh giành tầm thường. Với sự nhạy cảm và thấu hiểu của mình, Linh An nhìn thấy ở Caelia sự hy sinh cao cả và nỗi đau của một linh hồn lưu lạc.
 * Hai người phụ nữ thấu hiểu nhau sâu sắc: một người đại diện cho cội nguồn Primordia bất diệt, một người đại diện cho hiện tại kiên cường của Trái Đất — cùng nhau trở thành hai điểm tựa bình yên của Tiêu Trường Sinh.
+
+---
+
+## 9. Nhận Diện Tiêu Trường Sinh & Triết Lý "Cái Đẹp Chỉ Là Tấm Bìa"
+* **Không bị đánh lừa bởi ngoại hình:** Khi gặp lại Trường Sinh ở Trái Đất trong hình hài 1m70 skinny fat bụng mỡ, Linh An nhận ra cậu ngay lập tức qua các tiểu tiết logic:
+  1. *Thói quen xoay chiếc bật lửa Zippo gỉ sét* lách cách nơi đầu ngón tay.
+  2. *Nhịp thở điều tức 3-2* mà cậu dùng để ghìm cơn đói mana của "Lỗ Hổng" trong lồng ngực.
+  3. *Cách nói chuyện cụt lủn, hay hỏi lại* trước khi đưa ra câu trả lời.
+* **Triết lý sống:** Đã từng trải qua biến cố từ mỹ nhân rực rỡ rơi xuống đáy bùn vì mặt mụn cóc ghê rợn, cô thấu hiểu sâu sắc rằng: *"Cái đẹp chỉ là tấm bìa sách. Người từng nhìn thấy tâm hồn mình dưới đáy vực mới là người thực sự quý giá."*
+
+---
+
+## 10. Đẩy Độ Tương Phản Ở Trường Học (Năm Lớp 12) & Cách Đáp Trả Tĩnh Lặng
+* **Bối cảnh:** Sau khi giải nguyền, Linh An lấy lại dung nhan thanh xuân rực rỡ, trở thành tâm điểm của trường. Cô chuyển trường học chung lớp 12 với Trường Sinh — người lúc này ở nguyên trạng Trái Đất mộc mạc, hơi mập và mờ nhạt như một "NPC".
+* **Phản ứng của đám đông:** Học sinh xì xào, dè bỉu, giễu cợt sự chênh lệch ngoại hình "đôi đũa lệch" giữa hoa khôi và gã trai nghèo cục mịch.
+* **Cách Linh An bảo vệ lòng tự tôn của Trường Sinh:** Không tranh cãi ồn ào hay đôi co với đám đông. Cô đáp trả bằng **sự tĩnh lặng tuyệt đối và hành động trực tiếp**, coi toàn bộ người xung quanh như vô hình:
+  - Tự nhiên gắp miếng thức ăn ngon nhất trong phần cơm của mình bỏ sang hộp cơm của Trường Sinh giữa căng tin.
+  - Thản nhiên kéo ghế ngồi sát rạt cạnh cậu để hỏi bài toán khó.
+  - Tựa lưng vào ghế im lặng đọc sách ngay bên cạnh cậu giữa giờ ra chơi.
+  > Sự tĩnh lặng kiên định ấy là tấm khiên rực rỡ nhất bảo vệ lòng tự tôn của chàng trai hướng nội.
+
+---
+
+## 11. Arc Chiến Đấu Mù Tạm Thời: "Đôi Mắt Soi Sáng Của Anh"
+* **Bối cảnh:** Hai thế giới va chạm, quái vật xổng sang Trái Đất. Trường Sinh bị trúng độc tử linh của quái vật làm mù hai mắt tạm thời giữa vòng vây kẻ thù.
+* **Hành động thay lời nói:** Không có những câu thoại ngôn tình sáo rỗng. Linh An lao vào vòng vây, trấn an và thốt lên: *"Nếu anh không thể nhìn thấy thì em sẽ là đôi mắt giúp anh soi sáng"*. Cô áp sát lưng mình vào lưng Trường Sinh, biến tư duy toán học và giải tích không gian thành một bộ đàm điều hướng sống:
+  - Đầu ngón tay cô gõ nhịp dứt khoát vào vai/lưng cậu để báo cự ly và hướng di chuyển.
+  - Miệng đọc tọa độ lạnh lùng như một cỗ máy chính xác để giấu đi sự run rẩy, sợ hãi trong lòng.
+* **Phối hợp sinh tử:**
+  - *"Hướng ba giờ! Hai bước!"*
+  - Trường Sinh chém hụt, thở dốc trong hoảng loạn: *"Không thấy gì cả!"*
+  - Linh An siết chặt vạt áo cậu, giọng đanh thép: *"Vậy thì tin em! Lùi nửa bước. Chém ngang vòm họng!"*
+  - Nhát chém chuẩn xác theo tọa độ kết liễu quái vật. Thông điệp "em là đôi mắt của anh" được khắc sâu bằng máu và sự tin tưởng tuyệt đối.
+
+---
+
+## 12. Chiếc Mỏ Neo Giữ Trường Sinh Ở Trái Đất
+* **Cho phép cậu được yếu đuối:** Nếu như ở Primordia, Trường Sinh buộc phải căng mình thành chiến thần bất bại để sống sót; thì ở bên Linh An, cậu được phép cởi bỏ gánh nặng.
+* Linh An chưa từng đòi hỏi cậu phải là anh hùng hay sở hữu thân hình 6 múi tạc tượng. Ở bên cô, cậu được quyền là một Tiêu Trường Sinh bình dị, nhiều khuyết điểm, có thể thở dài và tựa đầu mệt mỏi.
+

@@ -20,6 +20,7 @@
 
 ### 3. Diễn biến Nhiệm Vụ Hẹn Hò Trừ Tà
 * **Kế hoạch tiếp cận:** Để tìm ra chân tướng lời nguyền, Tiêu Trường Sinh nhận nhiệm vụ đóng giả làm một người theo đuổi cô.
+* **Giải quyết ngoại hình khi hẹn hò:** Để tạo sự tự tin và phong thái đĩnh đạc, người bạn trong nhóm trừ tà sử dụng **Quirk Biến hình / Ảo ảnh sinh học tạm thời (duy trì 2 tiếng)** giúp Trường Sinh mang vóc dáng cao ráo 1m80 trong các buổi hẹn.
 * **Tuần đầu tiên (Nhắn tin qua mạng):** Tiêu Trường Sinh vốn nhát gái, ngố đặc về chuyện tình cảm; toàn bộ những câu tán tỉnh, gạ gẫm đều do đám bạn thân trong nhóm phím bài chỉ điểm phía sau.
 * **Lần gặp mặt trực tiếp:** Cô nghĩ rằng Trường Sinh cũng giống như bao người khác, sẽ khiếp sợ bỏ chạy ngay khi nhìn thấy khuôn mặt biến dạng của mình. Nhưng cậu đã không bỏ chạy (dù trong lòng thừa nhận là xấu thật).
 * **Một tuần hẹn hò & Hóa giải:** Sau 1 tuần đồng hành chân thành, Trường Sinh xác định được 3 vật thể phong ấn nguồn cơn lời nguyền: **một chiếc nhẫn, một con búp bê và một lá thư oán niệm**.
@@ -28,6 +29,19 @@
 ### 4. Khoảnh khắc đắt giá (Key Moments)
 * **Câu nói thật lòng của Trường Sinh:** Trong lúc cô tự ti nhất, cậu đã nói: *"Đúng là có người xấu người đẹp, hoa cũng có hoa nhiều màu và đơn sắc mà..."*
 * **Nụ hôn đầu:** Nụ hôn thật lòng của Trường Sinh dành cho cô — lúc này cậu thực sự rung động trước một tâm hồn đã dũng cảm đối diện với bi kịch và tự làm mới chính mình.
+
+### 5. Đẩy Độ Tương Phản Ở Trường Học Lớp 12 & Sự Bảo Vệ Tĩnh Lặng
+* **Bối cảnh:** Linh An lấy lại nhan sắc rực rỡ, học chung lớp 12 với Trường Sinh — lúc này đang ở nguyên trạng Trái Đất (skinny fat 1m70, bụng mỡ mềm).
+* **Phản ứng dư luận:** Đám đông học sinh xì xào, dè bỉu ngoại hình lệch pha gay gắt.
+* **Cách Linh An đáp trả:** Không cãi vã đôi co. Dùng hành động tĩnh lặng trực tiếp, coi đám đông như vô hình:
+  - Gắp miếng thức ăn ngon nhất sang hộp cơm của Trường Sinh giữa căng tin.
+  - Kéo ghế ngồi sát lại hỏi bài toán.
+  - Tựa lưng vào ghế im lặng đọc sách cạnh cậu giữa giờ ra chơi.
+  > Sự tĩnh lặng bảo vệ lòng tự tôn của chàng trai hướng nội.
+
+### 6. Dấu Hiệu Nhận Diện & Triết Lý
+* Linh An nhận ra Trường Sinh qua các tiểu tiết logic bất biến (thói quen xoay bật lửa Zippo, nhịp thở điều tức 3-2 ghìm "hốc rỗng", cách nói chuyện cụt lủn hay hỏi lại), chứ không bao giờ bị đánh lừa bởi ngoại hình.
+* Triết lý: *"Cái đẹp chỉ là tấm bìa."*
 
 ---
 
@@ -66,3 +80,41 @@
 * Ý chí muốn chuộc tội và tình yêu sâu nặng biến linh hồn cô thành bạn đồng hành gắn chặt với sinh mệnh Trường Sinh.
 * Cùng Trường Sinh xuyên không về Trái Đất, chứng kiến cuộc sống đời thường của cậu, trải qua các biến cố và trở thành người bạn đời không thể tách rời.
 * *Ghi chú điều chỉnh:* Chi tiết này sẽ được đối chiếu và trau chuốt tỉ mỉ khi chính thức viết dàn ý chi tiết Arc 1 để bảo đảm sự đồng cảm, logic và sức nặng cảm xúc của độc giả.
+
+---
+
+## Ý TƯỞNG 4 — Arc Chiến Đấu Mù Tạm Thời (Đôi Mắt Soi Sáng)
+
+### 1. Bối cảnh & Tình huống
+* Diễn ra ở giai đoạn hai thế giới bắt đầu va chạm, tàn dư quái vật xổng sang Trái Đất.
+* Trong một trận chiến giáp lá cà, Tiêu Trường Sinh trúng kịch độc tử linh từ tàn dư quái vật khiến hai mắt bị mù tạm thời giữa vòng vây kẻ địch.
+
+### 2. Triển khai bằng hành động (Tuyệt đối không sáo rỗng)
+* Hạ Linh An nhận ra điểm bất thường, lập tức lao tới trấn an cậu: *"Nếu anh không thể nhìn thấy thì em sẽ là đôi mắt giúp anh soi sáng"*.
+* Cô áp sát lưng mình vào lưng Trường Sinh, biến tư duy toán học và giải tích không gian thành một bộ đàm điều hướng:
+  - Ngón tay cô gõ nhịp dứt khoát vào vai/lưng cậu để ra hiệu khoảng cách và hướng né.
+  - Miệng đọc tọa độ lạnh lùng như cỗ máy không cảm xúc để che giấu nỗi sợ hãi đang dâng trào.
+* **Mẫu phối hợp chiến đấu:**
+  - *"Hướng ba giờ! Hai bước!"*
+  - Trường Sinh vung đòn trượt, thở dốc trong bóng tối: *"Không thấy gì cả!"*
+  - Linh An siết chặt vạt áo cậu: *"Vậy thì tin em! Lùi nửa bước. Chém ngang vòm họng!"*
+  - Cú đánh chuẩn xác kết liễu quái vật. Thông điệp "em là đôi mắt của anh" được khẳng định hoàn toàn bằng hành động thực chiến.
+
+---
+
+## Ý TƯỞNG 5 — Chủ Đề "Bên Nào Là Nhà?" & Điểm Neo Giữ Main Ở Trái Đất
+
+### 1. Câu hỏi triết lý
+* Primordia cho Trường Sinh sức mạnh, sự kính nể của kẻ khác, và linh hồn Caelia.
+* Trái Đất cho Trường Sinh sự khinh khi, nghèo khó, một cơ thể skinny fat mờ nhạt và gánh nặng cơm áo gạo tiền.
+* Nếu so đo phần hơn, ai cũng sẽ chọn ở lại Primordia. Vậy điều gì giữ chân Trường Sinh?
+
+### 2. Ba Điểm Neo Giữ Ở Trái Đất
+1. **Người ông nội bệnh tật:** Cần thuốc men mỗi ngày, người thân duy nhất nuôi nấng cậu lớn lên.
+2. **Hạ Linh An không đòi hỏi làm anh hùng:** Cô chưa từng yêu cầu cậu phải hoàn mỹ, gánh vác thế giới hay biến thành chiến thần cơ bắp.
+3. **Được phép yếu đuối:** Ở bên Linh An, cậu được phép cởi bỏ lớp giáp phòng thủ, được là một Tiêu Trường Sinh bình thường, mập mạp, vụng về và có quyền thở than mệt mỏi.
+* *(Ghi chú tương lai: Sẽ có arc về sau khi cơ thể ở Trái Đất tiệm tiến phát triển bền vững như thể xác Primordia khi hai thế giới dung hợp).*
+
+### 3. Độc thoại nội tâm cốt lõi (Chuẩn quy tắc thoại ngắn gọn)
+> *"Ở bên kia, mình buộc phải sống. Còn ở đây... có người muốn mình ở lại."*
+

@@ -1,115 +1,117 @@
 # CHƯƠNG 1: KHI THỰC TẠI CHẬP CHỜN
 
-Năm giờ chiều, tiếng trống bế giảng năm học lớp mười một vừa dứt thì trời đổ một cơn mưa rào trái mùa.
+Năm giờ chiều, tiếng trống bế giảng năm học lớp mười một dứt hẳn thì cơn mưa giông trái mùa trút xuống thị trấn.
 
-Nước mưa xối xả đập lên mái tôn của khu nhà xe cũ, bốc lên mùi ngai ngái của đất cát và rêu ẩm lâu ngày. Tiêu Trường Sinh đứng dưới mái hiên, chậm rãi cài lại chiếc cúc cổ tay áo sơ mi đồng phục trắng. Áo hơi rộng so với thân hình một mét bảy mươi có phần đậm người của cậu, vạt áo buông thõng phủ qua thắt lưng quần tây đen. Mái tóc đinh ba phân cắt sát chân tóc làm lộ rõ vầng trán rộng và đôi mắt một mí trầm tĩnh.
+Nước mưa xối xả đập ràn rạt lên mái tôn xi măng của lán xe học sinh, bốc lên mùi ngai ngái nồng đặc của đất cát pha mạt cao su ẩm mục. Tiêu Trường Sinh đứng nép sát vào góc cột bê tông tróc lở, hai tay chậm rãi cài lại chiếc cúc cẳng tay áo sơ mi trắng. Vải áo đã ngả sang màu cháo lòng sau hai năm mặc lại từ anh họ, nách áo sờn một vệt chỉ mạng vụng về. Thân hình cậu hơi đậm, lưng dày và chắc nịch, mái tóc đinh ba phân cắt sát chân tóc để lộ vầng trán vuông và đôi mắt một mí hẹp dài.
 
-Cậu đứng nép hẳn sang một góc cột bê tông, nhường lối đi chính cho từng tốp học sinh đang ùa ra cổng. Tiếng cười đùa, tiếng còi xe máy bóp inh ỏi, tiếng bánh xe nghiến rào rào qua vũng nước tù đọng. Trường Sinh lặng lẽ quan sát từng gương mặt lướt qua trước mắt. Cậu nhớ rõ tên từng người, biết cậu bạn lớp bên vừa trượt bài kiểm tra thể chất, biết cô bé lớp trưởng lớp A2 đang giấu một chiếc ô gãy nan trong ba lô. Cậu nhìn thấy tất cả, nhưng chưa từng bước vào vòng tròn của bất kỳ ai.
+Cậu đứng im lìm như một cái bóng, nhường trọn lối đi giữa lán cho từng tốp học sinh đang hò hét ùa ra cổng trường. Tiếng bánh xe máy cà tàng nẹt pô khói mù mịt, tiếng cười rộ của mấy đứa con gái che chung tấm áo mưa cánh dơi mỏng dính, tiếng bùn nước bắn lép bép dưới đế dép nhựa. Trường Sinh lặng lẽ nhìn từng gương mặt lướt qua. Cậu nhớ rõ thằng Tuấn lớp bên vừa bị điểm liệt môn Toán, nhớ con bé Mai lớp A3 đang giấu chiếc ô gãy nan trong cặp để đợi người đến đón. Cậu nhìn thấy hết những vụn vặt đó, nhưng chưa từng bước chân vào vòng tròn của bất kỳ ai.
 
-Trường Sinh thích sự mờ nhạt này. Một nét vẽ phụ giữa bức tranh phố thị đông đúc, không ai chú ý, không ai bận lòng, an toàn và tự do.
+Ở cái thị trấn Dầu Tiếng heo hút này, làm một kẻ mờ nhạt là cách sống ít tốn sức nhất. Không ai chú ý, không ai hỏi han chuyện gia đình, không ai thắc mắc vì sao sau giờ học cậu lại phải đạp xe thêm mười cây số đi phụ việc ở tiệm vá vỏ xe tải ven Quốc lộ. Với Trường Sinh, cuộc sống chỉ gói gọn trong vài mục tiêu cụ thể: học cho xong cấp ba, kiếm đủ tiền mua thuốc hen suyễn cho ông nội, và tích cóp từng đồng tiền công ít ỏi để chuẩn bị cho năm học lớp mười hai sắp tới.
 
-Đợi khi dòng người thưa dần, cậu mới dắt chiếc xe đạp cào cào cũ kỹ ra khỏi bãi. Khung xe bằng thép đặc tróc sơn từng mảng, xích xe khô dầu kêu lách cách theo từng vòng đạp.
+Đợi sân trường vắng hẳn bóng người, Trường Sinh mới dắt chiếc xe đạp cào cào ra khỏi lán. Khung xe bằng sắt đặc tróc sơn từng mảng loang lổ, xích xe rỉ sét kêu lách cách từng nhịp khô khốc dưới làn nước mưa xối xả. Cậu thò tay vào túi quần bên phải, ngón tay chạm vào chiếc bật lửa Zippo vỏ đồng đã mòn vẹt mép. Đó là vật duy nhất ông nội để lại cho cậu giữ bên mình, trên thân kim loại còn vạch một vết khắc chữ thập nông mờ. Cảm giác kim loại lạnh ngắt chạm vào đầu ngón tay giúp tinh thần cậu vững lại.
 
-Rời khỏi cổng trường trung học Dầu Tiếng, Trường Sinh rẽ sang con đường nhựa liên xã vắng lặng chạy xuyên qua những lô cao su bạt ngàn hướng về xã Minh Tân. Đây là tuyến đường vòng xa hơn mười lăm phút so với trục đường huyện lộ, nhưng yên tĩnh, hai bên đường chỉ có những hàng cao su thẳng tắp rợp bóng và bờ rào phủ đầy cỏ dại của nông trường cũ.
+Rời khỏi cổng trường trung học, cậu rẽ tay lái sang con đường nhựa liên xã DT744 chạy vòng qua mạn đông thị trấn. Đây là đoạn đường chạy xuyên qua những lô cao su bạt ngàn của Nông trường Minh Tân, xa hơn đường huyện lộ mười lăm phút nhưng vắng xe ben chở cát và không có đèn đường. Hai bên mép nhựa là mương thoát nước sâu hoắm phủ đầy cỏ chỉ, mé sau là hàng hàng lớp lớp thân cây cao su xám mốc thẳng tắp, trên thân còn nguyên những đường dao cạo mủ hình xoắn ốc thắt bát sành đã đóng cặn đen kịt.
 
-Tiếng sấm rền từ phía xa báo hiệu cơn mưa thứ hai sắp kéo tới. Trường Sinh đưa tay chỉnh lại chiếc tai nghe dây cắm vào điện thoại, bật một bản nhạc không lời quen thuộc. Nhịp thở của cậu rất đều, ba nhịp hít vào, hai nhịp thở ra. Đó là thói quen cậu duy trì suốt bốn năm nay mỗi khi vận động.
+Sấm rền từng chập đục ngầu từ phía chân trời Bình Dương kéo lại. Gió giật mạnh làm những tán lá cao su trên cao quất vào nhau rào rào, trút từng chùm nước mưa lạnh buốt xuống vai áo cậu. Trường Sinh luồn tay vào túi quần, rút chiếc tai nghe dây cắm vào góc chiếc điện thoại màn hình nứt góc gắn trên ghi-đông xe, bật một đoạn ghi âm tiếng mưa rơi đều đặn. Cậu cần âm thanh đó để che lấp tiếng xích xe khô dầu và giữ nhịp thở ổn định.
 
-Sâu trong lồng ngực cậu, ngay phía sau xương ức, có một khoảng trống kỳ lạ.
+Nhịp thở của cậu giữ nguyên: ba nhịp hít sâu vào bằng mũi, hai nhịp ghìm hơi trong bụng rồi thở chậm qua kẽ răng. Đó là bài tập điều tức cậu học được từ cuốn sổ tay bìa da mủn nát của ông nội, nhét sâu dưới đáy rương đựng cờ lê sắt từ hồi cậu lên mười hai tuổi. Ông nội chưa từng nói cho cậu biết lai lịch của cuốn sổ, chỉ dặn một câu ngắn gọn: "Thở cho đúng thì sống sót được qua bão."
 
-Nó không phải một vết thương, cũng chẳng phải dị tật bẩm sinh. Bác sĩ ở bệnh viện đa khoa từng chụp cộng hưởng từ ba lần và kết luận mọi chỉ số tim phổi của cậu hoàn toàn bình thường. Nhưng Trường Sinh biết rõ khoảng trống ấy tồn tại. Nó giống một khoang rỗng không đáy, hấp thu mọi dao động năng lượng tinh vi xung quanh mà cơ thể người bình thường không thể cảm nhận. Bốn năm tự rèn luyện bằng những bài tập thở và điều tức học được từ cuốn sổ tay cũ nát của ông nội để lại dưới đáy hòm gỗ, Trường Sinh đã quen với việc dùng ý thức bịt chặt khoang rỗng ấy lại, khóa kín nó dưới lớp da thịt trông có vẻ hơi thừa mỡ của một thiếu niên bình thường.
+Sâu trong lồng ngực cậu, ngay sau hõm xương ức, có một khoảng rỗng.
 
-Bỗng nhiên, bản nhạc trong tai nghe vụt tắt.
+Nó không phải vết thương, cũng chẳng phải dị tật tim bẩm sinh. Bác sĩ ở Trung tâm Y tế huyện từng chụp phim hai lần, lần nào cũng lắc đầu bảo phổi và tim cậu khỏe như thợ lặn. Nhưng Trường Sinh biết rõ hốc rỗng ấy nằm ở đó. Nó như một cái giếng cạn câm bặt giữa lồng ngực, lặng lẽ nuốt trọn những đợt rung động li ti của không khí xung quanh mà tai người không nghe được. Bốn năm rèn luyện điều tức, cậu đã quen với việc dùng ý thức bịt chặt miệng giếng đó lại, nén nó xuống dưới lớp cơ ngực dày của một đứa thiếu niên quen bốc vác mủ cao su.
 
-Một tiếng rít bén ngót vang lên đâm thẳng vào màng nhĩ, chói gắt đến mức làm thái dương cậu giật thắt. Trường Sinh vội vàng giật phăng tai nghe ra khỏi tai.
+Đột ngột, bản ghi âm trong tai nghe tắt lịm.
 
-Màn hình chiếc điện thoại cũ gắn trên ghi-đông nhấp nháy liên hồi. Các cột sóng viễn thông biến mất hoàn toàn, đồng hồ hệ thống bắt đầu nhảy số loạn xạ, lúc hiện số âm, lúc đứng khựng ở mốc thời gian không xác định.
+Một tiếng rít chói gắt như mũi khoan kim loại xoáy thẳng vào màng nhĩ. Trường Sinh giật nảy mình, giật phăng tai nghe ra khỏi tai. Vành tai cậu tê rần, một giọt máu li ti ứa ra mép lỗ tai áo ướt đẫm nước mưa.
 
-Trường Sinh bóp phanh, chống chân xuống mặt đường nhựa sũng nước. Cậu ngẩng đầu định xem xét cột điện cao thế phía trước xem có bị chập cháy hay không.
+Màn hình chiếc điện thoại cũ trên ghi-đông nhấp nháy điên cuồng. Các vạch sóng viễn thông rụng sạch. Đồng hồ số ở góc màn hình nhảy loạn xạ: từ 17:15 giật lùi về 00:00, rồi biến thành chuỗi ký tự gãy khúc vô nghĩa.
 
-Chính khoảnh khắc đó, thế giới trước mắt cậu chớp tắt.
+Trường Sinh bóp phanh. Má phanh cao su mòn vẹt nghiến vào vành sắt rít lên một vệt dài trước khi xe dừng hẳn bên lề đường nhựa sũng nước. Cậu chống chân xuống mép đất đỏ, ngẩng đầu nhìn lên đường dây điện trung thế chạy dọc mé mương xem có nhánh cây nào gãy đè lên dây hay không. Không khí xung quanh đặc quánh lại, mùi ozon nồng nặc lấn át cả mùi đất ướt.
 
-Một cú giật hình cực nhanh, kéo dài chưa đầy một phần mười giây.
+Ngay lúc đó, thực tại trước mắt cậu giật cục.
 
-Mặt đường nhựa màu đen bóng loáng nước mưa dưới chân cậu đột ngột biến mất. Thay vào đó là những phiến đá xám nứt nẻ, phủ đầy rêu khô màu tím kỳ quái.
+Một cú chớp cực nhanh, ngắn ngủi như tia lửa quẹt qua đá lửa.
 
-Trường Sinh chớp mắt. Mặt đường nhựa ẩm ướt lập tức quay trở lại, vũng nước mưa vẫn bắn tung tóe quanh mũi giày bata.
+Mặt đường nhựa DT744 đen nhánh loang loáng nước mưa dưới mũi giày bata biến mất. Thay vào đó là mặt sàn đá xám xịt nứt toác, rêu phong khô khốc phủ kín những rãnh nứt sâu hoắm.
 
-"Ảo giác sao?" Cậu lẩm bẩm, đưa mu bàn tay lên day mạnh mi mắt. Cơn mệt mỏi sau những ngày thi học kỳ cuối năm lớp mười một quả thực khiến thần kinh cậu căng thẳng quá mức.
+Trường Sinh chớp mắt. Nước mưa tạt vào mặt rát buốt. Mặt đường nhựa ẩm ướt lập tức quay trở lại, vũng nước mưa dưới chân vẫn bắn bọt bùn đỏ quanh viền lốp xe.
 
-Thế nhưng, cú chớp thứ hai ập đến ngay sau đó. Lần này kéo dài trọn vẹn nửa giây.
+Cậu siết chặt tay lái, lòng bàn tay tứa mồ hôi lạnh hòa cùng nước mưa. "Căng thẳng quá mức rồi..." Cậu tự nhủ, đưa mu bàn tay thô ráp day mạnh hai hốc mắt. Ba đêm thức trắng ôn bài thi môn Sử và Địa có lẽ đã làm dây thần kinh thị giác của cậu chập mạch.
 
-Từ mặt đất trải rộng ra bốn phía, toàn bộ không gian xung quanh đồng loạt biến dạng. Dãy bờ bao bê tông của nông trường cao su Minh Tân bị thay thế bằng những khối phế tích kiến trúc gothic đổ nát khổng lồ, cao vút lên tận trời. Hàng cây bàng trơ trụi ven đường biến thành những gốc cây khô đen đúa, quấn đầy những dải xích sắt rỉ sét to bằng bắp đùi người lớn.
+Nhưng cú giật thứ hai ập đến ngay sau nhịp thở tiếp theo. Lần này, nó kéo dài trọn vẹn nửa giây.
 
-Kinh hoàng hơn cả là bầu trời.
+Không gian xung quanh cậu vặn vẹo như bị bàn tay khổng lồ bẻ gập. Rặng cao su thẳng tắp của Nông trường Minh Tân biến mất. Thay vào vị trí đó là những bức tường đá đổ nát cao vút theo kiến trúc tháp nhọn cổ kính, những khối đá tảng xám đen thủng lỗ chỗ, dây leo khô mọc gai nhọn quấn quanh các thanh sắt rỉ sét to bằng bắp đùi. 
 
-Không còn những đám mây xám nặng trĩu nước mưa của buổi chiều tà thành phố, phía trên đầu cậu là một mái vòm năng lượng khổng lồ màu đỏ tía phát sáng âm ỉ, bao trùm toàn bộ tầm mắt như một cái lồng chim khổng lồ chụp xuống mặt đất.
+Và phía trên đầu, bầu trời u ám của chiều mưa Bình Dương không còn nữa.
+
+Thay vào đó là một mái vòm năng lượng khổng lồ màu đỏ tía phát sáng âm ỉ, bao trùm khắp bốn phía chân trời như một cái nắp nồi nung bằng đồng rực lửa úp chụp xuống cả vùng đất chết.
 
 Tách!
 
-Thực tại giật mạnh trở lại. Tiếng mưa rào xối xả đập vào tai, mùi bùn đất ẩm ướt tràn ngập lồng ngực. Cây cầu vượt đường sắt quen thuộc lại sừng sững trước mặt.
+Thực tại giật giật rồi bật ngược trở về. Mùi lá cao su mục và mùi nước mưa xộc thẳng vào mũi. Tiếng sấm rền từ phía hồ Dầu Tiếng dội lại sau lưng.
 
-Lưng áo Trường Sinh ướt đẫm, không phải vì nước mưa, mà vì mồ hôi lạnh toát ra từ từng lỗ chân lông. Đồng tử cậu co rút lại, nhịp tim tăng vọt lên hơn một trăm nhịp một phút.
+Cả người Trường Sinh lạnh ngắt. Từng sợi lông tơ trên cánh tay dựng đứng. Nhịp tim cậu đập dồn dập vào thành ngực, vượt qua ngưỡng trăm nhịp mỗi phút.
 
-Đây tuyệt đối không phải ảo giác.
+Đây không phải ảo giác của kẻ thiếu ngủ.
 
-Hai khung cảnh hoàn toàn khác biệt đang chồng lấn lên nhau, chập chờn như một chiếc màn hình tivi hỏng bóng đèn hình, liên tục nhảy qua nhảy lại giữa hai kênh phát sóng.
+Hai bức tranh không gian khác nhau đang chồng chéo lên nhau, giật lắc liên tục như một chiếc bóng đèn huỳnh quang sắp cháy tim, chập chờn giữa thực và ảo.
 
-Trường Sinh không chần chừ thêm một giây nào. Cậu quay ngoắt đầu xe đạp, dồn toàn bộ trọng lượng cơ thể lên bàn đạp, đạp thục mạng ngược về hướng đại lộ đông đúc. Cậu muốn rời khỏi con đường ven đường sắt này ngay lập tức. Bản năng sinh tồn mách bảo cậu rằng ranh giới của sự an toàn đang tan vỡ với tốc độ chóng mặt.
+Không do dự một giây, Trường Sinh gập người bẻ ngoắt tay lái, dồn trọng lượng đạp mạnh bàn đạp quay ngược đầu xe về hướng thị trấn. Cậu phải rời khỏi đoạn đường vắng này, chạy ra ngã ba có khu dân cư đông đúc. 
 
-Nhưng không gian không cho phép cậu chạy thoát.
+Nhưng khoảng không gian dưới bánh xe không để cậu chạy thoát.
 
-Tần suất nhấp nháy tăng vọt. Cứ ba nhịp thở, thực tại lại giật lắc một lần.
+Nhịp chớp tắt tăng tốc. Cứ hai bước đạp, thế giới lại giật nảy một lần.
 
-Một giây. Hai giây. Ba giây.
+Một giây. Ba giây. Năm giây.
 
-Khoảng thời gian thế giới xa lạ kia xuất hiện ngày càng kéo dài. Tiếng mưa rơi của Trái Đất đan xen hỗn loạn với tiếng gió rít khô khốc luồn qua những khe đá đổ nát. Tiếng còi xe máy từ xa xăm bị bóp nghẹt, thay bằng tiếng rền rĩ cơ khí trầm đục vang lên từ tận đáy lòng đất của thế giới bên kia.
+Khoảng thời gian thế giới đá vụn kia xuất hiện ngày càng dài ra. Tiếng mưa rào nhiệt đới đan xen với tiếng gió khô khốc rít qua các khe tường đá nứt nẻ. Mùi đất ẩm bị lấn át bởi mùi tro bụi kim loại khét lẹt và mùi rêu mốc mục rỉ của một thành phố bỏ hoang từ nhiều thập kỷ.
 
 Rắc!
 
-Mặt đường nhựa dưới bánh xe Trường Sinh nứt toác. Những tia lửa điện màu tím rạch ngang không khí, xé toạc các phân tử nước mưa thành những vệt khói trắng bốc nghi ngút.
+Mặt đường nhựa dưới lốp trước nứt toác một đường rãnh sâu. Một phiến đá xám gồ ghề từ cõi hư không trồi thẳng lên mặt đất, hất tung bánh trước xe đạp cào cào.
 
-Chiếc xe đạp vấp phải một gờ đá xám đột ngột trồi lên giữa hư không. Bánh trước gãy gập, cả người Trường Sinh văng khỏi xe, ngã nhào xuống nền đất. Cậu lăn hai vòng trên mặt đường, lớp da ở khuỷu tay và đầu gối cọ xát vào đá dăm rách toạc, đau rát bỏng cháy.
+Ghi-đông vặn ngược sang một bên. Trường Sinh mất đà, cả người lẫn chiếc xe văng mạnh ra khỏi mép đường, lăn nhào xuống bờ mương đất đỏ ven rừng cao su. Cậu lăn hai vòng trên lớp sỏi nhọn và rễ cây trồi lên mặt đất. Khuỷu tay trái đập mạnh vào mép đá sắc lẹm rách toạc một mảng da lớn, máu tươi ứa ra hòa vào bùn cát xót buốt nhức nhối. Đầu gối phải va vào khung thép xe đạp kêu cụp một tiếng, nhức nhối đến mức cậu phải nghiến chặt quai hàm để không bật ra tiếng rên.
 
-Trường Sinh gượng dậy, thở dốc.
+Trường Sinh chống tay gượng ngồi dậy, lưng dựa vào gốc cây cao su sần sùi.
 
-Trước mắt cậu lúc này, hai thế giới đã không còn nhấp nháy nữa, mà hòa trộn trực tiếp vào nhau thành một cơn ác mộng vặn xoắn. Một nửa dãy nhà kho của nông trường cao su vẫn đứng đó, nhưng nửa còn lại đã biến thành một bức tường thành cổ kính thủng lỗ chỗ, trên mặt đá khắc đầy những ký tự phát sáng màu lam nhạt. Bầu trời chia đôi ranh giới: một bên mây đen vần vũ sấm chớp Trái Đất, một bên là mái vòm đỏ tía rực lửa giam cầm.
+Trước mắt cậu lúc này, hai cảnh tượng đã khóa chặt vào nhau thành một mớ hỗn độn méo mó. Một nửa trạm giao mủ cao su cũ của nông trường vẫn đứng đó với bức tường gạch quét vôi vàng bong tróc, nhưng nửa còn lại đã bị nuốt chửng bởi chân tháp đá nhọn khổng lồ bám đầy mạng nhện và gai nhọn. Bầu trời bị xé làm đôi: bên trái là mây giông xám xịt của Trái Đất, bên phải là mái vòm đỏ tía cháy âm ỉ không có lấy một giọt mưa rơi.
 
-Sâu trong lồng ngực Trường Sinh, khoang rỗng sau xương ức rung chuyển điên cuồng.
+Sâu trong lồng ngực Trường Sinh, hốc rỗng sau xương ức bắt đầu co giật.
 
-Nó không còn im lìm chịu sự kìm hãm của các bài tập điều tức nữa. Dưới sự kích thích của sự xáo trộn không gian tột cùng, khoang rỗng mở rộng ra, phát ra một tần số cộng hưởng vô hình. Ấn ký hình xoáy ốc trên da thịt cậu tỏa ra ánh sáng trắng tinh khiết, xuyên thấu qua lớp áo sơ mi ướt sũng.
+Nó không còn là cái giếng cạn câm nín nữa. Dưới áp lực của không gian bị xé rách, hốc rỗng ấy mở toang miệng hang. Một luồng khí lạnh buốt từ sâu thẳm lồng ngực tràn ra các mạch máu, làm các đầu ngón tay của cậu tê dại.
 
-Cậu cảm nhận được nó.
+Cậu cảm nhận được một thứ áp lực khủng khiếp đang hình thành từ phía bên kia vách ngăn. 
 
-Một thứ gì đó ở thế giới bên kia — cách xa hàng ngàn dặm qua vách ngăn không gian — đang vận hành tới giới hạn cực đại. Đó là một áp lực cơ khí ma thuật khổng lồ, một khối năng lượng nén chặt sắp sửa phát nổ.
+Ở nơi sâu nhất của thành phố đổ nát dưới mái vòm đỏ tía, có một cỗ máy hoặc một nguồn năng lượng cổ xưa nào đó đang quay cuồng đến điểm cực hạn. Một khối xung lực khổng lồ bị nén chặt, ma sát tạo ra những đợt sóng chấn động vô hình quét qua ranh giới giữa hai thế giới.
 
-Khoang rỗng của cậu không sợ hãi khối năng lượng đó. Nó khao khát nuốt chửng, nó bắt nhịp với vụ nổ sắp xảy ra!
+Hốc rỗng trong ngực cậu bắt đầu cộng hưởng với sóng chấn động đó. Nó giống như một lỗ hút gió chân không, bị hút ngược về phía tâm chấn của vụ nổ sắp sửa bùng phát ở thế giới bên kia.
 
-"Dừng lại... mau dừng lại!" Trường Sinh nghiến chặt răng, hai tay ôm chặt lấy lồng ngực, cố gắng vận dụng mọi ý chí để khóa chặt khoang rỗng. Nhưng luồng sóng năng lượng từ phía bên kia quá đỗi áp đảo, vượt xa khả năng kiểm soát của một thiếu niên mười bảy tuổi.
+"Đóng lại... thở ra... ba nhịp hít, hai nhịp nén..." Trường Sinh cắn chặt môi đến bật máu, hai tay bấu chặt vào ngực áo sơ mi ướt sũng, cố dồn hết ý thức để ghìm giữ nhịp thở, khóa chặt miệng hốc rỗng. Nhưng luồng chấn động từ bên kia quá dữ dội, xé tan lớp phong tỏa của cậu như gió bão quét qua mạng nhện mỏng manh.
 
-ẦM!
+Một tiếng nổ chát chúa vang lên xé rách tầng không.
 
-Một tiếng nổ xé rách màng trời vang lên.
+Âm thanh đó không phát ra từ bầu trời Dầu Tiếng, mà dội thẳng tới từ đáy sâu của thành phố tàn tích bên kia.
 
-Âm thanh đó không phát ra từ Trái Đất. Nó dội tới từ sâu trong phế tích đô thị của thế giới bên kia vách ngăn.
+Một cột sáng tím sẫm đâm toạc mái vòm đá phía xa, kéo theo một làn sóng xung kích không gian quét dọc mặt đất. Nơi làn sóng tràn qua, vách ngăn vô hình giữa hai thế giới vỡ toang từng mảng lớn như một tấm kính dày bị đập vỡ vụn.
 
-Một cột sáng tím đen khổng lồ đâm toạc mái vòm tàn tích phía xa xăm, tạo ra một làn sóng xung kích không gian quét ngang qua mọi chiều kích. Nơi làn sóng đi qua, vách ngăn vô hình ngăn cách hai thế giới vỡ vụn từng mảng lớn, tựa tấm gương pha lê bị búa tạ giáng thẳng vào tâm.
+Vết nứt không gian xé toạc ngay trước mặt Trường Sinh, cách chỗ cậu ngã chưa đầy ba mét.
 
-Vết rách không gian xuất hiện ngay trước mặt Trường Sinh.
+Nó là một khe rách thẳng đứng rộng hơn chục mét, mép khe nứt cuốn xoáy những tia chớp tím sẫm ngoằn ngoèo bốc khói đen kịt. Bên trong miệng vết rách là một hố sâu hun hút tối tăm, không có ánh sáng, không có đáy.
 
-Nó rộng hơn mười mét, mép ngoài méo mó cuốn xoáy dữ dội, bên trong tối om không đáy, chỉ có những sợi xích sét tím đen uốn lượn như bầy rắn độc.
+Luồng gió hút chân không bùng lên dữ dội.
 
-Lực hút khủng khiếp bùng nổ.
+Đất đỏ dưới chân, những mảng nhựa đường vỡ vụn, cành cao su gãy mục và chiếc xe đạp cào cào méo mó đều bị cuốn phăng vào lòng vết rách.
 
-Mặt đường nhựa, cột đèn chiếu sáng, những mảng tường gạch đổ nát của Trái Đất bị bứng gốc hoàn toàn, cuốn bay vào tâm xoáy.
+Thân hình Trường Sinh bị nhấc bổng khỏi mặt đất. Cậu vung hai tay, cố bám chặt vào một gốc cao su gần mép mương, nhưng vỏ cây ướt trơn tuột khỏi những ngón tay trầy xước rướm máu. Cặp sách sau lưng cậu đập mạnh vào mạn sườn trước khi cả người cậu bị kéo tuột về phía miệng hố đen ngòm.
 
-Cơ thể Trường Sinh bị nhấc bổng lên khỏi mặt đất. Cậu vung tay quẫy đạp, cố tóm lấy gốc cây bàng ven đường, nhưng thân cây cổ thụ đã bị lực kéo bẻ gãy gập trong chớp mắt.
+Lực hút từ hốc rỗng trong lồng ngực nối thẳng vào tâm chấn bên kia vết nứt, biến cậu thành một mũi tên lao thẳng qua ranh giới.
 
-Ấn ký xoáy ốc trong ngực cậu bừng sáng chói lòa. Lực cộng hưởng giữa khoang rỗng và vụ nổ từ phía bên kia tạo thành một sợi dây thừng vô hình, kéo thẳng cậu về phía miệng hố đen.
+Ngay giữa dòng xoáy không gian hỗn loạn đang cuốn phăng đất đá, một đốm sáng mờ ảo màu lam tím — trôi dạt vô định giữa tầng hư không sâu thẳm — bất thần bị giật mạnh bởi lực hút phát ra từ sau xương ức của Trường Sinh. Tựa như tìm thấy một điểm neo bấu víu giữa cơn bão táp, đốm sáng ấy bắn xuyên qua vạt áo rách, lọt thỏm vào sâu trong hốc rỗng lồng ngực cậu. Một cảm giác tê buốt kỳ lạ lập tức giật nhói lên cuống tim.
 
-Trong khoảnh khắc bị hút qua ranh giới, Trường Sinh ngoái đầu nhìn lại.
+Trong một khoảnh khắc ngắn ngủi khi cơ thể vượt qua mép nứt, Trường Sinh ngoái đầu nhìn lại lần cuối.
 
-Phía sau cậu, mảnh đất Dầu Tiếng với những ánh đèn vàng ấm áp của xóm ấp vùng quê đang thu nhỏ dần, rồi vụt tắt khi vết nứt không gian khép lại với một tiếng sấm rền vang.
+Sau lưng cậu, những rặng cao su mờ ảo của quê nhà, vệt đèn pha le lói của một chiếc xe máy vừa chạy qua tỉnh lộ DT744 phía xa, tất cả thu nhỏ lại thành một đốm sáng nhạt nhòa rồi tắt ngấm khi vết rách không gian khép miệng lại với một tiếng nổ đục ngầu.
 
-Bóng tối tuyệt đối ập xuống, đè nén mọi giác quan. Trọng lực biến mất, phương hướng tan biến, chỉ còn lại cơn đau dữ dội khi từng tế bào trong cơ thể bị xé rách rồi tái cấu trúc giữa dòng chảy không - thời gian hỗn loạn.
+Trọng lực dưới chân biến mất. Không khí ngột ngạt tràn ngập mùi tro bụi kim loại và mùi rêu mốc cổ xưa xộc thẳng vào cuống họng. Cơ thể cậu bị cuốn xoáy vào một dòng chảy hỗn loạn, các khớp xương nhức buốt như bị hàng ngàn bàn tay vô hình kéo giằng về bốn phía.
 
-Ý thức của Tiêu Trường Sinh lịm dần khi cậu rơi tự do vào vực sâu thăm thẳm của Primordia.
+Ý thức của Tiêu Trường Sinh tối sầm lại khi cậu rơi tự do qua màn đêm dày đặc, hướng thẳng xuống những phế tích đá xám đổ nát của thế giới hoang tàn bên kia vách ngăn.

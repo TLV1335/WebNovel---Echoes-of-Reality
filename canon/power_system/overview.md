@@ -1,6 +1,6 @@
 # TỔNG QUAN HỆ THỐNG SỨC MẠNH (POWER SYSTEM OVERVIEW)
 
-> **NGUYÊN TẮC BẤT DI BẤT DỊCH:** Tác phẩm xây dựng thế giới quan theo trường phái **Science-Fantasy & Steampunk Ma thuật**. **TUYỆT ĐỐI KHÔNG HỆ THỐNG / GAME**, không có bảng chỉ số, không giao diện, không kho đồ không gian, không thông báo nhiệm vụ. Mọi tiến bộ sức mạnh đều đến từ thực chiến sinh tử, quan sát, thử sai, bản năng thích nghi và sự đồng hành của Linh vật M.
+> **NGUYÊN TẮC BẤT DI BẤT DỊCH:** Tác phẩm xây dựng thế giới quan theo trường phái **Science-Fantasy & Steampunk Ma thuật**. **TUYỆT ĐỐI KHÔNG HỆ THỐNG / GAME**, không có bảng chỉ số, không giao diện, không kho đồ không gian, không thông báo nhiệm vụ. Mọi tiến bộ sức mạnh đều đến từ thực chiến sinh tử, quan sát, thử sai, bản năng thích nghi và sự đồng hành của Hirra.
 
 ---
 
@@ -20,5 +20,5 @@
 * [[canon/power_system/master_power_system|0. Master Power System]] — Toàn văn nghiên cứu hệ thống sức mạnh gốc mở rộng.
 * [[canon/power_system/primordial_mana|1. Primordial Mana]] — 3 tính chất nguy hiểm, cơ chế niệm phép và 4 hệ nguyên tố.
 * [[canon/power_system/earth_mana_core_and_quirks|2. Earth Mana Core & Quirks]] — Sự thích nghi sau Đại Phản Bội, năng lực cá nhân hóa và luật im lặng.
-* [[canon/power_system/void_core_and_combat|3. Void Core & Combat (Tiêu Trường Sinh)]] — Vị thế 1/8 tỷ, song hành Vô - Cuồng, Linh vật M và Nắm đấm Haki vũ trang.
+* [[canon/power_system/void_core_and_combat|3. Void Core & Combat (Tiêu Trường Sinh)]] — Vị thế 1/8 tỷ, song hành Vô - Cuồng, Hirra và Nắm đấm Haki vũ trang.
 * [[canon/power_system/primordia_magic_schools|4. Primordia Magic Schools]] — Thánh quốc, Vương quốc trung cổ, Solavane và Liên bang pháo đài Steampunk.

@@ -25,3 +25,12 @@
 * [[canon/world_building/great_betrayal_history|1. Great Betrayal History]] — Nguồn gốc chia cắt hàng triệu năm, sự hy sinh của tổ tiên và món nợ máu 142 thế hệ.
 * [[canon/world_building/veil_mechanics_and_convergence|2. Veil Mechanics & Convergence]] — Bản chất bức tường không gian, cỗ máy Pendelton và 3 giai đoạn tiệm tiến.
 * [[canon/world_building/factions_and_institutions|3. Factions & Institutions]] — Tập đoàn tài phiệt Trái Đất, Thánh quốc Primordia, Thế Lực Thứ Ba và các nhóm trừ tà tự do.
+
+---
+
+## ⚠️ NGUYÊN TẮC GÓC NHÌN (POV CONSTRAINTS)
+* **Tiêu Trường Sinh KHÔNG BIẾT tên gọi "Primordia" trong các chương đầu Arc 1:**
+  * Thuật ngữ "Primordia" là danh từ từ tài liệu tổng thể và góc nhìn tác giả/thế giới quan.
+  * Trong tâm trí và lời nói của Trường Sinh lúc mới xuyên không: cậu hoàn toàn mù tịt về tên gọi của đại lục này. Cậu chỉ coi đây là một thế giới chết chóc, đổ nát bên ngoài thực tại.
+  * Cậu chỉ được biết danh xưng "Primordia" sau khi giao tiếp với người sống sót bản địa tại Khu Ổn Định.
+

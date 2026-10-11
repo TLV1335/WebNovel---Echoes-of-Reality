@@ -13,7 +13,11 @@
   * [[logs/daily_log/2026/2026-10-06_setup_canon_remove_system|2026-10-06: Setup Canon & Remove System]]
   * [[logs/daily_log/2026/2026-10-07_sync_index_modularize_lore|2026-10-07: Sync Index & Modularize Lore]]
 * [[canon/style|Style Guide]] — Quy chuẩn văn phong, hệ thống xưng hô, danh sách từ ngữ cấm (AI Cliché Blacklist) và khung độ dài 2.500 – 3.500 từ.
+* [[canon/dialouge_rules|Dialogue Rules]] — 4 Quy tắc thoại then chốt: Thoại dưới áp lực (<10–12 tiếng), không nhồi lore, tiết chế miêu tả, phong cách thoại cụt lủn & nội tâm chọn lọc của Trường Sinh.
+* [[canon/information_reveal_rules|Information Reveal Rules]] — Quy tắc kiểm soát tiết lộ thông tin: POV ngôi 3 giới hạn, cấm tác giả toàn tri giải thích thay, quy tắc 1 đáp 2 hỏi, Show-Not-Tell qua triệu chứng thể xác.
 * [[.agents/rules/chapter_workflow|Chapter Workflow]] — Quy trình bắt buộc trước - trong - sau khi chấp bút từng chương.
+
+
 
 ---
 
@@ -28,7 +32,7 @@
 * [[canon/power_system/master_power_system|Master Power System]] — Toàn văn hệ thống sức mạnh gốc mở rộng.
 * [[canon/power_system/primordial_mana|Primordial Mana]] — 3 tính chất (Ăn mòn, Áp chế, Cuồng loạn), cơ chế thuyết phục mana.
 * [[canon/power_system/earth_mana_core_and_quirks|Earth Mana Core & Quirks]] — Tiến hóa sau Đại Phản Bội, năng lực cá nhân hóa 1v1.
-* [[canon/power_system/void_core_and_combat|Void Core & Combat]] — Tiêu Trường Sinh: Vị thế 1/8 tỷ, song hành Vô - Cuồng, Linh vật M, nắm đấm Haki vũ trang.
+* [[canon/power_system/void_core_and_combat|Void Core & Combat]] — Tiêu Trường Sinh: Vị thế 1/8 tỷ, song hành Vô - Cuồng, Hirra, nắm đấm Haki vũ trang.
 * [[canon/power_system/primordia_magic_schools|Primordia Magic Schools]] — Thánh quốc, Vương quốc trung cổ, Solavane và Steampunk Niệm.
 
 ### 2. Địa Danh & Bối Cảnh (Places)
@@ -38,7 +42,8 @@
   * [[canon/places/earth/dau_tieng_binh_duong|Dầu Tiếng, Bình Dương]] — Xã Minh Tân, trường THPT Dầu Tiếng, rừng cao su, lòng hồ.
   * [[canon/places/earth/thu_dau_mot_hcmc|Thủ Dầu Một & TP. Hồ Chí Minh]] — Đô thị trừ tà ngầm, trạm xe buýt, căn hộ đời thường.
 * **Primordia:**
-  * [[canon/places/primordia/ruined_metropolis_arc_1|Ruined Metropolis (Arc 1)]] — Thành phố chết 20 năm, siêu trận pháp đỏ tía, cống ngầm, Khu Ổn Định.
+  * [[canon/places/primordia/ruined_metropolis_arc_1|Siêu Đô Thị Silva (Arc 1)]] — Thành phố tháp đá phế tích ("Manhattan trung cổ") bị cô lập 20 năm (5 năm qua bị bỏ rơi), siêu trận pháp đỏ tía, cống ngầm, Khu Ổn Định.
+  * [[canon/places/primordia/grimoire_kingdom|Vương Quốc Grimoire]] — Quốc gia phép thuật trung cổ nơi tọa lạc của siêu đô thị Silva, đặt tên sau cuộc đảo chính của hai anh em họ Grim.
   * [[canon/places/primordia/steampunk_crawler_federation|Steampunk Crawler Federation (Arc 3)]] — Sa mạc ma thú, lâu đài di động bánh xích.
   * [[canon/places/primordia/underwater_city|Underwater City (Arc 3A)]] — Tàn tích cổ sâu dưới biển, tàu ngầm tập đoàn Trái Đất.
   * [[canon/places/primordia/merfolk_island|Merfolk Island (Arc 3B)]] — Hòn đảo nổi cô lập, vương quốc Người Cá khép kín.
@@ -52,13 +57,20 @@
 * [[canon/world_building/veil_mechanics_and_convergence|Veil Mechanics & Convergence]] — Vết sẹo 3.000 năm, cỗ máy Pendelton, tiến trình 3 giai đoạn.
 * [[canon/world_building/factions_and_institutions|Factions & Institutions]] — Tập đoàn Trái Đất, Thánh quốc, Thế Lực Thứ Ba, nhóm trừ tà tự do.
 
+### 4. Hệ Thống Chủng Tộc (Races)
+* [[00_Index/Races|Chỉ Mục Chủng Tộc]] — Tra cứu nhanh 8 đại chủng tộc và sinh học Primordia.
+* [[canon/races/master_races|Master Races]] — Toàn văn so sánh 8 chủng tộc, định kiến xã hội và quan hệ sinh thái.
+* [[canon/races/elf|Elf (Tiên Tộc)]] | [[canon/races/dwarf|Dwarf (Người Lùn)]] | [[canon/races/orc|Orc (Thú Tộc Du Mục)]] | [[canon/races/human|Human (Nhân Tộc)]]
+* [[canon/races/dragonborn|Dragonborn / Lizardfolk]] | [[canon/races/beastfolk|Beastfolk]] | [[canon/races/undead|Undead]] | [[canon/races/merfolk|Merfolk / Siren]]
+
 ---
 
 ## 👥 III. HỒ SƠ NHÂN VẬT (CHARACTERS)
 * [[00_Index/Character|Chỉ Mục Nhân Vật]] — Tổng mục tra cứu hồ sơ nhân vật toàn tác phẩm.
 * [[canon/characters/overview|Characters Overview]] — Bảng phân loại khoa học nhân vật.
 * **Tuyến Nhân Vật Chính & Nữ Chính:**
-  * [[canon/characters/main_actors/tieu_truong_sinh|Tiêu Trường Sinh / Lucien Varetti]] — Nam chính: "Lỗ Hổng" 1/8 tỷ, nắm đấm Haki vũ trang, 2 dạng thể xác (skinny fat 1m70 vs 1m80 tạc tượng).
+  * [[canon/characters/main_actors/tieu_truong_sinh|Tiêu Trường Sinh / Lucien Varetti]]
+  * [[canon/characters/main_actors/hirra|Hirra]] — Hirra đồng hành: Mảnh vỡ thần linh Trái Đất, bộ lọc mana, đốm sáng -> hình hài mèo. — Nam chính: "Lỗ Hổng" 1/8 tỷ, nắm đấm Haki vũ trang, 2 dạng thể xác (skinny fat 1m70 vs 1m80 tạc tượng).
   * [[canon/characters/main_actors/caelia_solavane|Caelia Solavane (Li-a)]] — Nữ chính 1 (Primordia): Vũ công Solavane, linh hồn xanh lá gắn kết, người chữa lành Hồi 3.
   * [[canon/characters/main_actors/ha_linh_an|Hạ Linh An (An An)]] — Nữ chính 2 (Trái Đất): Nàng thiên nga vượt qua biến cố mụn cóc, học chung lớp 12, bộ óc giải mã cỗ máy Hồi 3.
 * **Tuyến Phản Diện Chiều Sâu:**
@@ -89,7 +101,8 @@
   * [[chapters/Hoi_1/Arc_01/chuong_001|Chương 1: Khi Thực Tại Chập Chờn]] — Tan trường bế giảng lớp 11 tại Dầu Tiếng, glitch không gian, cỗ máy nổ tung kéo Trường Sinh xuyên không.
   * [[chapters/Hoi_1/Arc_01/chuong_002|Chương 2: Bầu Trời Màu Tro Tàn]] — Thức giấc giữa siêu đô thị phế tích, bầu trời giam cầm đỏ tía, chiếc bật lửa của ông nội, tiếng lê bước trong bóng tối.
   * [[chapters/Hoi_1/Arc_01/chuong_003|Chương 3: Tiếng Cào Trong Bóng Tối]] — Chạm trán zombie đột biến ma tinh tím, bản năng sinh tồn thực dụng, cơn đau thắt từ nội tạng.
-  * *Chương 4+: Xem kế hoạch trong Chapter Contracts Arc 1.*
+  * [[chapters/Hoi_1/Arc_01/chuong_004|Chương 4: Cơn Cắn Xé Của Trời Đất]] — Cơn sốc phản vệ khí tức lạ dưới cống ngầm Silva, bật lửa Zippo & bài thở điều tức Dầu Tiếng, hốc rỗng trơ trụi và đốm sáng bí ẩn trôi ra khỏi lồng ngực.
+  * *Chương 5+: Xem kế hoạch trong Chapter Contracts Arc 1.*
 
 ---
 

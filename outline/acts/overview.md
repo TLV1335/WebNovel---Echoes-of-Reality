@@ -18,7 +18,7 @@
 * **Phong cách chiến đấu:** Nắm đấm bọc mana "Vô" nén cực hạn, kết hợp cận chiến thực dụng, không màu mè nhưng uy lực hủy diệt khủng bố.
 
 ### 2. Linh Vật "M" (Spirit Familiar) — Cầu Nối Sinh Mệnh
-* **Tên gọi & Nguồn gốc:** Linh vật M (viết tắt của Mana / Mystery), nguồn gốc bí ẩn sẽ được mở rộng ở các hồi sau.
+* **Tên gọi & Nguồn gốc:** Hirra (viết tắt của Mana / Mystery), nguồn gốc bí ẩn sẽ được mở rộng ở các hồi sau.
 * **Vai trò sống còn:** Là cầu nối giúp Trường Sinh chế ngự, làm ổn định và thanh lọc Nguyên Mana khi nó tràn vào cơ thể, áp chế Nguyên Mana những lúc nó bạo loạn không nghe lời.
 * **Nguồn gốc:** Một mảnh mana tự nhiên sơ sinh của Primordia bị kẹt lại trong cơ thể Trường Sinh trong khoảnh khắc cậu bị cỗ máy không gian lôi qua vách ngăn.
 * **Bản chất:** Không phải thú cưng hay công cụ ma thuật. Nó là một mảnh năng lượng gắn liền với sinh mệnh Trường Sinh nhưng sở hữu **ý chí và tri giác độc lập**.

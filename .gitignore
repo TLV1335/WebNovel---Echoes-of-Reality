@@ -3,3 +3,8 @@
 skills-lock.json
 .obsidian
 .trash
+
+
+
+# Ignore Smart Environment folder
+.smart-env

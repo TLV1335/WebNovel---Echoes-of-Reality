@@ -19,7 +19,7 @@
   * **Trái Đất (Bối cảnh Việt Nam):** Chính là Trái Đất hiện đại thực tế của chúng ta (nhà chọc trời, internet, công nghệ số, súng đạn hiện đại). Điểm xuất phát của nhân vật chính là tại **xã Minh Tân, huyện Dầu Tiếng, tỉnh Bình Dương**. Mana tồn tại duy nhất dưới dạng cô đọng bên trong cơ thể (**Hạch Mana**). Đây là bí mật tối mật chỉ một số ít gia tộc thượng tầng và tập đoàn ngầm nắm giữ; người thường để lộ sẽ bị xử tử ngay lập tức.
   * **Primordia:** Đại lục cội nguồn của nhân loại sau hàng triệu năm chia cắt và đấu tranh sinh tồn; sở hữu nền văn minh cực kỳ đa dạng: pháo đài/lâu đài di động bánh xích khổng lồ chạy bằng động cơ hơi nước ma pháp, các vương quốc ma thuật trung cổ, Thánh quốc quý tộc nghiêm ngặt và những vùng đất quỷ dữ hoang tàn.
 * **Tuyến tình cảm:** 1 Nam chính – 2 Nữ chính (2 người vợ đại diện cho 2 nền văn minh: một người gắn bó từ Primordia, một người ở Trái Đất). Tình cảm chân thành, sâu sắc, ngọt ngào và thủy chung tuyệt đối; không cẩu huyết, không hiểu lầm rẻ tiền.
-* **Nguyên tắc nhân vật chính:** **TUYỆT ĐỐI KHÔNG HỆ THỐNG / GAME**. Không có bảng kỹ năng, không có giao diện, không có kho đồ không gian, không có nhiệm vụ. Main tự học qua thực chiến sinh tử, quan sát, thử sai và sự đồng hành của Linh vật M.
+* **Nguyên tắc nhân vật chính:** **TUYỆT ĐỐI KHÔNG HỆ THỐNG / GAME**. Không có bảng kỹ năng, không có giao diện, không có kho đồ không gian, không có nhiệm vụ. Main tự học qua thực chiến sinh tử, quan sát, thử sai và sự đồng hành của Hirra.
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## 4. POV & Tone
 * **POV (Góc nhìn trần thuật):**
-  * **Trục xương sống (85–90%):** Ngôi thứ 3 Giới hạn (Third-person Limited), bám sát hành trình, giác quan và nội tâm của Tiêu Trường Sinh / Lucien Varetti.
+  * **Trục xương sống (85–90%):** Ngôi thứ 3 Giới hạn (Third-person Limited), bám sát hành trình, giác quan và nội tâm của Tiêu Trường Sinh / Lucien Varetti. **Quy tắc tuyệt đối:** Độc giả chỉ được biết những gì main biết. Nếu main không biết, độc giả không biết. Nếu main hoang mang, độc giả hoang mang. Nếu main sợ, độc giả sợ. Tác giả không được tiết lộ trước khi main khám phá.
   * **Cắt cảnh chiến lược (10–15%):** Các đoạn chuyển góc nhìn ngắn (Interludes có ký hiệu ngăn cách rõ ràng), thể hiện suy nghĩ của nhân vật phụ, kẻ địch hoặc người vợ để làm nổi bật thế giới đa chiều và động cơ riêng biệt của từng nhân vật (theo tinh thần tác giả ONE).
 * **Tone (Sắc thái bao trùm):**
   * **Chủ đạo (70% Sáng):** Tươi sáng, nhiệt huyết phiêu lưu, tò mò khám phá vùng đất mới, sự tự tin bản lĩnh, tương tác đời thường dí dỏm và tình yêu lãng mạn ấm áp.
@@ -52,6 +52,8 @@
 3. **CẤM sa đà vào chính trị khô khan / giải thích dài dòng:** Không biến tiểu thuyết thành các phiên họp nghị viện lê thê hàng chục chương; chính trị chỉ đóng vai trò làm khung logic nền cho hành động và xung đột.
 4. **CẤM dìm hàng cực đoan một bên thế giới:** Tôn trọng bản sắc, sức mạnh và trí tuệ của cả hai nền văn minh Trái Đất và Primordia.
 5. **CẤM buff bẩn vô căn cứ (Asspull) & CẤM yếu tố Game/Hệ thống:** Mọi chiến thắng của main đều phải bắt nguồn từ sự kết hợp sáng tạo giữa 2 dòng mana, trực giác thực chiến, kinh nghiệm thử sai, chiến thuật cận chiến/mai phục và cái giá tương xứng.
+6. **CẤM tác giả toàn tri tiết lộ thông tin sớm (No Info-dumping / No Author Omniscience):** Tuyệt đối không đứng từ trên cao giải thích cơ chế thế giới, mana hay bản chất hiện tượng khi main chưa tự khám phá. Không dùng NPC làm loa phát thanh giải thích hộ tác giả; không cho main suy luận vượt quá trải nghiệm thực tế (Xem chi tiết tại `canon/information_reveal_rules.md`).
+
 
 ---
 

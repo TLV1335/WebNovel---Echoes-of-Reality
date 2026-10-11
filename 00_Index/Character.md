@@ -9,7 +9,7 @@
 
 | Nhân vật | Danh xưng / Tên khác | Phe phái / Xuất thân | Vai trò | Trạng thái | Năng lực cốt lõi | Hồ sơ chi tiết |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Tiêu Trường Sinh** | Lucien Varetti | Trái Đất (Dầu Tiếng, Bình Dương) | Nam chính | Còn sống | "Lỗ Hổng" 1/8 tỷ, Nắm đấm Haki bọc Nguyên Mana, Linh vật M | [[canon/characters/main_actors/tieu_truong_sinh\|Xem hồ sơ]] |
+| **Tiêu Trường Sinh** | Lucien Varetti | Trái Đất (Dầu Tiếng, Bình Dương) | Nam chính | Còn sống | "Lỗ Hổng" 1/8 tỷ, Nắm đấm Haki bọc Nguyên Mana, Hirra | [[canon/characters/main_actors/tieu_truong_sinh\|Xem hồ sơ]] |
 | **Caelia Solavane** | Li-a | Primordia (Cổ tộc Solavane) | Nữ chính 1 | Linh hồn gắn kết | Vũ đạo thiêng Solavane, Chữa lành & Điều hòa Mana | [[canon/characters/main_actors/caelia_solavane\|Xem hồ sơ]] |
 | **Hạ Linh An** | An An | Trái Đất (Việt Nam) | Nữ chính 2 | Còn sống | Thiên tài toán học/khoa học, Giải mã cỗ máy Pendelton | [[canon/characters/main_actors/ha_linh_an\|Xem hồ sơ]] |
 | **Valerius Aurelius** | Đại Giáo Chủ Valerius | Thánh quốc Primordia | Phản diện chính 1 | Còn sống | Đại pháp sư Thánh quang, Gánh nặng 142 thế hệ đòi nợ máu | [[canon/characters/main_actors/valerius_aurelius\|Xem hồ sơ]] |

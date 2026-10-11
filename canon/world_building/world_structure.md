@@ -120,7 +120,7 @@ Cốt truyện loại bỏ hoàn toàn mô-típ "đấng cứu thế được ch
 * **Tên gọi tạm thời:** **M** (viết tắt của *Mana* hoặc *Mystery*).
 * **Nguồn gốc:** Chưa xác định (sẽ được mở rộng và hé lộ ở các Hồi sau).
 * **Vai trò sống còn đối với Tiêu Trường Sinh:**
-  * Do Trường Sinh chưa có đặc tính ổn định, Nguyên Mana khi tràn vào cơ thể sẽ lập tức cắn xé và phá hủy tế bào cậu. Linh vật M đóng vai trò **cầu nối điều hòa sinh mệnh**.
+  * Do Trường Sinh chưa có đặc tính ổn định, Nguyên Mana khi tràn vào cơ thể sẽ lập tức cắn xé và phá hủy tế bào cậu. Hirra đóng vai trò **cầu nối điều hòa sinh mệnh**.
   * Giúp Trường Sinh chế ngự, làm ổn định và thanh lọc dòng chảy Nguyên Mana khi nó xâm nhập.
   * Áp chế Nguyên Mana những lúc năng lượng này phản phệ hoặc không nghe lời.
   * *Hạn chế:* Đôi khi Nguyên Mana bạo loạn vượt tầm kiểm soát của M, buộc Trường Sinh phải dùng ý chí và kỷ luật thể xác tự mình ghìm chặt nó lại.

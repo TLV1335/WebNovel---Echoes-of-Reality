@@ -18,7 +18,10 @@
   * Mỗi pháp sư có giới hạn dung lượng mana cá nhân nhất định.
   * Mật độ Nguyên Mana trong khí quyển phân bố không đồng đều theo địa hình.
   * Niệm chú cấp cao đòi hỏi thời gian chuẩn bị và tập trung tinh thần cao độ.
-  * **Nguyên Mana có ý chí riêng:** Pháp sư không thể tùy tiện ra lệnh mà phải dùng nghi thức, cổ ngữ hoặc cử chỉ nguyên tố để "thuyết phục" nó nghe theo.
+  * **Nguyên Mana có ý chí riêng:** Pháp sư không thể ép buộc mà phải dùng nghi thức, cổ ngữ hoặc trận pháp để "thuyết phục" mana tuân lệnh.
+  * **Quy tắc "Dấu ấn ý chí" (Mana có chủ / Tainted Mana):** Đòn đánh chứa Nguyên Mana sau khi thi triển đã hòa lẫn "dấu ấn ý chí" và cảm xúc của người niệm, trở thành mana có chủ, khiến đối phương không thể tùy tiện nuốt chửng hay hấp thụ.
+* **Quy Tắc Vàng Về Mana:**
+  > **Mana tồn tại vô hạn khả năng. Luôn có những thứ bất quy tắc, không gì là không thể, không gì là tuyệt đối.** Hệ thống nguyên tố xoay quanh các nguyên tố cơ bản nhưng không phải toàn bộ; luôn có những cá thể sở hữu các biến thể dị biệt (băng, xương, độc tố, triệu hồi thú, thao túng...).
 
 ---
 
@@ -46,11 +49,19 @@ Hệ thống phong cách ma pháp tại Primordia mang tính phân bố khu vự
 3. **Cổ tộc Solavane — Vũ đạo thiêng:** Mana hòa nhịp theo giai điệu; điệu múa là ngôn ngữ giao tiếp trực tiếp để xoa dịu và dẫn dắt Nguyên Mana.
 4. **Liên bang pháo đài di động — Niệm (Phong cách HxH):** Đặt ra các luật lệ, điều kiện và ràng buộc cá nhân; điều kiện càng ngặt nghèo thì mana bộc phát càng khủng khiếp.
 
-### Định Kiến Xã Hội Đối Với Đấu Sĩ & Kiếm Sĩ
-* **Về mặt chiến thuật:** Cực kỳ cần thiết. Pháp sư niệm phép chậm và thể chất yếu, bắt buộc phải có Đấu sĩ che chắn tầm gần.
-* **Về mặt xã hội:** Giới quý tộc pháp sư Primordia có định kiến sâu nặng, khinh thường Đấu sĩ là tầng lớp hạ đẳng, chỉ là "lính đánh thuê", "người hầu", "lá chắn thịt".
-* **Về mặt thực lực:** Trong cự ly gần 1v1, Đấu sĩ lão luyện hoàn toàn có thể áp đảo và hạ sát pháp sư.
-* **Xung đột cốt truyện:** Tiêu Trường Sinh khi bước vào Primordia với lối đánh cận chiến nén mana bị giới quý tộc coi thường không phải vì cậu yếu, mà vì **định kiến giai cấp cổ hủ** của xã hội Primordia.
+### Ba Tầng Lớp Sức Mạnh & Định Kiến Xã Hội Primordia
+1. **Mana Thuần (Pháp Sư / Quý Tộc Thượng Tầng):**
+   * Sử dụng 4 hệ nguyên tố hoặc các năng lực biến thể (băng, xương, thao túng, nguyền rủa...) dội bom diện rộng. Coi thường cận chiến.
+2. **Aura (Đấu Sĩ / Kẻ Vô Năng):**
+   * Không thể niệm phép. Aura bộc phát khi **Ý chí và Niềm tin đạt ngưỡng cực hạn**, ngưng tụ thành sức mạnh tinh thần thép 1v1 cực mạnh. Bị xã hội pháp sư khinh miệt là hạ đẳng vì quá trình tôi luyện gian khổ và khó thành thạo.
+3. **Mana + Aura (Huyền Thoại):**
+   * Cá thể dị biệt ngàn năm có một: vừa có lớp giáp Aura ý chí kiên cố, vừa thao túng Nguyên Mana diện rộng. Sức mạnh ngang một quốc gia.
+
+### Thang Đo Thảm Họa Quái Vật Primordia
+* **Bậc Thú (Beast Class):** Thú hoang nhiễm mana đột biến. Dân quân/thợ săn phối hợp hạ được.
+* **Bậc Lãnh Thú (Lord Class):** Có trí tuệ, cai trị lãnh thổ, da bọc tinh thể/vảy cứng. Cần tổ đội chiến thuật (Đấu sĩ + Pháp sư).
+* **Bậc Vương Thú (King Class):** Thảm họa di động làm méo mó hệ sinh thái. Cần hạm đội Pháo đài Bánh xích hoặc 1 Huyền thoại.
+* **Bậc Thần Thú (Calamity / Divine Class):** Hiện thân tự nhiên bất tử. Không thể giết, chỉ có thể phong ấn, xoa dịu hoặc chạy trốn.
 
 ---
 
@@ -71,18 +82,23 @@ Hệ thống phong cách ma pháp tại Primordia mang tính phân bố khu vự
 * **Tự lực 100%:** Cậu không có ai dạy dỗ, không có hệ thống truyền thụ.
 * Cậu học qua **thực chiến sinh tử, quan sát đối thủ, thử nghiệm và rút kinh nghiệm từ những lần trả giá bằng máu**. Sự nhạy bén của một người thuộc về hai nền văn minh giúp cậu tư duy khác biệt.
 
-### C. Linh Vật Đồng Hành ("M") — Cầu Nối Sinh Mệnh
-* **Tên gọi:** **M** (Mana / Mystery). Nguồn gốc bí ẩn sẽ được khai mở ở các hồi sau.
-* **Vai trò:**
-  * Nguyên Mana xâm nhập sẽ cắn xé cơ thể Trường Sinh vì cậu chưa có Quirk ổn định; M đóng vai trò **cầu nối điều hòa sinh mệnh**.
-  * Giúp Trường Sinh chế ngự, làm ổn định và thanh lọc dòng chảy Nguyên Mana khi nó tràn vào cơ thể.
-  * Áp chế Nguyên Mana những lúc năng lượng này phản phệ hoặc mất kiểm soát.
-* **Hạn chế:** Đôi khi Nguyên Mana quá cuồng loạn vượt tầm của M, Trường Sinh phải dùng ý chí sắt đá của bản thân để ghìm chặt nó lại.
+### C. Linh Vật Đồng Hành Hirra — Mảnh Vỡ Thần Linh & Bộ Lọc Mana
+* **Tên gọi:** **Hirra** (Trước đây gọi là Linh vật M).
+* **Bản chất:** Mảnh vỡ của thần linh cổ đại kết nối hai hành tinh, đại diện cho Trái Đất bị bỏ lại sau Đại Phản Bội; trôi dạt hàng vạn năm và mất ký ức, bị hút vào Lỗ Hổng của Trường Sinh khi xuyên không.
+* **Hình dạng:** Đốm sáng mờ ảo -> Hiện thân thành **con mèo** (học từ tiềm thức Trường Sinh) -> Tiến hóa tương lai [BỔ SUNG SAU].
+* **Vai trò & Cơ chế (Bộ Lọc Mana):**
+  * Hấp thụ Nguyên Mana hoang dã từ môi trường, thanh lọc độc tính và chuyển hóa thành mana ổn định bơm vào Lỗ Hổng cho Trường Sinh chiến đấu.
+  * *Hạn chế:* Chuyển hóa giới hạn mỗi ngày. Nếu dùng quá tải, Hirra kiệt sức -> Trường Sinh bị mana hoang dã xâm nhập gây phản phệ nặng.
+* **Hợp đồng sinh tồn (Migi style):** Cộng sinh sinh tử tuyệt đối (Hirra cần vật chủ neo vào thực tại, Trường Sinh cần Hirra lọc mana). Ban đầu lạnh lùng, logic, thuần sinh tồn; dần dà học được cảm xúc và gắn kết sâu sắc.
+* **Timeline tri giác:** Đầu Arc 1 chưa nói được (giao tiếp qua cảm giác); Chương 10–15 nói trong đầu; Chương 20–30 hiện thân thành mèo đối thoại trực tiếp.
 
-### D. Giới Hạn Sức Mạnh Của Trường Sinh
-* Cậu có thể **hấp thụ mana vô chủ** trôi nổi trong môi trường tự nhiên xung quanh.
-* **TUYỆT ĐỐI KHÔNG HÚT ĐƯỢC MANA CỦA NGƯỜI KHÁC** (không có trò hút cạn mana đối thủ như tà thuật ma đạo).
-* **Tốc độ hồi phục chậm trong trận đánh dài:** Việc điều động Nguyên Mana qua cơ thể phàm trần gây hao tổn thể lực và tế bào cực lớn, đòi hỏi thời gian nghỉ ngơi để kinh mạch hồi phục.
+### D. 5 Bản Vá Chiến Đấu & Giới Hạn Sức Mạnh Của Trường Sinh
+1. **Giới hạn Hấp thụ — Dấu ấn cá nhân (Tainted Mana):** Chỉ hút được Nguyên Mana hoang dã vô chủ trong trời đất. Tuyệt đối không nuốt chửng được đòn ma pháp đã hòa lẫn ý chí đối phương để nạp năng lượng.
+2. **Điểm yếu "Vùng Chân Không" (Mana Vacuum):** Bị phong tỏa không gian cắt đứt mana khí quyển, cậu phải dùng mana tĩnh nội thể; đòn đấm mất sạch tính Ăn mòn/Áp chế/Cuồng loạn, chỉ còn thuần sát thương vật lý nén, buộc phải đánh du kích.
+3. **Phản phệ thể chất (Cơ chế Deku - MHA):** Mượn mana quá tải hoặc mất bộ lọc M sẽ bị Nguyên Mana ăn mòn nội thể: xé cơ bắp, nứt xương, xuất huyết mana hoại tử (máu đen), lạm dụng sẽ tàn phế vĩnh viễn.
+4. **Yết hầu tinh thần của Hirra:** Hirra gắn chặt với Lỗ Hổng, không thể bị cướp đoạt bởi Kẻ Thuần Hóa. Nhưng nếu Hirra bị ma pháp ảo ảnh/nguyền rủa tinh thần đánh gục hoặc kiệt sức ngất xỉu, bộ lọc vỡ nát, đẩy Trường Sinh vào cơn phản phệ tàn khốc.
+5. **Lộ trình End-game — Tuần hoàn khép kín (Cơ chế Gojo - JJK):** Đỉnh cao không phải mana vô hạn, mà là "hiệu suất thất thoát xấp xỉ 0". Mana dư thừa xả ra lập tức bị Lỗ Hổng kéo ngược lại cơ thể, tạo thành chu trình tuần hoàn hoàn mỹ giải quyết điểm yếu hụt hơi ban đầu.
+
 
 ---
 

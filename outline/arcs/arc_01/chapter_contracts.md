@@ -22,7 +22,7 @@
 * **Các nhịp diễn biến (Beats):**
   1. Trường Sinh tỉnh dậy giữa đống gạch vụn, khắp người ê ẩm; phát hiện quần áo học sinh rách tả tơi.
   2. Cậu ngước nhìn lên bầu trời: Không có mây trắng hay ánh mặt trời Trái Đất, mà là một mái vòm năng lượng khổng lồ màu đỏ tía (siêu trận pháp một chiều) bao bọc toàn bộ thành phố.
-  3. Kiểm tra tình trạng cơ thể sau cú ngã; cảm nhận cơn đau và sự cựa quậy sống động của Linh vật M; trong túi quần rách chỉ còn chiếc bật lửa kim loại của ông nội.
+  3. Kiểm tra tình trạng cơ thể sau cú ngã; cảm nhận cơn đau và sự cựa quậy sống động của Hirra; trong túi quần rách chỉ còn chiếc bật lửa kim loại của ông nội.
   4. Đi qua những tòa nhà kiến trúc gothic cổ kính bị dây leo và rêu phong bao phủ; phát hiện dấu vết máu khô và những bộ xương khô rải rác suốt 20 năm.
 * **Hook kết chương:** Từ bên trong một tòa cao ốc sụp đổ phía trước, vang lên tiếng rên rỉ ghê rợn kèm theo tiếng lê bước kéo lê kim loại trên mặt đường.
 

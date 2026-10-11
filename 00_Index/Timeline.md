@@ -37,7 +37,7 @@
   * Tiêu Trường Sinh tan trường sau tiếng trống bế giảng tại trường THPT Dầu Tiếng, đạp xe về nhà qua những lô cao su xã Minh Tân.
   * Hiện tượng glitch không gian chập chờn; cỗ máy Pendelton nổ tung tại Primordia, chọn trúng "Lỗ Hổng" của Trường Sinh (tỷ lệ 1/8 tỷ) làm điểm neo kéo cậu xuyên không.
 * **Mùa hè (Thời gian lưu lại Primordia — Arc 1, Chương 1 – 40):**
-  * Trường Sinh thức tỉnh năng lực "Vô", thuần hóa Linh vật M, học cách chiến đấu bằng nắm đấm bọc Nguyên Mana.
+  * Trường Sinh thức tỉnh năng lực "Vô", thuần hóa Hirra, học cách chiến đấu bằng nắm đấm bọc Nguyên Mana.
   * Gặp gỡ và gắn kết với Caelia Solavane; bi kịch phản bội - cứu rỗi; Caelia hy sinh đỡ đòn chắn tử kiếp của Lich; linh hồn xanh lá gắn kết sinh mệnh với Trường Sinh.
 * **Kỳ nghỉ hè tại Trái Đất (Arc 2, Chương 41 – 65):**
   * Trường Sinh tích đủ năng lượng trở về Trái Đất cùng linh hồn Caelia.
