@@ -102,7 +102,8 @@
   * [[chapters/Hoi_1/Arc_01/chuong_002|Chương 2: Bầu Trời Màu Tro Tàn]] — Thức giấc giữa siêu đô thị phế tích, bầu trời giam cầm đỏ tía, chiếc bật lửa của ông nội, tiếng lê bước trong bóng tối.
   * [[chapters/Hoi_1/Arc_01/chuong_003|Chương 3: Tiếng Cào Trong Bóng Tối]] — Chạm trán zombie đột biến ma tinh tím, bản năng sinh tồn thực dụng, cơn đau thắt từ nội tạng.
   * [[chapters/Hoi_1/Arc_01/chuong_004|Chương 4: Cơn Cắn Xé Của Trời Đất]] — Cơn sốc phản vệ khí tức lạ dưới cống ngầm Silva, bật lửa Zippo & bài thở điều tức Dầu Tiếng, hốc rỗng trơ trụi và đốm sáng bí ẩn trôi ra khỏi lồng ngực.
-  * *Chương 5+: Xem kế hoạch trong Chapter Contracts Arc 1.*
+  * [[chapters/Hoi_1/Arc_01/chuong_005|Chương 5: Khoảng Trống Và Ánh Sáng]] — Thức tỉnh dưới cống ngầm, chạm trán xúc giác với đốm sáng bí ẩn, thử lửa Zippo tìm hướng gió, phản xạ đấm nát đầu quái chuột và mối nguy quái vật bò trần vòm.
+  * *Chương 6+: Xem kế hoạch trong Chapter Contracts Arc 1.*
 
 ---
 
