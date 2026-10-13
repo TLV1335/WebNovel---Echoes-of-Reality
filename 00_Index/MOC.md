@@ -15,6 +15,7 @@
 * [[canon/style|Style Guide]] — Quy chuẩn văn phong, hệ thống xưng hô, danh sách từ ngữ cấm (AI Cliché Blacklist) và khung độ dài 2.500 – 3.500 từ.
 * [[canon/dialouge_rules|Dialogue Rules]] — 4 Quy tắc thoại then chốt: Thoại dưới áp lực (<10–12 tiếng), không nhồi lore, tiết chế miêu tả, phong cách thoại cụt lủn & nội tâm chọn lọc của Trường Sinh.
 * [[canon/information_reveal_rules|Information Reveal Rules]] — Quy tắc kiểm soát tiết lộ thông tin: POV ngôi 3 giới hạn, cấm tác giả toàn tri giải thích thay, quy tắc 1 đáp 2 hỏi, Show-Not-Tell qua triệu chứng thể xác.
+* [[canon/description_rules|Description Rules]] — Quy tắc kiểm soát miêu tả (Description Budget): Bài kiểm tra 4 tiêu chí ("Người đọc mất gì nếu thiếu nó?"), ngân sách so sánh, giữ nhịp câu ngắn, tự cắt trước khi gửi.
 * [[.agents/rules/chapter_workflow|Chapter Workflow]] — Quy trình bắt buộc trước - trong - sau khi chấp bút từng chương.
 
 
@@ -103,7 +104,8 @@
   * [[chapters/Hoi_1/Arc_01/chuong_003|Chương 3: Tiếng Cào Trong Bóng Tối]] — Chạm trán zombie đột biến ma tinh tím, bản năng sinh tồn thực dụng, cơn đau thắt từ nội tạng.
   * [[chapters/Hoi_1/Arc_01/chuong_004|Chương 4: Cơn Cắn Xé Của Trời Đất]] — Cơn sốc phản vệ khí tức lạ dưới cống ngầm Silva, bật lửa Zippo & bài thở điều tức Dầu Tiếng, hốc rỗng trơ trụi và đốm sáng bí ẩn trôi ra khỏi lồng ngực.
   * [[chapters/Hoi_1/Arc_01/chuong_005|Chương 5: Khoảng Trống Và Ánh Sáng]] — Thức tỉnh dưới cống ngầm, chạm trán xúc giác với đốm sáng bí ẩn, thử lửa Zippo tìm hướng gió, phản xạ đấm nát đầu quái chuột và mối nguy quái vật bò trần vòm.
-  * *Chương 6+: Xem kế hoạch trong Chapter Contracts Arc 1.*
+  * [[chapters/Hoi_1/Arc_01/chuong_006|Chương 6: Thoát Khỏi Đáy Cống]] — Đối đầu quái vật bốn chân, cú đấm đầu thất bại, dồn vào đường cụt, nén hơi điều tức bẻ gãy chân quái vật, thoát lên hầm tháp đá uống nước sạch và bí ẩn bộ hài cốt.
+  * *Chương 7+: Xem kế hoạch trong Chapter Contracts Arc 1.*
 
 ---
 

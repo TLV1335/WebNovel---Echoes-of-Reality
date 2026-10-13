@@ -76,4 +76,14 @@
 3. **Quy tắc 1 Đáp - 2 Hỏi:** Mỗi lần hé lộ một thông tin phải giải quyết 1 câu hỏi và mở ra 2 câu hỏi mới lớn hơn.
 4. **Không để NPC làm loa phát thanh, không cho main suy luận trước kịch bản:** Mọi nhận thức thế giới phải xuất phát từ va đập thể xác, giác quan và trải nghiệm sinh tử thực tế.
 
+---
+
+## 10. Quy Chuẩn Kiểm Soát Miêu Tả (Xem chi tiết tại `canon/description_rules.md`)
+1. **Mặc định là ÍT:** Người đọc truyện mạng đọc nhanh và bỏ qua miêu tả dài. Mỗi chi tiết phải trả lời: *"Người đọc mất gì nếu thiếu nó?"*
+2. **Bài kiểm tra 4 tiêu chí:** Chi tiết phải (a) đẩy hành động/dựng tư thế, (b) lộ tính cách/thể xác, (c) gieo mầm, hoặc (d) tạo đúng 1 cảm xúc cần thiết. Không đạt thì BỎ.
+3. **Ngân sách miêu tả:** Mỗi câu 1 chi tiết chính, tối đa 1 so sánh/câu, tối đa 1 so sánh/đoạn, tối đa 3 so sánh/cảnh; không quá 2 tính từ liền nhau; không quá 3 câu miêu tả liên tiếp thiếu hành động/thoại; khi bị rượt đuổi CẤM tả toàn thân kẻ địch (chỉ tả từng mảnh qua âm thanh/mùi/chi tiết đập vào mắt); tả quái vật/nhân vật mới chỉ chọn 2–3 chi tiết đáng sợ nhất.
+4. **Giữ nhịp hành động:** Câu ngắn, chủ ngữ + động từ, hình ảnh sau động tác; không dùng cùng một khuôn câu quá 3 lần liên tiếp.
+5. **Tự cắt tỉa trước khi gửi:** Nháp xong phải tự rà soát và gọt bỏ mọi chi tiết thừa trước khi xuất bản.
+
+
 

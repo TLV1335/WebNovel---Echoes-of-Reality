@@ -184,3 +184,33 @@
   7. `chapters/session_state/session_state.md` & `scene_context.md` (Đồng bộ trạng thái)
   8. `logs/decisions.log` (Ghi nhận Quyết định 10)
 
+---
+
+## 11. QUYẾT ĐỊNH BỔ SUNG QUY TẮC: KIỂM SOÁT MIÊU TẢ (DESCRIPTION CONTROL) (14/10/2026)
+* **Nguyên tắc cốt lõi:** Người đọc truyện mạng đọc nhanh và bỏ qua miêu tả dài. Miêu tả mặc định là ÍT. Mỗi chi tiết phải trả lời được câu hỏi: *"Người đọc mất gì nếu thiếu nó?"*
+* **Bài kiểm tra 4 tiêu chí bắt buộc:** Chỉ giữ chi tiết nếu làm ít nhất 1 việc:
+  - (a) Đẩy hành động tiến tới hoặc giúp dựng được tư thế/vị trí.
+  - (b) Lộ tính cách, hoàn cảnh hoặc trạng thái thể xác nhân vật.
+  - (c) Gieo mầm cho sự kiện sau (foreshadowing).
+  - (d) Tạo đúng cảm xúc cảnh cần (1 chi tiết đắt giá, không dùng 3 chi tiết chồng chéo).
+  - *Không đạt -> BỎ NGAY LẬP TỨC dù chi tiết đó đẹp.*
+* **Ngân sách miêu tả (Description Budget):**
+  - Mỗi câu 1 chi tiết chính, tối đa 1 so sánh/câu.
+  - Mỗi đoạn tối đa 1 so sánh; mỗi cảnh tối đa 3 so sánh.
+  - Tối đa 2 tính từ liền nhau cho cùng một vật.
+  - Không viết quá 3 câu miêu tả liên tiếp mà thiếu hành động/thoại/suy nghĩ (cảnh chậm được 4–5 câu nhưng mỗi câu 1 ý).
+  - Mỗi câu chỉ dùng 1 kênh giác quan chính (nhìn, nghe, ngửi...).
+  - Khi mối đe dọa đang di chuyển/nhân vật bị rượt: **CẤM** tả toàn thân đối tượng; chỉ tả từng mảnh vụn qua âm thanh, mùi, hoặc chi tiết đập thẳng vào mắt.
+  - Tả quái vật/nhân vật mới: Chọn 2 đến 3 chi tiết đáng sợ/đặc trưng nhất, không liệt kê đủ bộ phận.
+  - Chỉ tả điều nhân vật kịp nhìn thấy trong tích tắc đó.
+* **Giữ nhịp văn:** Cảnh hành động dùng câu ngắn (Chủ ngữ + Động từ; hình ảnh sau động tác, không trước). Không dùng cùng khuôn câu quá 3 lần liên tiếp.
+* **Danh sách từ không dùng nếu thiếu chi tiết cụ thể đi kèm:** `hoàn toàn`, `toàn bộ`, `toàn lực`, `tột cùng`, `cực độ`, `hết cỡ`, `khổng lồ`, `tuyệt đối`, `kinh hoàng`, `rợn người`, `bản năng sinh tồn`.
+* **Quy trình bắt buộc "Tự cắt trước khi gửi" (Self-pruning):** Scene Writer viết nháp xong phải tự rà soát, chủ động cắt tỉa sạch sẽ chi tiết thừa trước khi xuất bản bản thảo.
+* **Danh sách file cập nhật:**
+  1. `canon/description_rules.md` (Tạo mới toàn văn quy tắc)
+  2. `canon/style.md` (Bổ sung Mục 10)
+  3. `.agents/rules/chapter_workflow.md` (Bổ sung Description Budget Check vào quy trình review ngầm)
+  4. `00_Index/MOC.md` (Cập nhật mục I hệ thống)
+  5. `logs/decisions.log` (Ghi nhận Quyết định 11)
+
+

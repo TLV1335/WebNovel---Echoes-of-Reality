@@ -1,20 +1,22 @@
 # SPATIAL POSITIONS (VỊ TRÍ KHÔNG GIAN & TƯ THẾ)
-*Cập nhật lần cuối: Cuối Chương 5 / Chuẩn bị Chương 6*
+*Cập nhật lần cuối: Cuối Chương 6 / Chuẩn bị Chương 7*
 *Nhân vật theo dõi: Tiêu Trường Sinh*
 
 ---
 
 ## 1. TỌA ĐỘ VÀ VỊ TRÍ
-* **Địa điểm:** Ngã rẽ phụ trong hệ thống cống thoát nước ngầm đá hoa cương dưới siêu đô thị Silva (đã di chuyển chừng 30 mét về nhánh bên trái ngược dòng nước).
-* **Môi trường tức thời:** Đứng nép vào góc lõm của vách đá hoa cương gần một hốc thoát nước sập dẫn lên hầm tháp đá; xác con chuột cống dị biến nát đầu nằm cách đó 4 mét.
-* **Khoảng cách kẻ địch:** Nguy hiểm cực độ; một quái vật bốn chân dị biến khổng lồ đang bò ngược trên trần vòm cống ngầm cách vị trí Trường Sinh chừng 8–10 mét, mắt tím quả trám khóa chặt cậu.
+* **Địa điểm:** Căn hầm chứa bằng đá hoa cương bỏ hoang bên dưới một tòa tháp đá trung cổ (đã thoát lên từ hốc cống ngầm sập).
+* **Môi trường tức thời:** Sàn đá khô ráo, phủ bụi bặm và vụn gỗ mục; miệng hốc cống dẫn xuống đáy cống đã bị tảng đá lớn bịt kín; góc phòng có vại nước đá cổ hứng nước rỉ trong vắt từ trần hầm; đối diện là bộ hài cốt người ngồi gục dưới chân tường.
+* **Khoảng cách kẻ địch:** An toàn tạm thời; quái vật bốn chân què chân bị nhốt kẹt lại dưới đáy cống; chưa phát hiện thêm sinh vật nguy hiểm nào trong căn hầm kín.
 
 ---
 
 ## 2. TƯ THẾ & ĐỊNH HƯỚNG CƠ THỂ
-* **Tư thế hiện tại:** Đứng tựa lưng vào vách đá, lảo đảo sau cú đấm toàn lực bọc khí tức; bàn tay phải dính máu chuột nhưng không trầy xước; đầu ngửa lên, mắt trừng nhìn quái vật trên trần cống.
+* **Tư thế hiện tại:** Quỳ/ngồi bệt bên cạnh chiếc vại đá cổ sau khi uống đẫy nước; mặt vừa được rửa sạch máu bùn; đầu ngẩng lên nhìn bộ hài cốt ở góc tường đối diện.
 * **Định hướng vật dụng:**
-  * Bật lửa Zippo vỏ đồng cất trong túi quần bên phải.
-  * Đốm sáng lam tím (Hirra) chui tọt vào cổ tay áo phải, run rẩy nhấp nháy báo động.
-* **Tình trạng âm thanh:** Tiếng thở dốc nghẹn lại; tiếng nước rẽ sóng bì bõm và tiếng móng vuốt cào rách đá hoa cương trên trần vòm dội lại chát chúa.
+  * Bật lửa Zippo vỏ đồng cất an toàn trong túi quần bên phải.
+  * Đốm sáng lam tím (Hirra) nép sát vào hõm cổ ấm áp của Trường Sinh, tỏa ánh sáng yếu ớt soi rọi góc hầm.
+  * Bộ hài cốt nắm giữ chiếc huy hiệu kim loại rỉ sét hình hai ngọn tháp song sinh và thanh kiếm gãy.
+* **Tình trạng âm thanh:** Tiếng thở dần đều lại; tiếng nước rỉ tí tách rơi xuống vại đá đều đặn giữa không gian tĩnh mịch.
+
 

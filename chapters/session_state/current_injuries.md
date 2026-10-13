@@ -1,28 +1,26 @@
 # CURRENT INJURIES (VẾT THƯƠNG HIỆN TẠI)
-*Cập nhật lần cuối: Cuối Chương 4 / Chuẩn bị Chương 5*
+*Cập nhật lần cuối: Cuối Chương 6 / Chuẩn bị Chương 7*
 *Nhân vật theo dõi: Tiêu Trường Sinh*
 
 ---
 
 ## 1. TÌNH TRẠNG VẾT THƯƠNG THỂ XÁC
-* **Bả vai trái:** Năm vết cào đã se miệng, lớp máu đông khô khốc dính chặt vào sợi vải áo sơ mi rách; không còn rỉ máu tươi.
-* **Cẳng tay trái:** Vết rách bị ngấm nước cống đen đã ngừng sủi bọt khí; cơn co giật giật cục rút đi; da xung quanh vẫn thâm tím và tê rần nhưng không còn dấu hiệu hoại tử lan rộng.
-* **Đầu gối phải:** Khớp gối còn sưng nhức do chấn động va đập cú nhảy 2m; đã có thể cử động co duỗi nhẹ để ngồi dựa vách đá, chưa thể chạy nhanh.
-* **Khóe trán & Bờ môi:** Rách nhẹ do dập đầu xuống đá và cắn môi ghìm đau; máu đã tự cầm.
+* **Bàn tay & Cổ tay phải (Mới):** Các khớp ngón tay sưng vù, tím tái và tê dại sau 2 cú đấm (cú đấm trần đầu tiên đập vào giáp xương gây chấn thương dội ngược lên khớp vai; cú đấm thứ 2 bọc áp lực phá hủy khớp chân quái vật); hiện mất tạm thời cảm giác cầm nắm tinh vi.
+* **Lưng áo & Da lưng (Mới):** Bị móng vuốt quái vật cào rách áo và sượt một đường nông dài rát bỏng; máu rỉ nhẹ bết vào vải rách.
+* **Bả vai trái:** Năm vết cào cũ đã đóng vảy đen cứng, còn nhói buốt khi vận động mạnh.
+* **Cẳng tay trái:** Vết rách cũ đã ngừng sùi bọt khí, da thâm tím nhưng cơ bắp đã đàn hồi lại.
+* **Cổ họng & Dạ dày:** Đã được giải tỏa cơn khát bỏng rát nhờ nguồn nước ngọt trong vại đá cổ; dạ dày bớt quặn thắt sau cơn nôn khan.
 
 ---
 
-## 2. TRẠNG THÁI NỘI THỂ & KINH MẠCH (ĐÃ VƯỢT QUA SỐC PHẢN VỆ)
-* **Khí quản & Phế quản:** Cơn bỏng rát như nuốt vôi sống đã tan biến; đường thở thông suốt theo bài thở điều tức 3-2.
-* **Kinh mạch & Mạch máu:** 
-  * Các đường gân đỏ sẫm phình to trên mu bàn tay đã lặn hoàn toàn xuống dưới lớp da sần sùi.
-  * Máu tuần hoàn ổn định; luồng sinh khí ấm nóng từ mana được thanh lọc đang nuôi dưỡng và hồi phục các tế bào bị tổn thương.
-* **Hạch Mana / Lỗ Hổng (Sau xương ức):**
-  * Đã kích hoạt lực hút nuốt trọn đợt Nguyên Mana hoang dã xâm lấn.
-  * Hirra (đốm sáng lam tím sơ sinh) đã an định bên trong, phát ra nhịp đập chậm, nặng và đanh thép.
+## 2. TRẠNG THÁI NỘI THỂ
+* **Khí quản & Lồng ngực:** Đường thở ổn định nhờ nhịp thở điều tức 3-2; không khí trong hầm đá khô ráo giúp giảm bớt áp lực lên phế nang.
+* **Khoảng trống sau xương ức:** Yên ắng sau khi xuất lực; giữ lại một luồng hơi ấm âm ỉ nuôi dưỡng cơ thể.
+* **Hirra (Đốm sáng lam tím):** Kiệt sức sau đợt bộc phát chớp sáng chói lòa làm mù quái vật; đang đậu bất động nghỉ ngơi trong hõm cổ Trường Sinh.
 
 ---
 
 ## 3. THỂ LỰC & TINH THẦN
-* **Thể lực:** 55/100 — Hồi phục một phần nhờ dòng mana thanh lọc nuôi dưỡng cơ bắp; hết cơn co giật kiệt sức.
-* **Thần kinh / Tinh thần:** Cực kỳ vững vàng; ý chí sinh tồn được trui rèn qua ngưỡng cửa cái chết; các giác quan trở nên nhạy bén hơn trong bóng tối.
+* **Thể lực:** 35/100 — Kiệt sức sau chuỗi tháo chạy, đánh cược sinh tử và trèo miệng cống hẹp; vừa hồi phục một phần nhờ uống đẫy nước sạch.
+* **Thần kinh / Tinh thần:** Căng thẳng tột độ vừa hạ nhiệt, chuyển sang trạng thái cảnh giác tĩnh lặng trước không gian bí ẩn của căn hầm và bộ hài cốt cầm huy hiệu.
+
