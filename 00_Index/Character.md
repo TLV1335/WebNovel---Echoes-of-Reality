@@ -14,7 +14,11 @@
 | **Hạ Linh An** | An An | Trái Đất (Việt Nam) | Nữ chính 2 | Còn sống | Thiên tài toán học/khoa học, Giải mã cỗ máy Pendelton | [[canon/characters/main_actors/ha_linh_an\|Xem hồ sơ]] |
 | **Valerius Aurelius** | Đại Giáo Chủ Valerius | Thánh quốc Primordia | Phản diện chính 1 | Còn sống | Đại pháp sư Thánh quang, Gánh nặng 142 thế hệ đòi nợ máu | [[canon/characters/main_actors/valerius_aurelius\|Xem hồ sơ]] |
 | **Arthur Pendelton** | Kẻ Khâu Vá Thực Tại | Thế Lực Thứ Ba | Phản diện chính 2 | Còn sống | Đại học giả không gian, Tay cơ khí ma pháp, Cỗ máy hợp nhất | [[canon/characters/main_actors/arthur_pendelton\|Xem hồ sơ]] |
-| **Nhóm Bạn Trừ Tà** | Bách, Đức, Vy... | Trái Đất (Bình Dương / TP.HCM) | Phụ tá | Còn sống | Dị năng đô thị cận chiến, Hỗ trợ trừ tà & Quân sư tình cảm | [[canon/characters/supporting/exorcist_squad\|Xem hồ sơ]] |
+| **Nhóm Bạn Trừ Tà** | Bách, Đức, Vy... | Trái Đất (Bình Dương / TP.HCM) | Phụ tá Trái Đất | Còn sống | Dị năng đô thị cận chiến, Hỗ trợ trừ tà & Quân sư tình cảm | [[canon/characters/supporting/exorcist_squad\|Xem hồ sơ]] |
+| **Đội Nhặt Rác Silva** | Kaelen, Marko, Edor, Rita | Silva (Khu Tị Nạn) | Đồng minh tiền tuyến | Đa dạng | Đoản kiếm, Nỏ cơ khí, Tri thức chữ P, Trinh sát | [[canon/characters/supporting/scavenger_squad\|Xem hồ sơ]] |
+| **Phe Kháng Chiến** | Aegon Vance, Mira, Bran | Silva (Nhà Ga Trung Tâm) | Đồng minh chính nghĩa | Còn sống | Thức tỉnh Aura Ma Kiếm Sĩ, Đại cung cơ khí, Trị liệu | [[canon/characters/supporting/resistance_front\|Xem hồ sơ]] |
+| **Hội Đồng Quý Tộc** | Valerius II, Silas, Cassian... | Silva (Nội thành Thượng tầng) | Đối lập nội bộ | Phức tạp | Ấn chú Grimoire tinh vi, Nguyên Mana Lửa cuồng loạn | [[canon/characters/supporting/silva_lords\|Xem hồ sơ]] |
+| **The Ghosts** | Elara Solavane & Cựu binh | Silva (Vùng phế tích hoang tàn) | Thế lực thứ 3 hỗn loạn | Đã chết/Điên loạn | Ma pháp cổ tộc Solavane, Bản năng dã thú cuồng bạo | [[canon/characters/supporting/the_ghosts\|Xem hồ sơ]] |
 
 ---
 
@@ -44,9 +48,12 @@
 * **[[canon/characters/main_actors/arthur_pendelton|Giáo Sư Arthur Pendelton]]**:
   * *Lý tưởng:* Nhìn thấy tương lai 3.000 năm cả hai thế giới diệt vong vì mất cân bằng; chấp nhận hy sinh thế hệ hiện tại để cưỡng ép hợp nhất thực tại.
 
-### 4. Tuyến Hỗ Trợ & Thế Giới (Supporting Cast)
+### 4. Tuyến Hỗ Trợ & Các Phe Phái Arc 1 (Silva)
 * **[[canon/characters/supporting/exorcist_squad|Nhóm Bạn Trừ Tà Trái Đất]]**: Giữ lửa thanh xuân, tiếng cười và sự ấm áp đời thường; kề vai sát cánh trong các phi vụ ngầm tại Thủ Dầu Một & TP.HCM.
-* **Nhân sự Khu Ổn Định Arc 1 (Dự kiến mở rộng):** Thủ lĩnh Kháng Chiến (chủ nhân Thánh Kiếm), nhóm nhặt rác Edor, Marko, Rita.
+* **[[canon/characters/supporting/scavenger_squad|Đội Nhặt Rác & Trinh Sát Silva]]**: Cầu nối nhập môn của Trường Sinh (Kaelen Voss, Marko Thorne, Edor Vance, Rita Vance).
+* **[[canon/characters/supporting/resistance_front|Phe Kháng Chiến Silva]]**: Điểm tựa chính nghĩa của dân tị nạn (Thủ lĩnh Aegon Vance, nữ chiến lược gia Mira, cựu linh mục Bran).
+* **[[canon/characters/supporting/silva_lords|Phe Thượng Tầng Quý Tộc Silva]]**: Hội đồng bồi thẩm đen kiểu 12 Angry Men (Lãnh chúa Valerius Đệ Nhị, Silas Voss, Cassian, Moros, Balthazar).
+* **[[canon/characters/supporting/the_ghosts|Phe Thứ 3 (The Ghosts)]]**: Thế lực cuồng nộ nằm ngoài kiểm soát (Thủ lĩnh Elara Solavane - Mẹ Caelia, cùng tàn quân cựu binh nhiễm độc mana).
 
 ---
 

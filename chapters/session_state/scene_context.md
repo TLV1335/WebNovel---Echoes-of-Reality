@@ -1,24 +1,26 @@
 # SCENE CONTEXT (NGỮ CẢNH CẢNH HIỆN TẠI)
-*Cập nhật lần cuối: Cuối Chương 4 / Chuẩn bị Chương 5*
+*Cập nhật lần cuối: Cuối Chương 7 / Chuẩn bị Chương 8*
 
 ---
 
 ## 1. MÔI TRƯỜNG & KHÔNG GIAN
-* **Thời điểm:** Đêm muộn trong lòng cống ngầm thành phố phế tích.
-* **Địa điểm:** Đoạn cống vòm đá hoa cương cổ kính rỉ nước bên dưới Siêu đô thị tháp đá Silva (Vương quốc Grimoire); rêu tím phát lân tinh leo bám vách đá, rãnh nước đen ngập váng dầu mana tím chảy chậm.
-* **Không khí:** Mùi lưu huỳnh và tro xỉ vẫn còn nhưng không còn gây bỏng rát đường thở cho Trường Sinh nhờ nhịp thở điều tức 3-2 đã khóa kín và dung hòa năng lượng.
+* **Thời điểm:** Chiều muộn trên mặt đất siêu đô thị Silva; màn sương xám đậm đặc dần buông xuống các tàn tích; không khí lạnh buốt và có mùi rỉ sét kim loại nồng hơn.
+* **Địa điểm:** Tuyến hẻm hẹp hiểm trở nối giữa khu phố đổ nát và hệ thống hào ngầm phòng thủ của nhóm kháng chiến; hai bên là các khối bê tông và khung thép biến dạng có thể sập đổ bất cứ lúc nào.
+* **Không khí & Mana:** Mana hoang dã ngoài trời có tính áp chế nhẹ nhưng Trường Sinh đã có thể duy trì nhịp thở điều tức để thích ứng; Hirra giữ vai trò màng lọc tự nhiên.
 
 ---
 
 ## 2. QUY TẮC NHẬN THỨC CỦA NHÂN VẬT CHÍNH (POV RESTRICTION)
-* Tiêu Trường Sinh **VẪN CHƯA BIẾT** tên gọi "Silva", "Grimoire" hay "Primordia", cũng chưa biết khái niệm "mana" hay "Lỗ Hổng". Cậu chỉ hiểu đây là cõi chết hoang tàn ngập tháp đá nơi không khí như có độc tố chối bỏ sự sống của con người.
-* Dòng suy nghĩ bám rễ sâu sắc vào bài học sinh tồn của người ông nội tại Dầu Tiếng; ý chí bảo vệ mạng sống để trở về chăm sóc ông là ngọn hải đăng duy nhất.
-* Tuân thủ nghiêm ngặt [[canon/information_reveal_rules|Information Reveal Rules]]: Tuyệt đối không để giọng kể toàn tri giải thích thay.
+* Tiêu Trường Sinh **VẪN CHƯA BIẾT** tên thật hay xuất thân Solavane của cô gái vác sọt; chỉ nhìn thấy một dáng người gầy guộc rách rưới bị đối xử tệ bạc.
+* Cậu cũng **chưa biết** tên vùng đất là Primordia hay Silva; chỉ biết đây là một cộng đồng người sống sót có tổ chức, có vũ khí và cực kỳ cảnh giác.
+* Mọi hành động của Trường Sinh phải xuất phát từ **bản năng tự vệ và sinh tồn**: muốn tìm thức ăn, nước uống và thông tin để sống sót, nhưng tuyệt đối không vội vàng phơi bày bản thân hay khoe khoang năng lực.
+* Tuân thủ nghiêm ngặt [[canon/information_reveal_rules|Information Reveal Rules]]: Tuyệt đối không để người kể chuyện giải thích hộ kịch bản.
 
 ---
 
-## 3. MỤC TIÊU TRƯỚC MẮT (SCENE GOAL CHO CHƯƠNG 5)
-1. Tiêu Trường Sinh từ từ hồi tỉnh sau cơn mê man bất tỉnh trên gờ đá cống ngầm.
-2. Đối mặt và thiết lập tương tác sơ khai đầu tiên với đốm sáng bí ẩn (Hirra) đang lơ lửng quan sát cậu.
-3. Nhận diện mối nguy hiểm tiềm tàng xung quanh cống ngầm, tìm nơi khô ráo kín đáo để ẩn nấp và xử lý vết thương.
+## 3. MỤC TIÊU PHÂN CẢNH CHO CHƯƠNG 8 (SCENE GOALS)
+1. Trường Sinh âm thầm bám theo dấu vết đoàn xe thồ qua con hẻm quanh co, giữ cự ly an toàn để không bị phát hiện.
+2. Một biến cố nhỏ xảy ra trên đường đi (người đi sau cùng bị ngã/kẹt sọt phế liệu hoặc một mối đe dọa rình rập) tạo cơ hội hoặc buộc Trường Sinh phải lộ diện.
+3. Cuộc chạm trán căng thẳng đầu tiên: Nhóm sống sót lập tức chĩa nỏ cảnh giới; Trường Sinh giơ hai tay không vũ khí, ứng biến khôn ngoan bằng lời nói dối (giả vờ bị đập đầu ngất xỉu, mất trí nhớ, chỉ nhớ tên mình).
+4. Thiết lập sự thận trọng thực tế: Bác thợ Edor và tay nỏ Marko kiểm tra sơ bộ, chấp nhận cho cậu bám theo phụ việc khuân vác để đổi lấy đường vào nơi an toàn.
 

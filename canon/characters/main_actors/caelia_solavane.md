@@ -107,15 +107,15 @@ Cô ấy trà trộn vào nhóm người sống sót tại siêu đô thị hoan
 Trường Sinh là người duy nhất không coi thường cô. Cậu phụ giúp cô làm những việc nặng, ngồi trò chuyện tâm sự cùng cô. Cậu không đòi hỏi cô phải mạnh mẽ hay có ích. Cậu chỉ cần cô hiện diện ở đó như một người bạn. Đây là lần đầu tiên trong đời Caelia được đối xử như một con người thực thụ.
 
 ### Bước 4 — Cao trào: Tuyệt vọng và Tiếng gọi giải thoát:
-Biết mẹ đã qua đời từ lâu, biết mình không còn nơi nào để về, nhận ra mình đã phản bội người duy nhất đối đãi tử tế với mình, Caelia rơi vào tuyệt vọng cùng cực và muốn buông xuôi tìm đến cái chết. 
+Biết mẹ mình — **Elara Solavane** — bị Lich đày ải đến mức hóa điên loạn và trở thành thủ lĩnh của phe Ghost, nhận ra bản thân bị thao túng làm con cờ gián điệp hãm hại những người sống sót, Caelia rơi vào tuyệt vọng cùng cực và muốn buông xuôi tìm đến cái chết. 
 Trường Sinh xuất hiện, nói với cô bằng giọng điềm tĩnh mà đanh thép:
 > *"Cô có muốn sống không? Cô phải sống — vì mẹ cô. Mẹ cô đã từng múa, đã từng yêu, đã từng sống, và mẹ để lại cô trên cõi đời này. Cô là thứ duy nhất còn lại của mẹ cô. Nếu cô chết, mẹ cô sẽ chết lần thứ hai... Cô có muốn được cứu không?"*
 
 Caelia nhìn cậu, đôi mắt đỏ hoe, bờ môi run rẩy nghẹn ngào, giọng nói vỡ òa trong nước mắt:
 > *"Có... tôi muốn... làm ơn hãy cứu tôi!"*
 
-### Bước 5 — Quay về & Trao gửi linh hồn:
-Trường Sinh cứu cô khỏi nanh vuốt kẻ thù. Cô quay về, nhưng một phần tâm hồn cô đã vĩnh viễn chết đi trong khoảnh khắc tuyệt vọng ấy; phần linh hồn còn lại thuộc về Trường Sinh. Cô yêu cậu không phải vì cậu mạnh hay đẹp, mà vì cậu là người duy nhất nhìn thấy một con người bên trong cô.
+### Bước 5 — Bi kịch hai người mẹ con (Trận chiến cuối Arc 1):
+Trong trận quyết chiến cuối cùng tại pháo đài Lich, đàn Ghost do Elara Solavane dẫn đầu tràn vào tấn công hỗn loạn. Khi Lich tung đòn ma pháp hiểm độc nhắm vào Caelia, **bản năng làm mẹ của Elara trỗi dậy giữa cơn điên dại — bà lao ra chắn đòn chí mạng cho con gái và hy sinh trong vòng tay Caelia**. Nỗi đau và sự giải thoát của mẹ đã thức tỉnh toàn bộ dũng khí trong Caelia, thúc đẩy cô đưa ra quyết định hy sinh thân mình ở khoảnh khắc sau đó.
 
 ---
 

@@ -1,22 +1,22 @@
 # SPATIAL POSITIONS (VỊ TRÍ KHÔNG GIAN & TƯ THẾ)
-*Cập nhật lần cuối: Cuối Chương 6 / Chuẩn bị Chương 7*
+*Cập nhật lần cuối: Cuối Chương 7 / Chuẩn bị Chương 8*
 *Nhân vật theo dõi: Tiêu Trường Sinh*
 
 ---
 
 ## 1. TỌA ĐỘ VÀ VỊ TRÍ
-* **Địa điểm:** Căn hầm chứa bằng đá hoa cương bỏ hoang bên dưới một tòa tháp đá trung cổ (đã thoát lên từ hốc cống ngầm sập).
-* **Môi trường tức thời:** Sàn đá khô ráo, phủ bụi bặm và vụn gỗ mục; miệng hốc cống dẫn xuống đáy cống đã bị tảng đá lớn bịt kín; góc phòng có vại nước đá cổ hứng nước rỉ trong vắt từ trần hầm; đối diện là bộ hài cốt người ngồi gục dưới chân tường.
-* **Khoảng cách kẻ địch:** An toàn tạm thời; quái vật bốn chân què chân bị nhốt kẹt lại dưới đáy cống; chưa phát hiện thêm sinh vật nguy hiểm nào trong căn hầm kín.
+* **Địa điểm:** Mặt đất ngã tư đường phố hoang tàn siêu đô thị Silva; ngay đầu con hẻm hẹp nằm kẹp giữa hai tòa nhà bê tông sụp đổ.
+* **Môi trường tức thời:** Sương xám lơ lửng, mặt đường rải rác đá dăm và mảnh vụn gạch vỡ; dấu vết bánh xe sắt thồ hàng và vết chân quấn dây gai còn mới in trên lớp bùn xám.
+* **Khoảng cách đối tượng:** Đoàn người sống sót (khoảng 5-6 người gồm Edor, Marko, người thồ hàng và Caelia mang sọt phế liệu) vừa rẽ vào con hẻm cách đó khoảng 40–50 mét; tầm nhìn bị cản trở một phần bởi góc ngoặt và đống phế tích.
 
 ---
 
 ## 2. TƯ THẾ & ĐỊNH HƯỚNG CƠ THỂ
-* **Tư thế hiện tại:** Quỳ/ngồi bệt bên cạnh chiếc vại đá cổ sau khi uống đẫy nước; mặt vừa được rửa sạch máu bùn; đầu ngẩng lên nhìn bộ hài cốt ở góc tường đối diện.
+* **Tư thế hiện tại:** Đang nép sát người vào vách tường nứt nẻ của tòa nhà đầu hẻm; tư thế hạ thấp trọng tâm, một tay chống nhẹ lên gờ gạch vỡ, tay kia giữ hờ chuôi kiếm gãy ở thắt lưng để không tạo ra tiếng va chạm kim loại.
 * **Định hướng vật dụng:**
-  * Bật lửa Zippo vỏ đồng cất an toàn trong túi quần bên phải.
-  * Đốm sáng lam tím (Hirra) nép sát vào hõm cổ ấm áp của Trường Sinh, tỏa ánh sáng yếu ớt soi rọi góc hầm.
-  * Bộ hài cốt nắm giữ chiếc huy hiệu kim loại rỉ sét hình hai ngọn tháp song sinh và thanh kiếm gãy.
-* **Tình trạng âm thanh:** Tiếng thở dần đều lại; tiếng nước rỉ tí tách rơi xuống vại đá đều đặn giữa không gian tĩnh mịch.
+  * Khóa áo khoác đồng phục kéo cao che kín cổ và che giấu đốm sáng Hirra bên trong.
+  * Ba lô học sinh khoác chéo sau lưng, ôm sát thân người.
+  * Mắt khóa chặt vào khúc quanh con hẻm nơi bóng lưng người vác sọt nặng vừa khuất sau làn sương.
+* **Tình trạng âm thanh:** Tiếng bánh xe sắt nghiến kẽo kẹt phía trước xa dần; tiếng gió luồn qua khe nứt hai bức tường cao; Trường Sinh chủ động kiểm soát nhịp thở nhẹ và êm.
 
 

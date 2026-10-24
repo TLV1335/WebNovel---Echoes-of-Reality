@@ -213,4 +213,16 @@
   4. `00_Index/MOC.md` (Cập nhật mục I hệ thống)
   5. `logs/decisions.log` (Ghi nhận Quyết định 11)
 
+---
+
+## 12. QUYẾT ĐỊNH CHUẨN HÓA QUY TẮC QUẢN LÝ PHIÊN BẢN BẢN THẢO (ÁP DỤNG TỪ CHƯƠNG 7) (14/10/2026)
+* **Quy tắc phiên bản tinh gọn:** 
+  - Mặc định giữ nguyên tên file bản thảo trong `_drafts/` (ví dụ: `chapter_007.md`).
+  - **Chỉnh sửa nhẹ (văn phong, tỉa chữ, tinh chỉnh hành động/chi tiết nhỏ):** Sửa trực tiếp trên file hiện tại, **tuyệt đối KHÔNG tạo file mới** (v2, v3...) để tránh phân mảnh và rác thư mục.
+  - **Chỉ tạo file phiên bản riêng (`.v1`, `.v2`...):** Khi và chỉ khi có **thay đổi rất lớn** (thay đổi toàn bộ tình huống cốt truyện, thay đổi nhân vật, hoặc viết lại hoàn toàn theo một hướng kịch bản khác) nhằm mục đích lưu trữ và so sánh các phương án.
+* **Danh sách file cập nhật:**
+  1. `.agents/rules/chapter_workflow.md`
+  2. `logs/decisions.log`
+
+
 

@@ -49,6 +49,11 @@ Hệ thống nhân vật của tác phẩm **Vọng Âm Thực Tại** được 
 
 ---
 
-### Tuyến Nhân Vật Phụ
+### Tuyến Nhân Vật Phụ & Phe Phái Arc 1
 * Quản lý riêng tại thư mục: **[canon/characters/supporting/](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/)**
-  * *Tập tin hiện tại:* [exorcist_squad.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/exorcist_squad.md)
+  * **Trái Đất:** [exorcist_squad.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/exorcist_squad.md) — Nhóm bạn trừ tà Dầu Tiếng / TP.HCM.
+  * **Đội Nhặt Rác & Trinh Sát Silva:** [scavenger_squad.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/scavenger_squad.md) — Kaelen Voss (Đội trưởng), Marko Thorne (Tay nỏ/Gián điệp quý tộc), Edor Vance (Người già tri thức), Rita Vance (Trinh sát nhỏ).
+  * **Phe Kháng Chiến Silva:** [resistance_front.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/resistance_front.md) — Aegon Vance (Thủ lĩnh - Thức tỉnh Aura), Mira (Cung thủ chiến lược), Bran (Cựu linh mục hậu cần/y tế).
+  * **Phe Thượng Tầng Quý Tộc Silva:** [silva_lords.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/silva_lords.md) — Lãnh chúa Valerius Đệ Nhị, Silas Voss (Pháp sư trưởng nham hiểm), Hầu tước Cassian (Định kiến cực đoan), Bá tước Moros (Ích kỷ vô cảm), Tướng quân Balthazar (Hằn học bạo lực).
+  * **Phe Thứ 3 (The Ghosts):** [the_ghosts.md](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/the_ghosts.md) — Elara Solavane (Mẹ Caelia - Thủ lĩnh Ghost) và những cựu binh nhiễm độc mana hóa điên.
+

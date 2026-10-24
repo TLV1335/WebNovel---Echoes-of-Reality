@@ -1,23 +1,24 @@
 # EQUIPPED ITEMS (ĐẠO CỤ & TRANG BỊ HIỆN TẠI)
-*Cập nhật lần cuối: Cuối Chương 3 / Chuẩn bị Chương 4*
+*Cập nhật lần cuối: Cuối Chương 7 / Chuẩn bị Chương 8*
 *Nhân vật theo dõi: Tiêu Trường Sinh*
 
 ---
 
-## 1. VŨ KHÍ TRÊN TAY / CẠNH NGƯỜI
-* **Thanh sắt gân:** Dài 60cm, đầu vát nhọn, dính mạt đá hoa cương và vệt dịch tinh thể tím từ khớp gối zombie; hiện đang nằm trên gờ đá sát tay phải.
+## 1. VŨ KHÍ TRÊN TAY / THẮT LƯNG
+* **Thanh kiếm gãy cổ:** Dài khoảng một gang tay thép xám, mũi bị mẻ vát sắc nhọn; nhặt cạnh bộ hài cốt trong hầm tháp canh; đang cài ở thắt lưng quần tây, vạt áo rách phủ ngoài che lại.
 
 ---
 
 ## 2. VẬT DỤNG TRÊN NGƯỜI
 * **Trang phục:**
-  * Áo sơ mi trắng học sinh: rách toạc bả vai trái do móng vuốt zombie cào; vạt áo bị xé làm dải băng cẳng tay; áo ướt bùn đen và mồ hôi lạnh.
-  * Quần tây học sinh màu đen: rách gối phải, sũng nước cống từ bắp chân trở xuống.
-  * Đôi giày bata vải Thượng Đình cũ: sũng nước cống và bùn đen.
-* **Túi quần & Vật dụng cá nhân:**
-  * **Túi quần bên phải:** Chiếc bật lửa Zippo vỏ đồng của ông nội (còn xăng, đã quẹt kiểm tra 1 lần rồi dập tắt cất kỹ).
-  * **Túi quần bên trái:** Chùm chìa khóa cổng sắt có gắn móc mở nắp chai và vài đồng tiền lẻ bẹp dúm.
-* **Balo / Cặp sách (bên cạnh gờ đá):**
-  * Chai nước nhựa nửa lít: Đã dùng cạn sau khi uống hai ngụm và dội rửa vết thương.
-  * Cây kéo cắt giấy học sinh cán vàng (lưỡi 6cm): Đang để ngoài cặp cạnh gờ đá sau khi dùng cắt dải áo.
-  * 02 cuốn tập ôn thi học kỳ lớp 11: Ở ngăn chính, hơi ẩm mép giấy.
+  * Áo sơ mi trắng học sinh: rách toạc bả vai và vạt áo; dính bụi vôi và muội than tầng hầm.
+  * Áo khoác đồng phục: khóa kéo còn dùng được, che giấu các vật phẩm bên trong.
+  * Quần tây học sinh đen: rách gối, bám bụi đá.
+  * Giày bata Thượng Đình cũ: rách mũi, đã khô ráo sau 2 ngày trong hầm đá.
+* **Túi áo & Túi quần:**
+  * **Túi áo khoác trong (Ngực trái):** Cụm linh kiện cơ khí bánh răng lồng khối pha lê bát giác màu tím, khắc chìm ký hiệu hoa `P.` (Arthur Pendelton).
+  * **Túi quần bên phải:** Chiếc bật lửa Zippo vỏ đồng của người cha & Huy hiệu đồng bạc tháp đôi quấn quanh kiếm gãy của hiệp sĩ lính canh Silva.
+  * **Túi quần bên trái:** Cây kéo cắt giấy học sinh cán vàng (lưỡi 6cm), chùm chìa khóa cổng sắt.
+* **Balo học sinh:**
+  * Chai nhựa rỗng (đã cạn nước).
+  * 02 cuốn tập ôn thi học kỳ lớp 11 mép quăn.

@@ -77,8 +77,12 @@
 * **Tuyến Phản Diện Chiều Sâu:**
   * [[canon/characters/main_actors/valerius_aurelius|Đại Giáo Chủ Valerius Aurelius]] — Lãnh tụ Thánh quốc Primordia, 142 thế hệ đòi nợ máu, "thà làm ác quỷ để bảo vệ con dân".
   * [[canon/characters/main_actors/arthur_pendelton|Giáo Sư Arthur Pendelton]] — Kẻ Khâu Vá Thực Tại, người đứng đầu Thế Lực Thứ Ba, cưỡng ép hợp nhất để cứu tương lai 3000 năm.
-* **Tuyến Nhân Vật Phụ:**
+* **Tuyến Nhân Vật Phụ & Phe Phái Arc 1:**
   * [[canon/characters/supporting/exorcist_squad|Nhóm Bạn Trừ Tà Trái Đất]] — Những người bạn đồng hành chí cốt tại Dầu Tiếng / Bình Dương / TP.HCM, quân sư tình trường vụng về.
+  * [[canon/characters/supporting/scavenger_squad|Đội Nhặt Rác & Trinh Sát Silva]] — Kaelen Voss, Marko Thorne, Edor Vance, Rita Vance.
+  * [[canon/characters/supporting/resistance_front|Phe Kháng Chiến Silva]] — Thủ lĩnh Aegon Vance, chiến lược gia Mira, cựu linh mục Bran.
+  * [[canon/characters/supporting/silva_lords|Phe Quý Tộc Silva]] — Lãnh chúa Valerius Đệ Nhị, Silas Voss, Cassian, Moros, Balthazar.
+  * [[canon/characters/supporting/the_ghosts|Phe The Ghosts]] — Thủ lĩnh Elara Solavane (Mẹ Caelia) & Cựu binh nhiễm độc mana.
 
 ---
 
@@ -94,6 +98,11 @@
 * **Kế hoạch Chi tiết Arc 1:**
   * [[outline/arcs/arc_01/arc_detail|Arc 1 Detail]] — Kế hoạch 4 giai đoạn chi tiết của Arc 1 (Chương 1 – 40).
   * [[outline/arcs/arc_01/chapter_contracts|Chapter Contracts Arc 1]] — Hợp đồng đặc tả kỹ thuật từng chương (Chương 1 – 12).
+* **Hệ Thống Dòng Thời Gian (Timelines):**
+  * [[outline/timeline/master_timeline|Master Timeline]] — Biên niên sử tổng quan toàn bộ cốt truyện: Ma trận vị trí không gian & sự kiện chính 3 Hồi và 8 Arc.
+  * [[outline/timeline/arc_1|Arc 1 Timeline]] — Dòng thời gian chi tiết từng ngày/giờ từ Chương 1 đến hiện tại (Ch. 6-8) & 4 giai đoạn Arc 1.
+  * [[outline/timeline/arc_2|Arc 2 Timeline]] | [[outline/timeline/arc_3|Arc 3 Timeline]] | [[outline/timeline/arc_3a|Arc 3A Timeline]] | [[outline/timeline/arc_3b|Arc 3B Timeline]]
+  * [[outline/timeline/arc_4|Arc 4 Timeline]] | [[outline/timeline/arc_5|Arc 5 Timeline]] | [[outline/timeline/arc_6|Arc 6 Timeline]] | [[outline/timeline/arc_7|Arc 7 Timeline]]
 
 ---
 

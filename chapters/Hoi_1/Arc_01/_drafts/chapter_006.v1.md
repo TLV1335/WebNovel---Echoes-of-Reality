@@ -30,7 +30,7 @@ Một tiếng va chạm khô khốc vang lên.
 
 Cơn đau buốt nhói lập tức dội ngược từ các khớp ngón tay lên tận bả vai Trường Sinh.
 
-Không có áp lực vô hình nào xuất hiện. Không có làn sóng xung kích nào bùng phát. Nắm đấm của cậu chỉ là nắm đấm trần trụi của một thằng con trai mười bảy tuổi, nện thẳng vào lớp da xám xịt cứng như bọc thép nguội của con thú săn mồi. 
+Không có áp lực vô hình nào xuất hiện. Không có làn sóng xung kích nào bùng phát. Nắm đấm của cậu chỉ là nắm đấm trần trụi của một thằng con trai mười bảy tuổi.
 
 Khớp xương ngón tay cậu như muốn vỡ vụn. Lớp vảy xương trên sườn con quái vật thậm chí không hề nứt lấy một vết nhỏ, chỉ khẽ rung rinh một nhịp.
 
@@ -44,7 +44,7 @@ Con quái vật từ từ quay ngoắt cái đầu dị dạng lại. Đôi mắ
 
 Chi trước của nó vung lên, giáng một cú tát xé gió.
 
-Cơn đau từ bàn tay kéo giật Trường Sinh trở về thực tại. Cậu không kịp suy nghĩ, bổ nhào người lăn xả sang bên trái. Cú tát sượt qua lưng áo cậu, móng vuốt cào rách toạc lớp vải thô, rạch một đường dài bỏng rát trên da thịt trước khi nện ầm xuống gờ đá hoa cương, làm đá vụn bắn tung tóe.
+Cơn đau từ bàn tay kéo giật Trường Sinh trở về thực tại. Cậu không kịp suy nghĩ, bổ nhào người lăn xả sang bên trái. Cú tát sượt qua đúng một gang tay — móng vuốt cào vào khoảng không, chỉ kịp xé toạc lớp vải thô của ống tay áo trước khi nện ầm xuống gờ đá hoa cương, làm đá vụn bắn tung tóe.
 
 Trường Sinh lồm cồm bò dậy, không dám quay đầu nhìn lại, cắm cổ chạy thục mạng vào nhánh cống ngầm bên trái.
 
@@ -64,7 +64,7 @@ Trước mặt cậu là một bức tường đá đổ nát.
 
 Đường cụt!
 
-Trường Sinh phanh gấp lại, hai đế giày vải trượt dài trên lớp rêu mục trơn trượt. Lưng cậu va mạnh vào một tảng đá sụp gồ ghề, đau điếng.
+Trường Sinh phanh gấp lại, hai đế giày vải trượt dài trên lớp rêu mục trơn trượt. 
 
 Cậu vội vã quay ngoắt người lại, hai tay áp chặt vào vách đá phía sau.
 
@@ -77,8 +77,6 @@ Bàn tay phải của cậu sưng vù, các khớp ngón tay tím tái và run r
 Giữa góc tường đá cùng đường, lời dặn của ông nội bên bếp lửa Dầu Tiếng lại dội về bên tai:
 
 "Lúc nước lũ dâng ngập đầu, đứa nào hoảng loạn bơi ngược dòng thì chết đuối trước. Càng hoảng thì ngực càng thắt lại... Phải nương theo con nước, nén hơi mà chờ lúc nó lắng xuống."
-
-Trường Sinh cắn chặt răng vào môi dưới. Vị máu tươi mằn mặn lại thấm vào đầu lưỡi.
 
 Cậu nhắm nghiền hai mắt lại trong nửa nhịp thở.
 
@@ -104,7 +102,7 @@ Nó không bay đi trốn, mà lao thẳng vào khoảng không giữa mặt con
 
 Một luồng ánh sáng chói lòa lóe lên giữa ngách cống tối tăm.
 
-Sống trong lòng đất ẩm tối suốt bao năm tháng, đôi mắt nhạy cảm của con thú săn mồi chưa từng phải đối mặt với một nguồn sáng gắt gỏng đến thế. Hai con ngươi hình quả trám của nó co rúm lại trong tích tắc. Con quái vật rít lên một tiếng đau đớn, hai chi trước khựng lại trên không trung, quào loạn xạ vào khoảng không vô định để xua đuổi nguồn sáng làm lóa mắt.
+Sống trong lòng đất ẩm tối suốt bao năm tháng, đôi mắt nhạy cảm của con thú săn mồi chưa từng phải đối mặt với một nguồn sáng gắt gỏng đến thế. Hai con ngươi hình quả trám của nó co rúm lại trong tích tắc. 
 
 Đó chính là thời cơ duy nhất mà Trường Sinh chờ đợi.
 

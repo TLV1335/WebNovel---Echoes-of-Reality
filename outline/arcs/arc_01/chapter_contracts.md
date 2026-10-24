@@ -76,27 +76,27 @@
 
 ---
 
-### CHƯƠNG 7: THỢ SĂN GIỮA ĐỐNG ĐỔ NÁT
-* **Mục tiêu chương:** Quá trình thích nghi và rèn luyện của Trường Sinh; săn bắt zombie nhỏ để nạp mana và tích lũy nhu yếu phẩm sinh tồn.
-* **POV & Bối cảnh:** Tiêu Trường Sinh; Các dãy phố hoang tàn, nóc nhà cao tầng.
+### CHƯƠNG 7: TÀN TÍCH CHỮ P VÀ BÓNG NGƯỜI DƯỚI PHỐ HOANG
+* **Mục tiêu chương:** Nén sinh tồn 1–2 ngày hồi phục thể lực và luyện thở; khám phá tầng ngầm phòng thí nghiệm ký hiệu `P.`, nhặt linh kiện bánh răng pha lê; cuối chương bắt gặp đoàn người sống sót vũ trang có Caelia lầm lũi đi sau.
+* **POV & Bối cảnh:** Tiêu Trường Sinh; Căn hầm tháp đá canh phòng & Tầng ngầm phòng nghiên cứu cơ khí cổ Silva.
 * **Các nhịp diễn biến (Beats):**
-  1. Trường Sinh thiết lập một căn cứ tạm thời an toàn trên tầng thượng một tòa nhà; tận dụng ba lô vải và các bình chứa nhặt được cất giữ nước sạch và đồ khô.
-  2. Bắt đầu rèn luyện thể chất và kinh mạch mỗi ngày: Lối đánh nắm đấm đòi hỏi bộ chân vững chãi và phản xạ cận chiến cực nhanh.
-  3. Linh Vật trở thành người bạn đồng hành trò chuyện không lời, giúp cậu cảnh giới từ xa và phát hiện dao động ma pháp.
-  4. Trường Sinh nhận ra cơ thể dạng 1 (1m70 skinny fat) của mình vận hành mana rất khó khăn, nhưng chính sự khó khăn ấy ép cậu phải nén mana đặc hơn gấp bội người thường.
-* **Hook kết chương:** Trong lúc lục soát một tầng hầm đổ nát của tòa nhà viện nghiên cứu, Linh Vật đột nhiên nhảy dựng lên chỉ về phía một cánh cửa sắt kiên cố bị nổ tung từ bên trong.
+  1. Tóm tắt sinh tồn 1–2 ngày: Trường Sinh dưỡng thương bả vai trong căn hầm tháp đá, dùng nguồn nước ngầm sạch từ khe nứt và khẩu phần đồ khô cầm cự; rèn luyện bài thở điều tức Dầu Tiếng kết hợp với Hirra để duy trì lớp mana bọc nắm đấm ổn định 3–5 giây.
+  2. Rời tháp đá đi trinh sát: Men theo các góc khuất tàn tích, cậu phát hiện tầng hầm của một viện nghiên cứu cơ khí cổ xưa có cánh cửa sắt kiên cố bị phá bung từ bên trong.
+  3. Phòng thí nghiệm chữ `P.`: Trường Sinh lục soát đống phế tích ngổn ngang, nhặt được cụm linh kiện bánh răng lồng khối pha lê tím khắc chìm ký hiệu hoa `P.`. Trên bề mặt bàn thao tác/biển hiệu có dấu vết mập mờ ẩn ý về một "đường hầm", còn các dòng chữ bên trong đều bị nhòe mờ, rách nát không đọc được gì cả; cậu cất kỹ linh kiện vào túi áo trong.
+  4. Cuối chương — Bắt gặp đoàn người: Từ cửa thông gió tầng ngầm nhìn ra con phố hoang, Trường Sinh phát hiện một đoàn người sống sót vũ trang thồ hàng phế liệu ngang qua; ở cuối đoàn là một cô gái lầm lũi vác đồ nặng (Caelia Solavane — chỉ là một người trong đoàn, chưa được giới thiệu danh tính).
+* **Hook kết chương:** Trường Sinh nấp sau khung cửa sổ vỡ, nhìn đoàn người lạ mặt mang theo vũ khí lướt qua; câu hỏi sinh tồn xuất hiện: Liệu nên tiếp tục ẩn náu một mình hay liều mạng tiếp cận để tìm kiếm nguồn sống?
 
 ---
 
-### CHƯƠNG 8: KÝ HIỆU CHỮ P VÀ DẤU VẾT NHẶT RÁC
-* **Mục tiêu chương:** Cài cắm manh mối ngầm về Arthur Pendelton; phát hiện dấu vết con người còn sống và bắt đầu tiếp cận có tính toán, logic.
-* **POV & Bối cảnh:** Tiêu Trường Sinh; Phế tích phòng thí nghiệm ngầm và khu dân cư đổ nát liền kề.
+### CHƯƠNG 8: LỜI NÓI DỐI VÀ ĐOÀN NGƯỜI TRỞ VỀ
+* **Mục tiêu chương:** Cuộc tiếp xúc và chào hỏi với nhóm nhặt rác vũ trang; màn ứng biến nói dối thông minh của Trường Sinh; chứng kiến Caelia bị bắt nạt sai vặt; thoáng thấy bóng dáng Thủ Lĩnh Kháng Chiến.
+* **POV & Bối cảnh:** Tiêu Trường Sinh & Đoàn người sống sót; Tàn tích trạm xe buýt/trung chuyển hàng hóa & Cổng ngầm Căn cứ Kháng Chiến.
 * **Các nhịp diễn biến (Beats):**
-  1. Trường Sinh lục soát phòng thí nghiệm bỏ hoang; phát hiện linh kiện bánh răng lồng khối pha lê khắc ký tự hoa: `P.` cùng bản thảo về "vết thương của vũ trụ". Cậu bọc cẩn thận và nhét sâu vào túi áo khoác mang theo người.
-  2. Rời khỏi phòng thí nghiệm, cậu không chạy bừa bãi mà trèo lên nóc tháp nước quan sát: phát hiện các bẫy dây kẽm được đặt có chủ đích và dấu vết củi đốt đã nguội.
-  3. Cậu phát hiện một nhóm nhỏ 3 người đang lén lút lục lọi các cửa hàng thuốc tây và đồ hộp dưới chân dãy phố: trang bị áo giáp da chắp vá, đeo nỏ sắt và mang theo sọt đựng đồ.
-  4. Trường Sinh không vội vàng lao ra nhận người quen mà lặng lẽ bám theo sau ở cự ly an toàn, ghi nhận cách họ di chuyển, giao tiếp bằng thủ ngữ và cảnh giới cực kỳ kỷ luật.
-* **Hook kết chương:** Nhóm nhặt rác bất ngờ rơi vào tầm ngắm của một con chó săn ma tinh biến dị ẩn nấp trong bóng râm; Trường Sinh đứng trên gờ tường, tay cầm hòn đá bọc chút mana Vô, đứng trước lựa chọn can thiệp hay đứng nhìn.
+  1. Chào hỏi và nghi ngờ: Trường Sinh chủ động bước ra ở khoảng cách an toàn, giơ hai tay không vũ khí; nhóm nhặt rác lập tức chĩa nỏ và giáo sắt cảnh giới, buông lời nghi hoặc: *"Cậu không phải người ở đây hả?"* (tưởng cậu từ bên ngoài lọt vào).
+  2. Màn nói dối thông minh: Trường Sinh đóng vai một thiếu niên chạy nạn ngơ ngác, giả vờ bị đập đầu ngất xỉu mất trí nhớ, không nhớ gì ngoài cái tên của mình; cậu khéo léo hỏi tên đối phương trước rồi bắt chước theo cách xưng hô của họ để hòa nhập, giấu nhẹm thân phận Trái Đất và năng lực mana.
+  3. Chứng kiến Caelia bị bắt nạt: Trong lúc cả nhóm nghỉ chân kiểm kê hàng hóa, một gã đàn ông hung hăng quát tháo, đùn đẩy chiếc sọt kim loại nặng bẩn thỉu cho cô gái đi cuối đoàn (Caelia); cô gái chỉ cúi đầu nhẫn nhịn chịu đựng, không hề phản kháng; Trường Sinh thu trọn cảnh tượng ấy vào mắt.
+  4. Cuối chương — Thủ Lĩnh Kháng Chiến: Đoàn người cho phép Trường Sinh đi theo phụ việc khuân vác về căn cứ ngầm; khi cửa sắt ngầm mở ra, một đội tuần tra chiến đấu vừa trở về, Trường Sinh thoáng nhìn thấy bóng lưng uy nghiêm của vị Thủ Lĩnh Kháng Chiến mang theo thanh kiếm phát ra luồng khí tức áp bức.
+* **Hook kết chương:** Cánh cửa thép nặng nề đóng sập lại sau lưng Trường Sinh, nhốt cậu vào thế giới ngầm chen chúc của tàn dư Silva; giữa mùi khói bếp và ánh đuốc le lói, Trường Sinh bắt gặp ánh mắt thảng thốt của cô gái vừa bị bắt nạt khi cô lén nhìn cậu.
 
 ---
 
