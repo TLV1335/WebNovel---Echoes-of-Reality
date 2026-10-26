@@ -33,16 +33,32 @@
 
 ## 4. BA TẦNG LỚP SỨC MẠNH VÀ ĐỊNH KIẾN GIAI CẤP PRIMORDIA
 
-1. **Mana Thuần (Pháp Sư / Quý Tộc Thượng Tầng):**
-   * Sử dụng 4 hệ nguyên tố hoặc các năng lực biến thể (băng, xương, nguyền rủa, thao túng) để dội bom hủy diệt diện rộng.
-   * *Định kiến:* Tầng lớp này coi thường cận chiến, xem đánh tay đôi là hành vi thô bỉ, hạ đẳng của dân nghèo.
-2. **Aura (Đấu Sĩ / Kẻ Vô Năng):**
-   * Dành cho những người sinh ra không có tố chất thuyết phục Nguyên Mana.
-   * **Bản chất của Aura:** Không đến từ cơ bắp hay thể lực đơn thuần, mà bộc phát khi **Ý CHÍ và NIỀM TIN đạt tới ngưỡng cực hạn**. Đây là sức mạnh của tinh thần thép ngưng tụ thành giáp khí bảo hộ và tăng cường đòn đánh cận chiến 1v1 cực kỳ khủng bố.
-   * *Định kiến xã hội:* Bị giới quý tộc pháp sư khinh miệt là "hạ đẳng", do quá trình rèn luyện để đánh thức Aura vô cùng gian khổ, đẫm máu và cực kỳ khó khăn để đạt tới đỉnh cao.
-3. **Mana + Aura (Huyền Thoại):**
-   * Những cá thể dị biệt được người đời gọi là huyền thoại: sở hữu đồng thời lớp giáp Aura ý chí kiên cố bất hoại kết hợp với khả năng thao túng Nguyên Mana diện rộng.
-   * *Uy lực:* Sức mạnh cá nhân ngang ngửa một quân đoàn hoặc một quốc gia độc lập.
+### 1. Mana Thuần (Pháp Sư / Quý Tộc Thượng Tầng)
+* **Cơ chế:** Sử dụng 4 hệ nguyên tố hoặc các biến thể (băng, xương, nguyền rủa, thao túng) để dội bom hủy diệt diện rộng. Cần khoảng cách và thời gian niệm chú (dù chỉ 1–2 giây).
+* **Định kiến:** Tầng lớp này coi thường cận chiến, xem đánh tay đôi là hành vi thô bỉ, hạ đẳng của dân nghèo.
+
+### 2. Aura (Đấu Sĩ / Kẻ Vô Năng — Cận Chiến Đỉnh Cao)
+* **Bản chất của Aura:** Không đến từ cơ bắp hay thể lực đơn thuần, mà bộc phát khi **Ý CHÍ và NIỀM TIN đạt tới ngưỡng cực hạn**. Đây là sức mạnh của tinh thần thép ngưng tụ thành giáp khí bảo hộ và tăng cường đòn đánh cận chiến 1v1 cực kỳ khủng bố.
+* **5 ĐẶC TÍNH CỐT TỬ CỦA AURA TRONG THỰC CHIẾN:**
+  * **A. Sát thương vật lý tuyệt đối (Raw Physical Damage):** 
+    - *So sánh Mana vs Aura:* Mana tạo khiên phép thuật rất tốt, nhưng khiên phép thuật có thể bị phá vỡ bởi ma thuật mạnh hơn. Trong khi đó, một cú đấm hoặc nhát chém bọc Aura có thể phá vỡ trực tiếp kết giới phép thuật. Ma pháp là năng lượng, còn Aura là lực tác động vật lý cô đặc. Pháp sư có thể tạo ra hàng ngàn mũi giáo băng, nhưng Đấu sĩ Aura chỉ cần một cú đấm xuyên thủng lồng ngực họ.
+    - *Điểm nhấn:* Tạo ra sát thương **xuyên giáp (Armor Penetration)** và **phá hủy ma pháp (Spell Break)** cực cao.
+  * **B. Tốc độ và Phản xạ (Speed & Reflexes):** 
+    - *So sánh Mana vs Aura:* Mana cần thời gian niệm chú và khoảng cách. Khi kích hoạt Aura, hệ thần kinh của Đấu sĩ được đẩy lên giới hạn cực đại; họ đọc được từng chuyển động của đối thủ như phim quay chậm.
+    - *Điểm nhấn:* Đấu sĩ Aura có thể áp sát và cắt cổ Pháp sư trước khi Pháp sư kịp đọc xong câu thần chú. Trong đối đầu 1v1 cự ly gần, Aura nắm **thế thượng phong tuyệt đối**.
+  * **C. Miễn nhiễm / Kháng phép cực cao (Magic Resistance):** 
+    - Đấu sĩ dùng Aura bao quanh cơ thể như một lớp giáp sinh học. Lớp Aura này có đặc tính cản trở và bẻ gãy dòng chảy của Mana từ bên ngoài tràn vào.
+    - *Điểm nhấn:* Các đòn đánh phép thuật diện rộng (lửa, sét...) khi trúng vào Đấu sĩ sẽ bị suy giảm sát thương nghiêm trọng. Đấu sĩ có thể chạy xuyên qua biển lửa để đấm vỡ mặt Pháp sư.
+  * **D. Sự ổn định tuyệt đối (Không phụ thuộc môi trường):** 
+    - Mana phụ thuộc nặng nề vào môi trường (nơi mana loãng như Trái Đất, pháp sư yếu đi; trong vùng ô nhiễm/độc mana, pháp sư có thể phát điên). 
+    - Ngược lại, **Aura là nội lực nằm trong máu thịt**. Đấu sĩ có thể chiến đấu bền bỉ trong vùng chân không mana, trong cống ngầm ô nhiễm, hay giữa trận địa nhiễm độc mà không hề suy suyển. Càng đánh lâu, Đấu sĩ càng bộc lộ sự dẻo dai vô hạn của thể chất.
+  * **E. Áp lực (Intimidation / Aura Pressure):** 
+    - Khi Đấu sĩ giải phóng Aura, nó tạo ra một trường áp lực tinh thần vô hình đè nặng lên không gian xung quanh. Những kẻ yếu tim hoặc những Pháp sư có ý chí tinh thần kém sẽ bị tê liệt, tay chân run rẩy không thể niệm chú.
+* **Định kiến xã hội:** Giới quý tộc pháp sư vẫn khinh miệt Đấu sĩ là "hạ đẳng" vì quá trình tôi luyện để đánh thức Aura vô cùng tàn khốc, đẫm máu và cực kỳ khó khăn để đạt tới đỉnh cao.
+
+### 3. Mana + Aura (Đẳng Cấp Huyền Thoại)
+* Cá thể dị biệt ngàn năm có một: sở hữu đồng thời lớp giáp Aura ý chí kiên cố bất hoại kết hợp với khả năng thao túng Nguyên Mana diện rộng (hoặc vũ khí truyền Mana).
+* Sức mạnh cá nhân ngang ngửa một quân đoàn hoặc một quốc gia độc lập. (Điển hình: Ma Kiếm Sĩ đỉnh cao thức tỉnh Aura như Thủ lĩnh Kháng Chiến Aegon Vance cuối Arc 1).
 
 ---
 

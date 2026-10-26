@@ -11,7 +11,7 @@
 * [[canon/power_system/primordial_mana|Primordial Mana]] — 3 tính chất chết người (Ăn mòn, Áp chế, Cuồng loạn), quy tắc Tainted Mana, hệ biến thể (vô hạn khả năng), 3 tầng lớp sức mạnh (Pháp sư / Đấu sĩ Aura / Huyền thoại) và Thang đo quái vật (Thú - Lãnh thú - Vương thú - Thần thú).
 * [[canon/power_system/earth_mana_core_and_quirks|Earth Mana Core & Quirks]] — Tiến hóa sau Đại Phản Bội, năng lực cá nhân hóa 1v1 và luật im lặng của các tập đoàn tài phiệt.
 * [[canon/power_system/void_core_and_combat|Void Core & Combat]] — Tiêu Trường Sinh: Điểm neo 1/8 tỷ, song hành Vô - Cuồng, Hirra, nắm đấm Haki vũ trang và 5 Bản vá chiến đấu (Tainted mana, Vùng chân không, Phản phệ Deku, Điểm mù của M, Tuần hoàn Gojo).
-* [[canon/power_system/primordia_magic_schools|Primordia Magic Schools]] — Thánh quốc, Vương quốc trung cổ, Solavane, Liên bang Steampunk (Niệm) và định kiến giai cấp.
+* [[canon/power_system/primordia_magic_schools|Primordia Magic Schools & Combat Styles]] — 4 trường phái ma pháp chính, định kiến giai cấp, và phong cách chiến đấu các chủng tộc (Đấu sĩ mana nội thể, Thú nhân hóa thú, Ma kiếm sĩ, Tiên tộc ẩn mình, Người cá dung môi nước).
 
 
 ---

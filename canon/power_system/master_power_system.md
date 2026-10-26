@@ -51,11 +51,17 @@ Hệ thống phong cách ma pháp tại Primordia mang tính phân bố khu vự
 
 ### Ba Tầng Lớp Sức Mạnh & Định Kiến Xã Hội Primordia
 1. **Mana Thuần (Pháp Sư / Quý Tộc Thượng Tầng):**
-   * Sử dụng 4 hệ nguyên tố hoặc các năng lực biến thể (băng, xương, thao túng, nguyền rủa...) dội bom diện rộng. Coi thường cận chiến.
-2. **Aura (Đấu Sĩ / Kẻ Vô Năng):**
-   * Không thể niệm phép. Aura bộc phát khi **Ý chí và Niềm tin đạt ngưỡng cực hạn**, ngưng tụ thành sức mạnh tinh thần thép 1v1 cực mạnh. Bị xã hội pháp sư khinh miệt là hạ đẳng vì quá trình tôi luyện gian khổ và khó thành thạo.
-3. **Mana + Aura (Huyền Thoại):**
-   * Cá thể dị biệt ngàn năm có một: vừa có lớp giáp Aura ý chí kiên cố, vừa thao túng Nguyên Mana diện rộng. Sức mạnh ngang một quốc gia.
+   * Sử dụng 4 hệ nguyên tố hoặc các năng lực biến thể (băng, xương, thao túng, nguyền rủa...) dội bom diện rộng. Cần khoảng cách và thời gian niệm chú. Coi thường cận chiến.
+2. **Aura (Đấu Sĩ / Kẻ Vô Năng — Cận Chiến Đỉnh Cao):**
+   * Không thể niệm phép. Bộc phát khi **Ý chí và Niềm tin đạt ngưỡng cực hạn**, ngưng tụ thành sức mạnh tinh thần thép 1v1 cực mạnh. Bị xã hội pháp sư khinh miệt là hạ đẳng vì quá trình tôi luyện gian khổ và khó thành thạo.
+   * **5 đặc tính cốt tử:**
+     - *A. Sát thương vật lý tuyệt đối:* Phá vỡ trực tiếp kết giới phép thuật, sát thương xuyên giáp (Armor Penetration) và phá hủy ma pháp (Spell Break) cực cao.
+     - *B. Tốc độ và Phản xạ:* Không cần niệm chú, đẩy hệ thần kinh lên giới hạn, đọc chuyển động như phim quay chậm, áp sát cắt cổ pháp sư, 1v1 nắm thượng phong tuyệt đối.
+     - *C. Kháng phép cực cao:* Lớp giáp sinh học cản trở dòng chảy mana từ bên ngoài, suy giảm sát thương phép diện rộng, chạy xuyên biển lửa để áp sát.
+     - *D. Sự ổn định tuyệt đối:* Là nội lực nằm trong máu thịt, chiến đấu bền bỉ vô hạn trong chân không mana, cống ngầm ô nhiễm hay trận địa nhiễm độc.
+     - *E. Áp lực (Aura Pressure):* Tạo áp lực tinh thần vô hình đè nặng không gian, khiến kẻ yếu tim hoặc pháp sư tinh thần yếu bị tê liệt, run rẩy không thể niệm chú.
+3. **Mana + Aura (Đẳng Cấp Huyền Thoại):**
+   * Cá thể dị biệt ngàn năm có một: vừa có lớp giáp Aura ý chí kiên cố bất hoại, vừa thao túng Nguyên Mana diện rộng (hoặc truyền Mana cường hóa vũ khí ma pháp). Sức mạnh ngang một quân đoàn hoặc một quốc gia. (Điển hình: Ma Kiếm Sĩ thức tỉnh Aura như Aegon Vance cuối Arc 1).
 
 ### Thang Đo Thảm Họa Quái Vật Primordia
 * **Bậc Thú (Beast Class):** Thú hoang nhiễm mana đột biến. Dân quân/thợ săn phối hợp hạ được.

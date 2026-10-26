@@ -22,6 +22,7 @@
 
 ## 3. THIÊN PHÚ & NĂNG LỰC CHIẾN ĐẤU
 * **Ma thuật bẩm sinh:** Bẩm sinh có khả năng cảm ứng và "thuyết phục" Nguyên Mana cực kỳ mạnh mẽ, đặc biệt là Phong hệ và Mộc/Thủy hệ.
+* **Kỹ năng Ẩn mình (Đồng bộ Mana tần số):** Cơ địa sinh học bẩm sinh tương thích hoàn hảo tuyệt đối với dòng chảy Mana môi trường. Khi cần ẩn mình, họ không tàng hình quang học vật lý, mà dùng Mana nội thể tần số hóa để hòa làm một với Nguyên Mana xung quanh; mọi thiết bị dò tìm ma thuật hay giác quan nhạy bén của đối thủ chỉ cảm nhận họ như một cái cây hay làn gió thoảng.
 * **Giác quan siêu phàm:** Thị giác có thể nhìn rõ trong đêm tối và ngắm bắn mục tiêu cách xa hàng dặm; thính giác bắt được từng rung động của lá rụng.
 * **Xạ thuật & Di chuyển:** Bậc thầy bắn cung tuyệt đỉnh, bước chân lướt trên cành cây hoặc tuyết dày mà không hề để lại bất kỳ dấu vết hay tiếng động nào.
 

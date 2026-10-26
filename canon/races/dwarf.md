@@ -23,6 +23,8 @@
 ## 3. THIÊN PHÚ & NĂNG LỰC CHIẾN ĐẤU
 * **Bậc thầy chế tác & Kỹ nghệ:** Khả năng luyện kim, rèn đúc vũ khí chống ăn mòn Nguyên Mana và chế tạo máy móc hơi nước/cơ khí tinh xảo độc nhất vô nhị.
 * **Sức bền vật lý vô địch:** Thể lực dẻo dai khủng khiếp, có thể vung búa nặng hàng chục cân liên tục ngày đêm hoặc gánh vác khối lượng quặng gấp ba lần trọng lượng cơ thể.
+* **Phong cách Đấu Sĩ Mana nội thể:** Không phóng mana ra ngoài niệm phép; họ xoay vòng Mana nội thể (từ Hạch Mana) dọc theo kinh mạch để gia cố mật độ cơ bắp, màng xương và phản xạ. Nhờ khung xương dày gấp đôi và cơ bắp săn như thép nguội bẩm sinh, tộc Người Lùn chịu đựng hoàn hảo áp lực phản lực cực hạn.
+* **Kỹ thuật độc môn — Bộc kình tiếp xúc (Point-blank Burst):** Nén chặt Mana nội thể và chỉ bộc phát tại khoảnh khắc va chạm mục tiêu nhằm tạo lực phá giáp và đập vỡ xương quái vật mà không hao phí mana trên đường vung đòn (kỹ thuật Edor Vance / Borin truyền dạy cho Tiêu Trường Sinh).
 * **Kháng tự nhiên:** Kháng cực tốt các loại khí độc hầm mỏ và miễn nhiễm tự nhiên trước các loại ma thuật thao túng tâm trí, ảo ảnh.
 
 ---

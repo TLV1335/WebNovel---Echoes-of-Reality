@@ -22,6 +22,7 @@
 ---
 
 ## 3. THIÊN PHÚ & NĂNG LỰC CHIẾN ĐẤU
+* **Cơ chế Dung môi Mana & Sóng âm cộng hưởng:** Nước là dung môi ngậm và tích lũy Mana hoàn hảo. Tộc Người Cá dùng sóng âm (tiếng hát Siren) để cộng hưởng Hạch Mana cá nhân với Mana tự nhiên hòa tan trong nước; từ đó thao túng dòng chảy vật lý của khối nước bọc Mana áp suất cao để xé nát đối thủ (dòng xiết cuốn phăng mục tiêu, phóng các lưỡi đao nước áp lực cao sắc bén). Lối đánh này dựa hoàn toàn vào Mana môi trường và Mana nội thể, không liên quan đến Aura.
 * **Tốc độ bơi xé nước:** Dưới môi trường nước, họ di chuyển với vận tốc kinh hoàng, linh hoạt lượn vòng xé rách dòng chảy mà không có bất kỳ tàu thuyền cơ khí nào sánh kịp.
 * **Tiếng hát mê hoặc (Siren Song):** Tần số sóng âm phát ra từ cổ họng các Siren có khả năng xuyên thấu qua mặt nước, đánh thẳng vào ý thức con mồi, tạo ảo giác đê mê hoặc bóp nghẹt thần kinh khiến thủy thủ đoàn tự nhảy xuống biển tự sát.
 * **Thao túng thủy triều & Dòng xoáy:** Khả năng kết nối tự nhiên với Thủy hệ Nguyên Mana, dễ dàng tạo ra những cơn lốc xoáy ngầm, sóng thần và mũi tên nước áp lực cao xuyên thủng vỏ thép tàu thuyền.

@@ -280,3 +280,31 @@
   15. `00_Index/Timeline.md`
   16. `logs/decisions.log` (Ghi nhận Quyết định 15)
 
+---
+
+## 16. QUYẾT ĐỊNH CHUẨN HÓA 5 ĐẶC TÍNH CỐT TỬ CỦA AURA & PHONG CÁCH CHIẾN ĐẤU CÁC CHỦNG TỘC (26/10/2026)
+* **1. Năm đặc tính cốt tử của Aura (Đấu sĩ / Cận chiến đỉnh cao):**
+  - **A. Sát thương vật lý tuyệt đối (Raw Physical Damage):** Sát thương xuyên giáp (Armor Penetration) và phá hủy ma pháp (Spell Break) cực cao. Ma pháp là năng lượng, Aura là lực tác động vật lý cô đặc bẻ gãy kết giới phép thuật.
+  - **B. Tốc độ và Phản xạ (Speed & Reflexes):** Không cần thời gian niệm chú; kích hoạt Aura đẩy hệ thần kinh lên giới hạn, đọc chuyển động như phim quay chậm. Áp sát cắt cổ pháp sư, 1v1 nắm thế thượng phong tuyệt đối.
+  - **C. Miễn nhiễm / Kháng phép cực cao (Magic Resistance):** Bao quanh cơ thể như giáp sinh học cản trở dòng chảy mana từ bên ngoài; suy giảm sát thương phép diện rộng, chạy xuyên biển lửa để đấm vỡ mặt pháp sư.
+  - **D. Sự ổn định tuyệt đối (Không phụ thuộc môi trường):** Là nội lực nằm trong máu thịt; chiến đấu bền bỉ vô hạn trong chân không mana, cống ngầm ô nhiễm hay trận địa nhiễm độc.
+  - **E. Áp lực (Aura Pressure):** Tạo trường áp lực tinh thần vô hình đè nặng không gian, khiến kẻ yếu tim hoặc pháp sư tinh thần yếu bị tê liệt, run rẩy không thể niệm chú.
+* **2. Phong cách chiến đấu chủng tộc & hệ phái Primordia:**
+  - **Đấu sĩ (Người Lùn / Cận chiến phổ thông):** Cơ chế Mana nội thể chạy dọc kinh mạch gia cố cơ bắp, màng xương và phản xạ. Kỹ thuật bộc kình tiếp xúc (Point-blank Burst) của tộc Người Lùn (truyền cho Trường Sinh). Đòi hỏi thể chất bẩm sinh săn chắc.
+  - **Tộc Thú Nhân:** Cơ chế Hóa Thú bơm Mana vào tế bào kích thích gen tổ tiên (mọc lông, vuốt, cơ bắp trương phình, giác quan săn mồi). Điểm yếu: Dễ bị tính Cuồng loạn của Nguyên Mana nuốt chửng lý trí.
+  - **Ma Kiếm Sĩ:** Sử dụng Mana vật lý (làm búa và đe), truyền Mana nội thể vào rãnh rune vũ khí tạo hiệu ứng ma pháp tầm gần; cường hóa dây thần kinh tăng trao đổi chất (đòi hỏi thể chất cao hơn pháp sư). Đỉnh cao Huyền thoại khi kết hợp Mana (vũ khí rune) + Aura (ý chí cực hạn bọc ngoài).
+  - **Tộc Tiên:** Kỹ năng Ẩn mình bằng cách tần số hóa Mana nội thể hòa làm một với Nguyên Mana môi trường xung quanh (ẩn trước mọi giác quan và thiết bị dò tìm).
+  - **Tộc Người Cá:** Dung môi Mana (nước ngậm Mana cực tốt), dùng tiếng hát Siren cộng hưởng Hạch Mana với nước, thao túng dòng chảy bọc Mana (dòng xoáy áp suất cao, đao nước). Hoàn toàn độc lập với Aura.
+* **Danh sách file cập nhật:**
+  1. `canon/power_system/primordial_mana.md`
+  2. `canon/power_system/master_power_system.md`
+  3. `canon/power_system/primordia_magic_schools.md`
+  4. `canon/races/dwarf.md`
+  5. `canon/races/beastfolk.md`
+  6. `canon/races/elf.md`
+  7. `canon/races/merfolk.md`
+  8. `canon/races/master_races.md`
+  9. `00_Index/Power_System.md`
+  10. `logs/decisions.log` (Ghi nhận Quyết định 16)
+
+
