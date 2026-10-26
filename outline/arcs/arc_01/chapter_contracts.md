@@ -88,39 +88,40 @@
 
 ---
 
-### CHƯƠNG 8: LỜI NÓI DỐI VÀ ĐOÀN NGƯỜI TRỞ VỀ
-* **Mục tiêu chương:** Cuộc tiếp xúc và chào hỏi với nhóm nhặt rác vũ trang; màn ứng biến nói dối thông minh của Trường Sinh; chứng kiến Caelia bị bắt nạt sai vặt; thoáng thấy bóng dáng Thủ Lĩnh Kháng Chiến.
-* **POV & Bối cảnh:** Tiêu Trường Sinh & Đoàn người sống sót; Tàn tích trạm xe buýt/trung chuyển hàng hóa & Cổng ngầm Căn cứ Kháng Chiến.
+### CHƯƠNG 8: MŨI TÊN CẢNH CÁO VÀ HẦM TRÚ ẨN CŨ
+* **Mục tiêu chương:** Cuộc chạm trán nghẹt thở giữa Trường Sinh và đội nhặt rác; mũi nỏ cảnh cáo; màn gào thét giải tỏa "Tôi không nhớ gì cả!"; bầy Tử Linh ùa tới bất ngờ; sự lệch pha văn hóa "Zombie" vs "Tử Linh"; dẫn đường tháo chạy về căn hầm tháp đá cũ của Trường Sinh.
+* **Quy chuẩn xưng hô:** Tuân thủ Quyết định 13 — Chừng mực, sắc lạnh, cấm dùng "mày – tao" (dùng "cậu – tôi", "anh – tôi", "chúng tôi – cậu").
+* **POV & Bối cảnh:** Tiêu Trường Sinh & Đội nhặt rác (Kaelen Voss, Marko, Edor, Rita, Caelia); Con hẻm phế tích ngã tư & Căn hầm tháp đá canh phòng cũ.
 * **Các nhịp diễn biến (Beats):**
-  1. Chào hỏi và nghi ngờ: Trường Sinh chủ động bước ra ở khoảng cách an toàn, giơ hai tay không vũ khí; nhóm nhặt rác lập tức chĩa nỏ và giáo sắt cảnh giới, buông lời nghi hoặc: *"Cậu không phải người ở đây hả?"* (tưởng cậu từ bên ngoài lọt vào).
-  2. Màn nói dối thông minh: Trường Sinh đóng vai một thiếu niên chạy nạn ngơ ngác, giả vờ bị đập đầu ngất xỉu mất trí nhớ, không nhớ gì ngoài cái tên của mình; cậu khéo léo hỏi tên đối phương trước rồi bắt chước theo cách xưng hô của họ để hòa nhập, giấu nhẹm thân phận Trái Đất và năng lực mana.
-  3. Chứng kiến Caelia bị bắt nạt: Trong lúc cả nhóm nghỉ chân kiểm kê hàng hóa, một gã đàn ông hung hăng quát tháo, đùn đẩy chiếc sọt kim loại nặng bẩn thỉu cho cô gái đi cuối đoàn (Caelia); cô gái chỉ cúi đầu nhẫn nhịn chịu đựng, không hề phản kháng; Trường Sinh thu trọn cảnh tượng ấy vào mắt.
-  4. Cuối chương — Thủ Lĩnh Kháng Chiến: Đoàn người cho phép Trường Sinh đi theo phụ việc khuân vác về căn cứ ngầm; khi cửa sắt ngầm mở ra, một đội tuần tra chiến đấu vừa trở về, Trường Sinh thoáng nhìn thấy bóng lưng uy nghiêm của vị Thủ Lĩnh Kháng Chiến mang theo thanh kiếm phát ra luồng khí tức áp bức.
-* **Hook kết chương:** Cánh cửa thép nặng nề đóng sập lại sau lưng Trường Sinh, nhốt cậu vào thế giới ngầm chen chúc của tàn dư Silva; giữa mùi khói bếp và ánh đuốc le lói, Trường Sinh bắt gặp ánh mắt thảng thốt của cô gái vừa bị bắt nạt khi cô lén nhìn cậu.
+  1. Mũi nỏ cảnh cáo: Trường Sinh bám theo con hẻm nhưng bị trinh sát phát hiện; Marko Thorne thoắt cái xuất hiện trên gờ tường, giương nỏ cơ khí bắn một mũi tên sắt sượt sát mũi giày Trường Sinh tóe lửa cảnh cáo; Kaelen rút đoản kiếm gỉ, nhóm lập tức chĩa vũ khí bao vây tra hỏi đanh thép: *"Đứng yên đó! Cậu là ai? Bám theo chúng tôi từ bao giờ?"*.
+  2. "Tôi không nhớ gì cả!": Bị dồn vào chân tường đá dưới họng nỏ, Trường Sinh giơ hai tay, trong cơn ức chế và hoảng loạn cậu gắt lên: *"Tôi bị đập đầu vào đá, tôi không nhớ gì hết! Tôi chỉ muốn tìm cái ăn thôi!"*. Cả nhóm sững sờ trước sự mộc mạc và bả vai đang kéo da non của cậu, bầu không khí nghi kỵ nghẹt thở.
+  3. Lệch pha "Zombie" vs "Tử Linh": Tiếng cào móng và tiếng gầm rộ lên từ ngã tư; một đàn xác sống ma tinh đông đúc từ các khe nứt ùa ra bít kín hai đầu hẻm; Trường Sinh buột miệng hét lên: *"Zombie! Đằng trước có cả đàn zombie kìa!"*; Marko vừa nạp nỏ vừa chửi đổng: *"Zombie cái quái gì? Là lũ Tử Linh! Đường rút bị chặn rồi!"*.
+  4. Căn hầm cũ cứu nguy: Xe thồ chở nặng không thể quay đầu thoát hiểm; Trường Sinh lập tức chỉ hướng tháp đá: *"Theo tôi! Cách đây một dãy phố có hầm đá tường dày, cửa hẹp bọn chúng không vào được!"*; Kaelen quyết đoán ra lệnh: *"Theo cậu ta! Chạy!"*. Cả nhóm hộ tống xe hàng tháo chạy thục mạng theo Trường Sinh vào căn hầm cũ, chốt sập cửa đá lại ngay trước mũi vuốt bầy Tử Linh.
+* **Hook kết chương:** Tiếng móng vuốt cào rách cửa đá ầm ĩ bên ngoài; trong bóng tối căn hầm tĩnh lặng, những tiếng thở dốc nặng nề vang lên; Kaelen hạ đoản kiếm, đưa mắt nhìn ngọn lửa le lói trên chiếc bật lửa kim loại trong tay Trường Sinh.
 
 ---
 
-### CHƯƠNG 9: TIẾNG NỎ TRONG HẺM VẮNG VÀ BƯỚC ĐẦU LẬP NIỀM TIN
-* **Mục tiêu chương:** Cuộc tiếp xúc logic, chặt chẽ đầu tiên giữa Trường Sinh và nhóm nhỏ sống sót; thiết lập sự thận trọng và quy trình sinh tồn thực tế.
-* **POV & Bối cảnh:** Tiêu Trường Sinh & Nhóm trinh sát nhặt rác (Gồm bác thợ máy già Edor, tay nỏ trẻ Marko và cô bé trinh sát Rita); Hẻm tối khu phố cũ.
+### CHƯƠNG 9: TIẾNG THÉT CỦA KẺ ĐIÊN VÀ CÚ ĐẤM CỨU MẠNG
+* **Mục tiêu chương:** Màn hội thoại thăm dò trong hầm tối; trao đổi mẹo cận chiến giữa Edor và Trường Sinh; tiếp tục nhiệm vụ thám thính khu vực chỉ định; đụng độ "Ghost" đầu tiên; hỗn chiến sinh tử; Trường Sinh áp dụng đòn đấm bộc phát năng lượng sát cự ly cứu mạng Kaelen Voss; Kaelen ghi nhận ơn nghĩa và quyết định dẫn cậu về căn cứ.
+* **POV & Bối cảnh:** Tiêu Trường Sinh & Đội nhặt rác; Căn hầm tháp đá cũ & Quảng trường phế tích đổ nát.
 * **Các nhịp diễn biến (Beats):**
-  1. Trường Sinh ném đá đánh lạc hướng con quái vật, tạo cơ hội cho tay nỏ Marko bắn hạ nó; cậu xuất hiện với tư thế giơ hai tay không vũ khí, giữ khoảng cách mười bước chân.
-  2. Nhóm trinh sát chĩa nỏ vào Trường Sinh đầy cảnh giác, lập tức tra hỏi hành tung, bắt cậu cởi áo khoác ngoài để soi đèn kiểm tra cổ tay và gáy (những vị trí dễ bị cắn nhiễm độc nhất).
-  3. Nhận thấy Trường Sinh là một thiếu niên gầy yếu (vẻ ngoài NPC), nói năng điềm đạm, không có dấu vết biến dị và có công hỗ trợ, thái độ của bác thợ Edor dần chùng xuống.
-  4. Hai bên trao đổi ngắn gọn: Trường Sinh viện cớ bị kẹt lại trong hầm ngầm suốt thời gian qua; đổi lại một hộp diêm và ít đồ cơ khí nhặt được để xin đi cùng về căn cứ.
-* **Hook kết chương:** Bác Edor gật đầu đồng ý nhưng vẫn trói hờ hai cổ tay Trường Sinh bằng dây thừng gai theo đúng điều lệ an toàn: *"Đừng trách bọn ta cay nghiệt, nhóc con. Bất kỳ ai vào Khu Tị Nạn cũng phải qua ba vòng kiểm duyệt nếu muốn giữ được cái mạng!"*.
+  1. Hội thoại trong hầm tối: Bầy Tử Linh vây kín bên ngoài; Kaelen và Edor quan sát căn hầm (nguồn nước ngầm, bộ hài cốt hiệp sĩ vô danh, dấu vết luyện tập) nhận ra Trường Sinh đã đơn độc sinh tồn ở đây nhiều ngày; Trường Sinh thấy cô gái đi cuối đoàn (Caelia) ngồi nép góc tối ôm đầu gối, cậu đưa nắp chai nước ngầm cho cô giải khát; sự nghi kỵ dần hạ nhiệt. Edor nhìn vết thương sưng tím ở khớp tay Trường Sinh và nhận thấy cậu thiếu hụt năng lượng trầm trọng, liền buột miệng chỉ cho cậu một mẹo sinh tồn thực chiến: *Không bọc năng lượng liên tục khi vung tay, mà chỉ bộc phát đúng khoảnh khắc nắm đấm gần chạm mục tiêu để tiết kiệm sức (nhược điểm: xương thịt trần phải chịu lực, cực khó làm chủ).*
+  2. Tiếp tục hành trình thám thính: Bầy Tử Linh tản đi, nhóm mở cửa hầm tiếp tục tiến về khu phế tích cơ khí theo lệnh căn cứ; Trường Sinh được phép đi theo phụ việc.
+  3. Đụng độ "Ghost" đầu tiên: Không khí lạnh toát, một tiếng thét xé màng nhĩ vang lên; một cựu binh nhiễm độc ma tinh hóa điên (Ghost) lao ra với thanh đại kiếm gãy, tốc độ và sức bật cuồng loạn vượt xa Tử Linh thông thường; Marko bắn trượt nỏ, Kaelen lao lên đỡ đòn nhưng bị sức mạnh áp đảo đánh bay đoản kiếm ngã ngửa; lưỡi kiếm gãy của Ghost bổ thẳng xuống đầu Kaelen!
+  4. Cú đấm cứu mạng Kaelen: Trường Sinh không bỏ chạy; cậu bắt nhịp thở điều tức, liều mạng áp dụng mẹo của Edor — vung nắm đấm tay trần lao vào và chỉ bộc phát luồng năng lượng ở tích tắc va chạm cách lưỡi kiếm vài phân; cú đấm bạt ngang sống kiếm Ghost làm chệch quỹ đạo chém trong gang tấc, rồi cậu đạp sập gờ tường đá cản đường tạo lối thoát; cả nhóm kéo Kaelen chạy thoát vào hẻm hẹp.
+* **Hook kết chương:** Kaelen nhìn chằm chằm vào bàn tay run rẩy, rướm máu vì phản lực của Trường Sinh; ông không tra hỏi sâu, chỉ nhặt thanh đoản kiếm gỉ lên rồi nói ngắn gọn: *"Nợ cậu một mạng. Về căn cứ với chúng tôi."*
 
 ---
 
 ### CHƯƠNG 10: CON ĐƯỜNG VÀO KHU TỊ NẠN
-* **Mục tiêu chương:** Nhóm nhỏ dẫn giải Trường Sinh qua các tuyến hào ngầm an toàn; bước chân vào Khu Ổn Định và trải nghiệm trật tự xã hội sau 20 năm giam cầm.
-* **POV & Bối cảnh:** Tiêu Trường Sinh; Hệ thống đường cống ngầm phòng thủ và cổng sắt kiểm dịch của Khu Ổn Định.
+* **Mục tiêu chương:** Đội nhặt rác dẫn Trường Sinh qua hệ thống hào ngầm an toàn tiến vào Căn cứ Kháng Chiến / Khu Tị Nạn Nhà Ga Trung Tâm; trạm kiểm dịch ma tinh; diện kiến đời sống tàn dư Silva; thoáng thấy bóng lưng Thủ Lĩnh Aegon Vance.
+* **POV & Bối cảnh:** Tiêu Trường Sinh; Hệ thống đường cống ngầm phòng thủ và cổng sắt kiểm dịch Căn cứ Kháng Chiến.
 * **Các nhịp diễn biến (Beats):**
-  1. Nhóm 3 người dẫn Trường Sinh luồn lách qua hệ thống cống ngầm được gia cố bằng cọc sắt và chuông báo động treo dây bẫy; Trường Sinh âm thầm ghi nhớ sơ đồ địa hình.
-  2. Đến trạm kiểm dịch tiền đồn: Trường Sinh được nhỏ giọt nước thánh thử phản ứng ma tinh (thuộc tính Vô của cậu không phát ra ánh sáng tím nên hoàn toàn vượt qua kiểm tra).
-  3. Dây trói được cởi bỏ; bác Edor bảo lãnh cậu với viên sĩ quan gác cổng, đưa cậu qua cánh cổng sắt bọc thép khổng lồ tiến vào nội khu.
-  4. Khung cảnh Khu Ổn Định hiện ra: hàng ngàn người sống chen chúc quanh một Đại Thánh Đường kiên cố, khói bếp cay nồng, tiếng thợ rèn quai búa, người bị thương nằm la liệt nhưng ánh mắt ai nấy đều mang khát vọng sống dai dẳng.
-* **Hook kết chương:** Trường Sinh nhận được một thẻ gỗ thân phận lưu dân tạm trú; khi quay đầu nhìn lại góc giếng nước sau thánh đường, cậu bất ngờ chạm phải ánh mắt màu hổ phách ấm áp của một cô gái mảnh mai trùm áo choàng rách rưới đang im lặng nhìn mình.
+  1. Tuyến đường ngầm an toàn: Kaelen dẫn nhóm luồn lách qua các hành lang ngầm được gia cố chông bẫy; Trường Sinh âm thầm ghi nhớ sơ đồ địa hình; Marko đã bớt cợt nhả, nhìn Trường Sinh với ánh mắt kiêng dè nể phục.
+  2. Trạm kiểm dịch tiền đồn: Trường Sinh được nhỏ giọt nước thử ma tinh (thuộc tính Vô không phát sáng tím ma tinh nên vượt qua an toàn); Kaelen trực tiếp đứng ra bảo lãnh cậu trước viên sĩ quan gác cổng: *"Người này cứu mạng tôi, tôi chịu trách nhiệm."*
+  3. Diện mạo Khu Tị Nạn: Cánh cổng sắt bọc thép khổng lồ mở ra; khung cảnh hàng ngàn người sống chen chúc trong lòng Nhà Ga Trung Tâm cổ hiện ra: mùi khói bếp cay nồng, tiếng đập búa của thợ rèn, người bị thương nằm la liệt nhưng ánh mắt ai nấy đều mang khát vọng sống dai dẳng.
+  4. Cuối chương — Bóng lưng Thủ Lĩnh: Cả khu vực xôn xao khi một đội tuần tra chiến đấu vừa trở về; Trường Sinh thoáng nhìn thấy bóng lưng uy nghiêm của **Thủ Lĩnh Aegon Vance** khoác áo giáp da hổ lốn, một tay cầm khiên một tay cầm rìu chiến bước vào thánh đường.
+* **Hook kết chương:** Trường Sinh nhận được thẻ gỗ lưu dân tạm trú; khi quay lại góc giếng nước sau nhà ga, cậu bắt gặp ánh mắt trong veo màu hổ phách của cô gái vừa cùng vác đồ (Caelia) đang im lặng nhìn mình từ xa.
 
 ---
 

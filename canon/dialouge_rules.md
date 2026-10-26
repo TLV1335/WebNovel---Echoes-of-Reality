@@ -34,3 +34,8 @@ và phải gắn với hoàn cảnh riêng của cậu (nỗi sợ mình là ng�
 cảm giác bị bỏ rơi ở Primordia, ký ức về Caelia, sự im lặng của Lỗ Hổng), 
 không phải câu sinh tồn chung chung. Ưu tiên thể hiện qua chi tiết cậu 
 để ý và lựa chọn hành động, hạn chế "cậu nghĩ" trực tiếp.
+
+5. Thái độ xưng hô: Chừng mực, tự nhiên, TUYỆT ĐỐI KHÔNG dùng "mày - tao".
+- Không xưng hô kiểu hỗn hào hay thô lỗ bỗ bã: Tuyệt đối không dùng "mày - tao", kể cả khi tra hỏi, nghi kỵ, bị chĩa nỏ vào đầu hay trong các tình huống sinh tử đe dọa.
+- Giữ sự bình thường và lịch sự tự nhiên: Dùng cặp xưng hô đời thường ("tôi - cậu", "anh - cậu", "chúng tôi - cậu", "ông - tôi"). Sự căng thẳng hay nguy hiểm được thể hiện qua mệnh lệnh dứt khoát, âm sắc sắc lạnh và hành động thực tế ("Đứng yên đó!", "Bỏ tay ra!", "Ngươi từ đâu tới?"), chứ không thể hiện qua từ ngữ văng tục vô văn hóa.
+- Không quá lịch sự khách sáo: Không dùng các từ xưng hô cổ phong phong kiến hay sến súa rườm rà ("các hạ", "tiểu tử", "huynh đài", "tiện nhân"). Giữ đúng tinh thần giao tiếp thực dụng, gọn ghẽ giữa những con người sinh tồn.

@@ -224,5 +224,31 @@
   1. `.agents/rules/chapter_workflow.md`
   2. `logs/decisions.log`
 
+---
 
+## 13. QUYẾT ĐỊNH CHUẨN HÓA THÁI ĐỘ XƯNG HÔ (CẤM "MÀY - TAO", CHỪNG MỰC TỰ NHIÊN) (26/10/2026)
+* **Bối cảnh & Chỉ đạo của Tác giả:** 
+  Xưng hô trong truyện không được dùng kiểu "hỗn" quá; phải bình thường và lịch sự nhưng không quá lịch sự (không khách sáo, không sến súa cổ trang) và **tuyệt đối không dùng "mày – tao"**.
+* **Quy tắc thực thi cụ thể:**
+  1. **TUYỆT ĐỐI CẤM dùng "mày – tao":** Kể cả trong cảnh tra hỏi, phục kích, nghi kỵ, bị chĩa vũ khí hay trong tình thế sinh tử đe dọa, các nhân vật không dùng lối xưng hô hỗn hào, thô tục bỗ bã "mày – tao".
+  2. **Bình thường, chừng mực và tự nhiên:** Dùng cặp xưng hô đời thường ("tôi – cậu", "anh – cậu", "chúng tôi – cậu", "ông – tôi"). Sự đe dọa hay căng thẳng được thể hiện qua mệnh lệnh dứt khoát, âm sắc sắc lạnh và hành động thực tế (*"Đứng yên đó!", "Cậu là ai?", "Bỏ tay khỏi vũ khí!"*), tuyệt đối không chửi bới vô văn hóa.
+  3. **Không quá lịch sự khách sáo:** Không biến thành kiểu cung kính thái quá, không dùng ngôn từ cổ phong phong kiến (*"tiểu tử", "các hạ", "huynh đài"*).
+* **Danh sách file cập nhật:**
+  1. `canon/style.md` (Cập nhật Mục 1)
+  2. `canon/dialouge_rules.md` (Bổ sung Mục 5)
+  3. `logs/decisions.log` (Ghi nhận Quyết định 13)
 
+---
+
+## 14. QUYẾT ĐỊNH VỀ TỪ KHÓA "MANA" & CƠ CHẾ BỘC PHÁT NĂNG LƯỢNG CẬN CHIẾN (26/10/2026)
+* **1. Tuân thủ tuyệt đối quy tắc tiết lộ từ khóa "Mana":**
+  - Rà soát toàn bộ các chương đã viết (từ Chương 1 đến Chương 8): Tiêu Trường Sinh chưa từng được bất kỳ ai giải thích khái niệm "Mana", "Nguyên Mana" hay "Hạch Mana".
+  - **Quy tắc bắt buộc:** Trong toàn bộ prose bám POV của Trường Sinh ở giai đoạn đầu, tuyệt đối **KHÔNG dùng từ "mana"**. Cậu chỉ cảm nhận và gọi nó là *"đốm sáng"*, *"luồng năng lượng"*, *"luồng khí ấm"*, *"hốc rỗng sau xương ức"*. Chỉ khi nào gặp nhân vật bản địa giải thích rõ ràng (hoặc qua sách vở/tài liệu) thì mới bắt đầu xuất hiện từ "mana" trong nhận thức của cậu.
+* **2. Cơ chế chiến đấu mới (Edor gợi ý - Áp dụng sau này từ Chương 9+):**
+  - **Bối cảnh:** Dung lượng năng lượng ban đầu của Trường Sinh rất ít ỏi, nếu duy trì bao bọc nắm đấm suốt quá trình vung đòn sẽ hao hụt nhanh chóng và nhanh kiệt sức.
+  - **Gợi ý của Edor:** Chỉ bộc phát năng lượng ở **khoảnh khắc cận sát mục tiêu** (gần chạm/chạm vào đối phương mới kích nổ năng lượng). Điều này giúp tiết kiệm tối đa năng lượng cho những đòn quyết định.
+  - **Đánh đổi & Nhược điểm:** Phải dùng xương thịt trần trụi của cơ thể để chịu đựng va chạm và áp lực trước khi năng lượng kịp giải phóng; rủi ro chấn thương xương khớp cực cao nếu căn sai thời điểm, đòi hỏi cảm giác đòn và bản lĩnh thép, rất khó để thành thạo.
+* **Danh sách file cập nhật:**
+  1. `chapters/Hoi_1/Arc_01/_drafts/chapter_008.md` (Xóa bỏ chữ "mana" ở cú đấm của Trường Sinh)
+  2. `outline/arcs/arc_01/chapter_contracts.md` (Ghi chú cơ chế cho Chương 9)
+  3. `logs/decisions.log` (Ghi nhận Quyết định 14)

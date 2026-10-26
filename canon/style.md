@@ -3,12 +3,19 @@
 ## 1. Hệ Thống Xưng Hô
 - **Narrator → Nhân vật chính:** Tiêu Trường Sinh (khi ở Trái Đất) / Lucien Varetti hoặc Lucien (khi ở Primordia) / cậu.
 - **Nhân vật chính → Bạn thân (Nhóm bạn Trái Đất / đồng đội):** "tôi – cậu".
+- **Nhân vật chính → Người lớn tuổi (Bác Edor...):** "cháu – bác" hoặc "tôi – ông".
+- **Nhóm người sống sót / Trinh sát ↔ Nhân vật chính:**
+  - Xưng hô chuẩn mực: "tôi – cậu", "anh – cậu", "chúng tôi – cậu".
+  - Khi tra hỏi, nghi ngờ, căng thẳng: Vẫn dùng "cậu – tôi", thể hiện sự nguy hiểm qua mệnh lệnh đanh thép (*"Đứng yên đó!", "Cậu là ai?", "Bỏ tay khỏi vũ khí!"*).
 - **Nhân vật chính → Người yêu / Vợ:**
   - Giai đoạn đầu / khi chưa thổ lộ: Gọi thẳng tên / "tôi – cô".
   - Giai đoạn gắn kết / vợ chồng bền chặt: "anh – em" ngọt ngào, ấm áp.
 - **Nhân vật chính → Kẻ thù / Đối đầu chiến đấu:** "ta – ngươi".
 - **Giao tiếp trang trọng, cấp trên:** "tôi – ngài".
-- **Quy tắc chung:** Thường xuyên gọi thẳng tên nhau (theo phong cách Manga/Anime hiện đại).
+- **QUY TẮC CỐT TỬ VỀ THÁI ĐỘ XƯNG HÔ (BẮT BUỘC):**
+  - **TUYỆT ĐỐI CẤM dùng "mày – tao":** Kể cả trong cảnh tra hỏi, phục kích, nghi kỵ hay đe dọa sinh tử, các nhân vật không dùng lối xưng hô hỗn hào, thô tục bỗ bã "mày – tao".
+  - **Bình thường, chừng mực và tự nhiên:** Lịch sự vừa phải theo lẽ tự nhiên của con người, không hỗn, nhưng cũng **không quá lịch sự khách sáo** (không sến súa, không dùng xưng hô cổ trang sáo rỗng như *"tiểu tử", "các hạ", "huynh đài"*).
+  - Thường xuyên gọi thẳng tên nhau (theo phong cách Manga/Anime hiện đại).
 
 ---
 
