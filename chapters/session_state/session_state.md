@@ -7,7 +7,7 @@
 
 ## 📌 1. ĐIỀU PHỐI ARC & TIMELINE
 * **Hồi & Arc hiện tại:** [[canon/places/primordia/ruined_metropolis_arc_1|Hồi 1 — Arc 01: Siêu Đô Thị Silva (Vương Quốc Grimoire)]]
-* **Tiến độ phân cảnh:** Đã chốt chính thức Chương 008 (`chuong_008.md`) / Chuẩn bị bối cảnh Chương 009 (Đối thoại lắng đọng trong hầm tối, người lùn Edor gặng hỏi về bí thuật bộc kình)
+* **Tiến độ phân cảnh:** Đã hoàn thành bản draft Chương 009 (`_drafts/chapter_009.md`) / Đội nhặt rác đã tiếp nhận Trường Sinh, chuẩn bị mở chốt đá tiến về Căn cứ Nhà Ga Trung Tâm
 * **Mốc Timeline:** [[00_Index/Timeline#1-hồi-1-khởi-nguyên-vết-thương--lựa-chọn-đầu-tiên-chương-1--85|Hè Lớp 11 lên 12 (Giai đoạn đầu lưu lạc Primordia)]]
 
 ---

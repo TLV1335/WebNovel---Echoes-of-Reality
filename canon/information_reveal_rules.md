@@ -26,6 +26,11 @@
   * Tiêu Trường Sinh bắt đầu dần cảm nhận được các hiện tượng kỳ lạ qua thể xác và thực tế va chạm, nhưng **vẫn chưa được giải thích cặn kẽ**.
   * Trường Sinh bắt đầu hiểu đến đâu, độc giả bắt đầu hiểu đến đó. Những gì Trường Sinh trải qua trên da thịt thì độc giả cũng đồng hành trải qua qua từng trang sách.
 
+* **Quy tắc mở khóa thuật ngữ thế giới (Đặc thù từ khóa "Mana"):**
+  * **CẤM tác giả tự tiện thuyết minh:** Tác giả/Người kể chuyện tuyệt đối không dùng từ "mana" khi bám theo góc nhìn hạn định (POV) của Trường Sinh ở các chương đầu nếu chưa có ai giải thích.
+  * **Chỉ xuất hiện qua miệng Người Bản Địa:** Từ "mana" bắt buộc phải do một nhân vật bản xứ Primordia (chiến binh, thợ rèn, pháp sư...) cất lời nói ra một cách tự nhiên trong đối thoại hoặc sinh hoạt.
+  * **Nguyên tắc "Được giới thiệu là được dùng":** Một khi từ "mana" đã được người bản địa chính thức thốt ra trước mặt Trường Sinh (như người lùn Edor phân tích cú đấm nén kình ở Chương 9), thì từ thời điểm đó trở đi, nhân vật chính và người kể chuyện (theo POV của cậu) **cứ việc sử dụng tự nhiên**, không cần phải né tránh gượng gạo bằng các từ ngữ vòng vo nữa.
+
 ---
 
 ## 3. QUY TẮC "MỖI LẦN TIẾT LỘ" (QUY TẮC 1 - 2)
