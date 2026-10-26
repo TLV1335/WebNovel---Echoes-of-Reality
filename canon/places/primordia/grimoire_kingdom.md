@@ -23,11 +23,11 @@
 * **Siêu Đô Thị Tháp Đá Silva:**
   * Vị trí: Nằm cách không xa sau một ngọn núi [BỔ SUNG SAU].
   * Lịch sử: Từng là trạm nghỉ chân ven rừng của lữ khách trên lộ trình tiến về thủ đô, sau phát triển thành siêu đô thị tháp đá sầm uất mang phong cách "Manhattan trung cổ".
-  * Hiện trạng: Bị phong tỏa suốt 20 năm bởi siêu kết giới một chiều của Lich; trong 5 năm gần đây đã bị vương triều Grimoire và các quốc gia lân cận hoàn toàn bỏ rơi vì bất lực trước kết giới.
+  * Hiện trạng: Bị phong tỏa suốt 5 năm bởi siêu kết giới một chiều của Lich; trong 1 năm gần đây đã bị vương triều Grimoire và các quốc gia lân cận hoàn toàn bỏ rơi vì bất lực trước kết giới.
 * **Thủ đô Grimoire & Các vùng lãnh thổ khác:** [BỔ SUNG SAU].
 
 ---
 
 ## 4. QUAN HỆ ĐỐI NGOẠI TRÊN ĐẠI LỤC PRIMORDIA
 * Nằm trong mạng lưới các quốc gia phép thuật trung cổ của Primordia.
-* Ban đầu từng hợp tác cùng các nước láng giềng nghiên cứu phá vỡ kết giới Lich phong tỏa Silva, nhưng sau 15 năm bế tắc đã quyết định rút lui và cắt đứt mọi viện trợ trong 5 năm qua.
+* Ban đầu từng hợp tác cùng các nước láng giềng nghiên cứu phá vỡ kết giới Lich phong tỏa Silva, nhưng sau 4 năm bế tắc đã quyết định rút lui và cắt đứt mọi viện trợ trong 1 năm qua.

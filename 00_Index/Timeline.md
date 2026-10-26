@@ -8,7 +8,7 @@
 ## ⏳ I. BIÊN NIÊN SỬ CỔ ĐẠI (LORE THẾ GIỚI)
 * **Hàng triệu năm trước:** Cuộc "Đại Phản Bội" của giới thượng tầng Trái Đất cổ đại. Hai thế giới bị chia cắt bởi bức tường vách ngăn không gian. Primordia bị cô lập giữa biển Nguyên Mana hoang dã.
 * **142 thế hệ trước thời hiện tại:** Dòng họ Aurelius tại Primordia lập nên Thánh quốc, lưu truyền mật tịch và ôm giữ món nợ máu lịch sử đòi lại công lý từ kẻ phản bội.
-* **20 năm trước thời điểm bắt đầu:** Siêu đô thị tại Primordia bị phong tỏa bởi siêu trận pháp một chiều của Đại pháp sư Lich, biến thành thành phố chết ngập tràn xác sống.
+* **5 năm trước thời điểm bắt đầu:** Siêu đô thị tại Primordia bị phong tỏa bởi siêu trận pháp một chiều của Đại pháp sư Lich, biến thành thành phố chết ngập tràn xác sống (4 năm đầu nhận viện trợ, 1 năm gần đây bị bỏ rơi hoàn toàn).
 * **Thời cận đại:** Giáo sư Arthur Pendelton thành lập Thế Lực Thứ Ba, bắt đầu bí mật chế tạo cỗ máy hợp nhất thực tại để cứu vũ trụ khỏi nguy cơ diệt vong sau 3.000 năm.
 
 ---

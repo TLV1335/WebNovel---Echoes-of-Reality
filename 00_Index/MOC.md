@@ -43,7 +43,7 @@
   * [[canon/places/earth/dau_tieng_binh_duong|Dầu Tiếng, Bình Dương]] — Xã Minh Tân, trường THPT Dầu Tiếng, rừng cao su, lòng hồ.
   * [[canon/places/earth/thu_dau_mot_hcmc|Thủ Dầu Một & TP. Hồ Chí Minh]] — Đô thị trừ tà ngầm, trạm xe buýt, căn hộ đời thường.
 * **Primordia:**
-  * [[canon/places/primordia/ruined_metropolis_arc_1|Siêu Đô Thị Silva (Arc 1)]] — Thành phố tháp đá phế tích ("Manhattan trung cổ") bị cô lập 20 năm (5 năm qua bị bỏ rơi), siêu trận pháp đỏ tía, cống ngầm, Khu Ổn Định.
+  * [[canon/places/primordia/ruined_metropolis_arc_1|Siêu Đô Thị Silva (Arc 1)]] — Thành phố tháp đá phế tích ("Manhattan trung cổ") bị cô lập 5 năm (1 năm qua bị bỏ rơi), siêu trận pháp đỏ tía, cống ngầm, Khu Ổn Định.
   * [[canon/places/primordia/grimoire_kingdom|Vương Quốc Grimoire]] — Quốc gia phép thuật trung cổ nơi tọa lạc của siêu đô thị Silva, đặt tên sau cuộc đảo chính của hai anh em họ Grim.
   * [[canon/places/primordia/steampunk_crawler_federation|Steampunk Crawler Federation (Arc 3)]] — Sa mạc ma thú, lâu đài di động bánh xích.
   * [[canon/places/primordia/underwater_city|Underwater City (Arc 3A)]] — Tàn tích cổ sâu dưới biển, tàu ngầm tập đoàn Trái Đất.

@@ -17,13 +17,13 @@
 * **Chương 8 – 10: Tàn tích chữ `P.`, Gặp nhóm nhỏ nhặt rác & Tiến vào Khu Tị Nạn**
   * *Chương 8:* Trong phòng thí nghiệm ngầm, Trường Sinh nhặt được linh kiện cơ khí ma pháp khắc chữ `P.` (Arthur Pendelton); phát hiện nhóm trinh sát nhặt rác 3 người (Edor, Marko, Rita) đang lục lọi tàn tích.
   * *Chương 9:* Tiếp cận thận trọng: Trường Sinh hỗ trợ đánh lạc hướng quái vật, tiếp xúc giơ tay không vũ khí, chấp nhận quy trình kiểm dịch nghiêm ngặt (kiểm tra cổ tay/gáy) và trói hờ để xây dựng niềm tin logic.
-  * *Chương 10:* Nhóm nhỏ dẫn giải qua các đường hào ngầm an toàn vào cổng kiểm dịch Khu Ổn Định; thử nước thánh ma tinh (Vô mana an toàn), nhận thẻ lưu dân, từ từ làm quen đời sống khắc nghiệt sau 20 năm giam cầm.
+  * *Chương 10:* Nhóm nhỏ dẫn giải qua các đường hào ngầm an toàn vào cổng kiểm dịch Khu Ổn Định; thử nước thánh ma tinh (Vô mana an toàn), nhận thẻ lưu dân, từ từ làm quen đời sống khắc nghiệt sau 5 năm giam cầm (và 1 năm qua bị cắt đứt tiếp tế).
 
 ---
 
 ### GIAI ĐOẠN 2: KHU ỔN ĐỊNH, GẶP GỠ CAELIA & BỨC TRANH ĐỜI THƯỜNG (Chương 11 – 20)
 * **Chương 11 – 13: Bầu không khí ấm áp giữa lòng tận thế & Thủ Lĩnh Kháng Chiến**
-  * "Khu Ổn Định" không hề u ám hoàn toàn mà có khu chợ nhỏ, quán súp nóng, tiếng trẻ con cười đùa; con người cố gắng sống tử tế và lạc quan dù bị giam cầm 20 năm.
+  * "Khu Ổn Định" không hề u ám hoàn toàn mà có khu chợ nhỏ, quán súp nóng, tiếng trẻ con cười đùa; con người cố gắng sống tử tế và lạc quan dù bị giam cầm 5 năm.
   * Giới thiệu **Thủ Lĩnh Kháng Chiến** — một đại kiếm sĩ mang trong mình Thánh Kiếm cổ truyền, thực lực ngang ngửa Đại pháp sư Lich, là chỗ dựa tinh thần cho toàn bộ thành phố.
 * **Chương 14 – 17: Gặp gỡ Caelia Solavane & Những khoảnh khắc dịu dàng**
   * Gặp Caelia: Cô trà trộn làm chân sai vặt yếu đuối, bị vài kẻ cục súc hắt hủi, sai bảo.
@@ -64,4 +64,4 @@
   * Lời trăng trối khắc cốt ghi tâm: *"Anh là người duy nhất nhìn thấy tôi... Hãy nhớ về người đã từng múa..."*.
 * **Chương 39 – 40: Linh hồn xanh lá & Cổng trở về Trái Đất**
   * Trận pháp cổ xưa giữ lại linh hồn Caelia; vầng sáng xanh lá cây dịu mát ngưng tụ gắn chặt bên ngực áo Trường Sinh.
-  * Thành phố chết 20 năm được thanh tẩy, cổng không gian quá tải năng lượng mở ra. Trường Sinh mang theo linh hồn Caelia bước qua cánh cổng, trở về căn hộ Trái Đất. Khép lại Arc 1 trọn vẹn, bi tráng và giàu sức gợi!
+  * Thành phố chết 5 năm được thanh tẩy, cổng không gian quá tải năng lượng mở ra. Trường Sinh mang theo linh hồn Caelia bước qua cánh cổng, trở về căn hộ Trái Đất. Khép lại Arc 1 trọn vẹn, bi tráng và giàu sức gợi!

@@ -7,10 +7,10 @@
 ---
 
 ## 1. BẢN CHẤT CỦA PHE GHOST
-* **Họ là ai:** Là những cựu chiến binh tinh nhuệ, các ma kiếm sĩ dũng mãnh và pháp sư tài ba của thành phố Silva trước thảm họa 20 năm trước.
-* **Tình trạng:** Khi thảm họa nguyền rủa ập xuống, nhờ ý chí kiên cường và thể chất dị thường, họ không bị biến thành những xác sống zombie vô tri tuân phục mệnh lệnh của Lich. Tuy nhiên, việc phơi nhiễm Nguyên Mana cuồng loạn suốt hai thập kỷ đã phá hủy hoàn toàn hệ thần kinh của họ, biến họ thành **những kẻ điên dại, mất hết ký ức nhân tính và sống theo bản năng hoang dã**.
+* **Họ là ai:** Là những cựu chiến binh tinh nhuệ, các ma kiếm sĩ dũng mãnh và pháp sư tài ba của thành phố Silva trước thảm họa 5 năm trước.
+* **Tình trạng:** Khi thảm họa nguyền rủa ập xuống, nhờ ý chí kiên cường và thể chất dị thường, họ không bị biến thành những xác sống zombie vô tri tuân phục mệnh lệnh của Lich. Tuy nhiên, việc phơi nhiễm Nguyên Mana cuồng loạn suốt 5 năm đã phá hủy hoàn toàn hệ thần kinh của họ, biến họ thành **những kẻ điên dại, mất hết ký ức nhân tính và sống theo bản năng hoang dã**.
 * **Đặc tính hành vi:** Sống rải rác trong các phế tích tăm tối nhất của Silva; cực kỳ nhạy cảm và dễ bị kích động bởi tiếng động cơ khí hoặc mùi máu; tấn công vô tội vạ bất kỳ sinh vật nào lọt vào lãnh địa.
-* **Vai trò chiến lược trong thế giới:** Họ là bức tường phòng thủ tự nhiên tàn khốc, là **lý do cốt lõi khiến Đại Pháp sư Lich suốt 20 năm qua không thể bành trướng thống trị hoàn toàn mọi ngóc ngách của Silva**.
+* **Vai trò chiến lược trong thế giới:** Họ là bức tường phòng thủ tự nhiên tàn khốc, là **lý do cốt lõi khiến Đại Pháp sư Lich suốt 5 năm qua không thể bành trướng thống trị hoàn toàn mọi ngóc ngách của Silva**.
 
 ---
 

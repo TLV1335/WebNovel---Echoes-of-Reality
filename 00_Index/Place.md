@@ -12,7 +12,7 @@
 ---
 
 ## 🪐 II. ĐỊA DANH PRIMORDIA (ĐẠI LỤC KHỞI NGUYÊN)
-* [[canon/places/primordia/ruined_metropolis_arc_1|Ruined Metropolis (Arc 1)]] — Thành phố phế tích bị cô lập 20 năm, siêu trận pháp một chiều, cống ngầm, Khu Ổn Định và nơi Caelia hy sinh.
+* [[canon/places/primordia/ruined_metropolis_arc_1|Ruined Metropolis (Arc 1)]] — Thành phố phế tích bị cô lập 5 năm (4 năm viện trợ, 1 năm bị bỏ rơi), siêu trận pháp một chiều, cống ngầm, Khu Ổn Định và nơi Caelia hy sinh.
 * [[canon/places/primordia/steampunk_crawler_federation|Steampunk Crawler Federation (Arc 3)]] — Miền sa mạc ma thú, các thành phố di động bánh xích khổng lồ chạy bằng động cơ hơi nước ma pháp.
 * [[canon/places/primordia/underwater_city|Underwater City (Arc 3A)]] — Tàn tích đáy biển sâu, nơi phát hiện công nghệ cổ và các đội tàu ngầm khai thác trộm của tập đoàn Trái Đất.
 * [[canon/places/primordia/merfolk_island|Merfolk Island (Arc 3B)]] — Hòn đảo nổi biệt lập giữa đại dương, vương quốc Người Cá khép kín lưu giữ truyền thuyết "Thuở sơ khai hai thế giới là một".

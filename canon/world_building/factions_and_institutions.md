@@ -36,4 +36,4 @@
 * **Bản chất:** Quốc gia phép thuật — trung cổ, nơi tọa lạc của siêu đô thị tháp đá Silva (bối cảnh Arc 1).
 * **Nguồn gốc:** Được đổi tên sau cuộc đảo chính lịch sử của hai anh em họ Grim (cảm hứng từ anh em nhà Grimm). [Nguyên do đảo chính: BỔ SUNG SAU].
 * **Đặc trưng:** Đại diện cho trường phái Ma thuật Trung Cổ — Ý Tưởng Tự Do. Xã hội phân hóa quý tộc ma pháp tháp đá, coi thường cận chiến.
-* **Thái độ đối với thảm kịch Silva:** Ban đầu từng phối hợp cùng các quốc gia khác viện trợ và tìm cách phá kết giới Lich; nhưng trong 5 năm gần đây đã hoàn toàn bỏ rơi Silva, mặc cho thành phố tự sinh tự diệt.
+* **Thái độ đối với thảm kịch Silva:** Ban đầu từng phối hợp cùng các quốc gia khác viện trợ và tìm cách phá kết giới Lich trong 4 năm đầu; nhưng trong 1 năm gần đây đã hoàn toàn bỏ rơi Silva, mặc cho thành phố tự sinh tự diệt.

@@ -12,11 +12,11 @@
 
 ---
 
-## 2. KẾT GIỚI & BI KỊCH 5 NĂM BỊ BỎ RƠI
+## 2. KẾT GIỚI & BI KỊCH 5 NĂM (4 NĂM VIỆN TRỢ, 1 NĂM BỊ BỎ RƠI)
 * **Cơ chế phong tỏa:** Kết giới siêu trận pháp một chiều (do Đại pháp sư Lich giăng ra) bao trùm thành phố: **Vào được nhưng tuyệt đối không ra được**, cắt đứt hoàn toàn liên lạc ma pháp ra bên ngoài.
 * **Tiến trình viện trợ & Bị bỏ rơi:**
-  * *Giai đoạn đầu (15 năm đầu):* Các quốc gia bên ngoài từng nỗ lực gửi hàng tiếp tế, chi viện nhân lực và cử các đội ngũ pháp sư nghiên cứu cách công phá, dỡ bỏ kết giới.
-  * *Giai đoạn 5 năm gần đây:* Toàn bộ các quốc gia bên ngoài đã **hoàn toàn bỏ rơi Silva**. Không còn bất kỳ gói viện trợ, tiếp tế hay phái đoàn cứu viện nào được gửi đến nữa.
+  * *Giai đoạn đầu (4 năm đầu):* Các quốc gia bên ngoài từng nỗ lực gửi hàng tiếp tế, chi viện nhân lực và cử các đội ngũ pháp sư nghiên cứu cách công phá, dỡ bỏ kết giới.
+  * *Giai đoạn 1 năm gần đây:* Toàn bộ các quốc gia bên ngoài đã **hoàn toàn bỏ rơi Silva**. Không còn bất kỳ gói viện trợ, tiếp tế hay phái đoàn cứu viện nào được gửi đến nữa.
 * **Hệ quả sinh tử:** Silva bị đẩy vào trạng thái hoàn toàn cô độc; dân chúng và tàn quân kháng chiến mắc kẹt tự tìm cách sinh tồn, tài nguyên lương thực, kim loại và thảo dược ngày càng cạn kiệt khốc liệt.
 
 ---
@@ -55,7 +55,7 @@
 ## 4. CÁC PHÂN KHU TRỌNG YẾU TẠI SILVA (ARC 1)
 
 ### 1. Bầu Trời Mái Vòm Đỏ Tía (Siêu Trận Pháp Lich)
-* Màng chắn năng lượng bao trùm toàn bộ đỉnh các ngọn tháp đá Silva; ánh sáng đỏ tía ma mị thay thế ánh mặt trời suốt 20 năm.
+* Màng chắn năng lượng bao trùm toàn bộ đỉnh các ngọn tháp đá Silva; ánh sáng đỏ tía ma mị thay thế ánh mặt trời suốt 5 năm.
 
 ### 2. Quảng Trường Giếng Đá Cổ & Phố Xá Đổ Nát (Khu Nguy Hiểm)
 * Nơi Tiêu Trường Sinh rơi xuống đầu tiên trong Chương 2.
@@ -65,7 +65,7 @@
 * Mạng lưới ngầm sâu hơn 2m bên dưới lớp đá cuội của Silva. Vòm cống đá hoa cương phủ rêu tím phát lân tinh; nơi Trường Sinh trốn thoát bầy kiếm binh zombie, trải qua cơn phản vệ Nguyên Mana và thức tỉnh Hạch Mana "Vô" cùng Hirra trong Chương 3–4.
 
 ### 4. Khu Ổn Định (Khu Tị Nạn Sinh Tồn)
-* Căn cứ sống sót kiên cố do người dân và tàn binh lập nên tại một cụm tháp đá liên hoàn được gia cố rào chắn sắt suốt 20 năm.
+* Căn cứ sống sót kiên cố do người dân và tàn binh lập nên tại một cụm tháp đá liên hoàn được gia cố rào chắn sắt suốt 5 năm.
 * Nơi lưu giữ tình người ấm áp (bếp lửa, nồi súp, chợ đổi đồ); chỗ dựa tinh thần là Thủ Lĩnh Kháng Chiến (chủ nhân Thánh Kiếm). Nơi Trường Sinh gặp gỡ Caelia Solavane.
 
 ### 5. Tàn Tích Phòng Thí Nghiệm Của Arthur Pendelton

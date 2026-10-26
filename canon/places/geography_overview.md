@@ -11,7 +11,7 @@
 ---
 
 ## 🪐 II. BẢN ĐỒ PRIMORDIA (ĐẠI LỤC KHỞI NGUYÊN)
-* [[canon/places/primordia/ruined_metropolis_arc_1|1. Siêu Đô Thị Silva (Arc 1)]] — Thành phố tháp đá phế tích thuộc Vương quốc Grimoire, bị cô lập 20 năm bởi siêu kết giới Lich (5 năm qua bị bỏ rơi), ngập tràn zombie bảo toàn phản xạ cơ bắp, Khu Ổn Định và nơi Caelia hy sinh.
+* [[canon/places/primordia/ruined_metropolis_arc_1|1. Siêu Đô Thị Silva (Arc 1)]] — Thành phố tháp đá phế tích thuộc Vương quốc Grimoire, bị cô lập 5 năm bởi siêu kết giới Lich (1 năm qua bị bỏ rơi), ngập tràn zombie bảo toàn phản xạ cơ bắp, Khu Ổn Định và nơi Caelia hy sinh.
 * [[canon/places/primordia/grimoire_kingdom|2. Vương Quốc Grimoire]] — Quốc gia phép thuật trung cổ nơi tọa lạc của siêu đô thị Silva, đặt tên sau cuộc đảo chính của hai anh em họ Grim.
 * [[canon/places/primordia/steampunk_crawler_federation|3. Steampunk Crawler Federation (Arc 3)]] — Miền đất sa mạc ma thú, các thành trì cơ khí khổng lồ di động bằng bánh xích, văn hóa động cơ hơi nước ma pháp.
 * [[canon/places/primordia/underwater_city|4. Underwater City (Arc 3A)]] — Tàn tích cổ đại chìm sâu dưới đáy đại dương, nơi phát hiện công nghệ cổ và các đội tàu ngầm khai thác trộm của tập đoàn Trái Đất.

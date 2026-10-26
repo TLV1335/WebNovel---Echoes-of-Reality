@@ -253,3 +253,30 @@
   1. `chapters/Hoi_1/Arc_01/_drafts/chapter_008.md` (Xóa bỏ chữ "mana" ở cú đấm của Trường Sinh)
   2. `outline/arcs/arc_01/chapter_contracts.md` (Ghi chú cơ chế cho Chương 9)
   3. `logs/decisions.log` (Ghi nhận Quyết định 14)
+
+---
+
+## 15. QUYẾT ĐỊNH ĐIỀU CHỈNH MỐC THỜI GIAN BIẾN CỐ SILVA (5 NĂM: 4 NĂM VIỆN TRỢ, 1 NĂM BỊ BỎ RƠI) (26/10/2026)
+* **Bối cảnh & Chỉ đạo của Tác giả:**
+  Thời gian biến cố diệt vong / phong tỏa Siêu đô thị Silva được điều chỉnh chuẩn hóa lại thành **5 năm** (thay vì 20 năm). Trong đó:
+  - **4 năm đầu:** Các quốc gia bên ngoài từng nỗ lực gửi hàng tiếp tế, chi viện nhân lực và cử các đội ngũ pháp sư nghiên cứu cách công phá, dỡ bỏ kết giới.
+  - **1 năm gần đây:** Silva bị thế giới bên ngoài hoàn toàn bỏ rơi, cắt đứt mọi viện trợ; tài nguyên cạn kiệt, dân chúng và tàn quân kháng chiến tự sinh tự diệt.
+  - Các thiết lập cốt truyện khác giữ nguyên; các mốc thời gian trong bản thảo văn bản các chương tác giả sẽ tự kiểm tra và đồng bộ.
+* **Danh sách file cập nhật:**
+  1. `canon/places/primordia/ruined_metropolis_arc_1.md`
+  2. `canon/places/primordia/grimoire_kingdom.md`
+  3. `canon/places/geography_overview.md`
+  4. `canon/world_building/factions_and_institutions.md`
+  5. `canon/characters/supporting/silva_lords.md`
+  6. `canon/characters/supporting/the_ghosts.md`
+  7. `outline/timeline/master_timeline.md`
+  8. `outline/timeline/arc_1.md`
+  9. `outline/arcs/arc_01/chapter_contracts.md`
+  10. `outline/arcs/arc_01/arc_detail.md`
+  11. `outline/arcs/arcs_overview.md`
+  12. `outline/arcs/arcs_detail.md`
+  13. `00_Index/Place.md`
+  14. `00_Index/MOC.md`
+  15. `00_Index/Timeline.md`
+  16. `logs/decisions.log` (Ghi nhận Quyết định 15)
+

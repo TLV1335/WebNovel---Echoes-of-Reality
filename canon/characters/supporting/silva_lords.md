@@ -49,7 +49,7 @@
 * **Ngoại hình:** Thân hình mập mạp ục ịch, ngón tay đeo đầy nhẫn vàng và đá quý lấp lánh; ánh mắt lúc nào cũng lờ đờ, ngáp dài chán chường.
 * **Tính cách & Động cơ:**
   * Hoàn toàn không bận tâm đến lý tưởng, chính nghĩa, đại cục hay kết quả cuộc chiến sống còn với phe Kháng chiến.
-  * Nỗi bực tức và đau khổ lớn nhất trong đời hắn khi Silva bị phong tỏa 20 năm là: **Không còn được uống rượu vang hảo hạng nhập khẩu và không được xem các vũ công tài hoa (như Caelia) biểu diễn vũ điệu sắc đẹp.**
+  * Nỗi bực tức và đau khổ lớn nhất trong đời hắn khi Silva bị phong tỏa 5 năm là: **Không còn được uống rượu vang hảo hạng nhập khẩu và không được xem các vũ công tài hoa (như Caelia) biểu diễn vũ điệu sắc đẹp.**
 * **Vai trò trong hội đồng:** Sẵn sàng giơ tay tán thành việc thiêu rụi toàn bộ Khu tị nạn chỉ để... cuộc họp kết thúc sớm cho hắn về phòng đi ngủ, hoặc để rảnh nợ khỏi những phiền toái hành chính. Đại diện cho sự tàn ác sinh ra từ thói vô cảm ích kỷ tột cùng.
 
 ---

@@ -7,7 +7,7 @@ Tác phẩm **Vọng Âm Thực Tại** được phân chia thành **8 Arc lớn
 ## HỒI 1: KHỞI NGUYÊN, VẾT THƯƠNG & SỰ LỰA CHỌN ĐẦU TIÊN (Chương 1 – 85 / 85 Chương)
 
 ### ARC 1: SIÊU ĐÔ THỊ HOANG TÀN (Chương 1 – 40 / 40 Chương)
-* **Bối cảnh:** Siêu đô thị chết chóc tại Primordia, bị cô lập bởi siêu trận pháp một chiều và ngập tràn xác sống suốt 20 năm.
+* **Bối cảnh:** Siêu đô thị chết chóc tại Primordia, bị cô lập bởi siêu trận pháp một chiều và ngập tràn xác sống suốt 5 năm (4 năm viện trợ, 1 năm bị bỏ rơi).
 * **Mạch truyện chính:**
   * Tiêu Trường Sinh bị hút sang Primordia sau sự cố cộng hưởng không gian.
   * Thức tỉnh Hạch Mana thuộc tính **"Vô"** (khoảng trống vô tận); bị mana Primordia bài trừ cắn xé; **Linh Vật** sơ sinh dũng cảm bộc phát giúp cậu thuần hóa năng lượng.

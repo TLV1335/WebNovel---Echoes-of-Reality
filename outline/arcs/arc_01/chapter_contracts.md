@@ -23,7 +23,7 @@
   1. Trường Sinh tỉnh dậy giữa đống gạch vụn, khắp người ê ẩm; phát hiện quần áo học sinh rách tả tơi.
   2. Cậu ngước nhìn lên bầu trời: Không có mây trắng hay ánh mặt trời Trái Đất, mà là một mái vòm năng lượng khổng lồ màu đỏ tía (siêu trận pháp một chiều) bao bọc toàn bộ thành phố.
   3. Kiểm tra tình trạng cơ thể sau cú ngã; cảm nhận cơn đau và sự cựa quậy sống động của Hirra; trong túi quần rách chỉ còn chiếc bật lửa kim loại của ông nội.
-  4. Đi qua những tòa nhà kiến trúc gothic cổ kính bị dây leo và rêu phong bao phủ; phát hiện dấu vết máu khô và những bộ xương khô rải rác suốt 20 năm.
+  4. Đi qua những tòa nhà kiến trúc gothic cổ kính bị dây leo và rêu phong bao phủ; phát hiện dấu vết máu khô và những bộ xương khô rải rác suốt 5 năm.
 * **Hook kết chương:** Từ bên trong một tòa cao ốc sụp đổ phía trước, vang lên tiếng rên rỉ ghê rợn kèm theo tiếng lê bước kéo lê kim loại trên mặt đường.
 
 ---
@@ -129,7 +129,7 @@
 * **Mục tiêu chương:** Khắc họa sự ấm áp đời thường của Khu Ổn Định (tone 70% tươi sáng); giới thiệu Thủ Lĩnh Kháng Chiến mang Thánh Kiếm đối trọng với Lich.
 * **POV & Bối cảnh:** Tiêu Trường Sinh; Quán ăn dã chiến trong sân đại thánh đường Khu Ổn Định.
 * **Các nhịp diễn biến (Beats):**
-  1. Trường Sinh được phát một bát súp củ nóng hổi; ngồi cạnh những người thợ máy và người dân; nghe họ trò chuyện dí dỏm về những hy vọng nhỏ nhoi ngày mai dù bị giam cầm 20 năm.
+  1. Trường Sinh được phát một bát súp củ nóng hổi; ngồi cạnh những người thợ máy và người dân; nghe họ trò chuyện dí dỏm về những hy vọng nhỏ nhoi ngày mai dù bị giam cầm 5 năm (và 1 năm qua bị cắt đứt hoàn toàn viện trợ).
   2. Bất ngờ quảng trường xôn xao: **Thủ Lĩnh Kháng Chiến** bước vào sau chuyến tuần tra tiền tuyến; khí chất hào sảng, khoác áo choàng đỏ thêu gia huy, bên hông đeo một thanh **Thánh Kiếm cổ truyền** tỏa ánh hào quang thánh khiết.
   3. Mọi người kính cẩn chào đón thủ lĩnh; người dân bàn tán rằng thanh Thánh Kiếm này là thứ duy nhất ngăn cản Đại pháp sư Lich tràn vào san bằng khu định cư suốt nhiều năm qua.
   4. Trường Sinh quan sát thanh Thánh Kiếm, cảm nhận được uy lực áp chế tử linh khủng bố từ thanh kiếm, ngầm ghi nhớ trong lòng.
