@@ -101,15 +101,15 @@
 
 ---
 
-### CHƯƠNG 9: TIẾNG THÉT CỦA KẺ ĐIÊN VÀ CÚ ĐẤM CỨU MẠNG
-* **Mục tiêu chương:** Màn hội thoại thăm dò trong hầm tối; trao đổi mẹo cận chiến giữa Edor và Trường Sinh; tiếp tục nhiệm vụ thám thính khu vực chỉ định; đụng độ "Ghost" đầu tiên; hỗn chiến sinh tử; Trường Sinh áp dụng đòn đấm bộc phát năng lượng sát cự ly cứu mạng Kaelen Voss; Kaelen ghi nhận ơn nghĩa và quyết định dẫn cậu về căn cứ.
-* **POV & Bối cảnh:** Tiêu Trường Sinh & Đội nhặt rác; Căn hầm tháp đá cũ & Quảng trường phế tích đổ nát.
+### CHƯƠNG 9: ĐỐM LỬA TRONG HẦM TỐI VÀ BÍ THUẬT NGƯỜI LÙN
+* **Mục tiêu chương:** Cuộc trò chuyện đơn giản, lắng đọng trong căn hầm tháp đá; người lùn Edor gặng hỏi Trường Sinh về cú đấm bộc phát năng lượng sát cự ly (bí thuật vốn chỉ người lùn có thể chất săn chắc bẩm sinh mới dùng, con người thường không ai dám dùng); chia sẻ nước ngầm; sự hoài nghi tan biến và Kaelen quyết định dẫn Trường Sinh cùng về căn cứ.
+* **POV & Bối cảnh:** Tiêu Trường Sinh & Đội nhặt rác (Kaelen, Edor, Marko, Rita, Caelia); Căn hầm tháp đá canh phòng cũ.
 * **Các nhịp diễn biến (Beats):**
-  1. Hội thoại trong hầm tối: Bầy Tử Linh vây kín bên ngoài; Kaelen và Edor quan sát căn hầm (nguồn nước ngầm, bộ hài cốt hiệp sĩ vô danh, dấu vết luyện tập) nhận ra Trường Sinh đã đơn độc sinh tồn ở đây nhiều ngày; Trường Sinh thấy cô gái đi cuối đoàn (Caelia) ngồi nép góc tối ôm đầu gối, cậu đưa nắp chai nước ngầm cho cô giải khát; sự nghi kỵ dần hạ nhiệt. Edor nhìn vết thương sưng tím ở khớp tay Trường Sinh và nhận thấy cậu thiếu hụt năng lượng trầm trọng, liền buột miệng chỉ cho cậu một mẹo sinh tồn thực chiến: *Không bọc năng lượng liên tục khi vung tay, mà chỉ bộc phát đúng khoảnh khắc nắm đấm gần chạm mục tiêu để tiết kiệm sức (nhược điểm: xương thịt trần phải chịu lực, cực khó làm chủ).*
-  2. Tiếp tục hành trình thám thính: Bầy Tử Linh tản đi, nhóm mở cửa hầm tiếp tục tiến về khu phế tích cơ khí theo lệnh căn cứ; Trường Sinh được phép đi theo phụ việc.
-  3. Đụng độ "Ghost" đầu tiên: Không khí lạnh toát, một tiếng thét xé màng nhĩ vang lên; một cựu binh nhiễm độc ma tinh hóa điên (Ghost) lao ra với thanh đại kiếm gãy, tốc độ và sức bật cuồng loạn vượt xa Tử Linh thông thường; Marko bắn trượt nỏ, Kaelen lao lên đỡ đòn nhưng bị sức mạnh áp đảo đánh bay đoản kiếm ngã ngửa; lưỡi kiếm gãy của Ghost bổ thẳng xuống đầu Kaelen!
-  4. Cú đấm cứu mạng Kaelen: Trường Sinh không bỏ chạy; cậu bắt nhịp thở điều tức, liều mạng áp dụng mẹo của Edor — vung nắm đấm tay trần lao vào và chỉ bộc phát luồng năng lượng ở tích tắc va chạm cách lưỡi kiếm vài phân; cú đấm bạt ngang sống kiếm Ghost làm chệch quỹ đạo chém trong gang tấc, rồi cậu đạp sập gờ tường đá cản đường tạo lối thoát; cả nhóm kéo Kaelen chạy thoát vào hẻm hẹp.
-* **Hook kết chương:** Kaelen nhìn chằm chằm vào bàn tay run rẩy, rướm máu vì phản lực của Trường Sinh; ông không tra hỏi sâu, chỉ nhặt thanh đoản kiếm gỉ lên rồi nói ngắn gọn: *"Nợ cậu một mạng. Về căn cứ với chúng tôi."*
+  1. Hơi thở lắng xuống trong hầm tối: Bầy Tử Linh gầm rít cào xé cửa đá bên ngoài rồi dần im bặt; ánh lửa Zippo soi rõ căn hầm; Kaelen và Marko hạ hẳn vũ khí khi thấy nguồn nước ngầm sạch, dấu vết luyện tập và bộ hài cốt hiệp sĩ vô danh — minh chứng Trường Sinh đã đơn độc sinh tồn ở đây nhiều ngày chứ không phải gián điệp.
+  2. Người lùn Edor gặng hỏi về kỹ thuật cận chiến: Edor chống búa bước tới, nheo mắt nhìn vết sưng tím và cùi chỏ rướm máu của Trường Sinh, gặng hỏi với giọng ồm ồm: *"Thằng nhóc, cậu học kỹ thuật bộc kình đó từ đâu? Đó là ngón nghề của tộc Người Lùn chúng ta — dùng xương thịt chịu tải để tiết kiệm sức ở cự ly chạm đòn. Người trần bình thường mà đấm kiểu đó thì nát bấy cả cánh tay!"*. Trường Sinh thành thật lắc đầu, bảo đó chỉ là phản xạ liều mạng vì cậu chỉ gom được một chút năng lượng ít ỏi. Edor tấm tắc khen xương cốt cậu cứng cỏi dị thường.
+  3. Cử chỉ sẻ chia: Trường Sinh dùng nắp chai hứng dòng nước ngầm mát lành từ khe đá mang tới góc tối đưa cho cô gái gầy gò (Caelia) đang ngồi co ro ôm đầu gối; Caelia khẽ gật đầu cảm ơn lí nhí; Rita và Edor cũng được uống nước sạch; sự gắn kết giữa những con người cùng đường dần hình thành.
+  4. Quyết định mở đường về căn cứ: Tiếng cào móng bên ngoài tắt hẳn, bầy quái vật đã tản đi nơi khác; Kaelen thu kiếm vào bao, nhìn Trường Sinh nói ngắn gọn: *"Cậu đã cứu người của tôi và cho chúng tôi chỗ lánh nạn. Thu dọn đồ đi, chúng tôi dẫn cậu về Nhà Ga Trung Tâm."*
+* **Hook kết chương:** Cả nhóm chuẩn bị mở chốt đá rời hầm; Trường Sinh khoác lại chiếc túi, dập tắt ngọn lửa Zippo; lần đầu tiên sau chuỗi ngày cô độc, cậu không còn phải bước đi một mình giữa thành phố hoang tàn.
 
 ---
 

@@ -30,14 +30,15 @@
 
 ---
 
-## 3. EDOR VANCE (EDOR) — NGƯỜI GIÀ TRI THỨC
-* **Tuổi:** 65 tuổi.
-* **Ngoại hình:** Lưng còng gập, mái tóc bạc trắng xơ xác, sống mũi gãy đeo một chiếc kính lúp quang học dày cộp. Khoác chiếc áo choàng len cũ kỹ đầy vết vá, mang theo một chiếc túi vải thô nhét đầy kìm, búa và dụng cụ cơ khí cổ.
-* **Vai trò trong đội:** Người ghi nhớ, nhà sử học sống nắm giữ toàn bộ ký ức và cấu trúc công trình của thành phố Silva xưa.
-* **Tính cách:** Lời nói chậm rãi, từ tốn, hay trầm ngâm kể lại những câu chuyện thời hoàng kim; thông thái, thấu hiểu nhân tình thế thái.
-* **Bí mật:** Thời trẻ từng làm phụ tá kỹ thuật tại khu nghiên cứu chữ `P.`, trực tiếp biết về sự tồn tại của Giáo sư Arthur Pendelton. Ông câm nín suốt 20 năm vì hiểu rằng chạm vào tri thức đó đồng nghĩa với cái chết.
-* **Phong cách nói chuyện:** Trầm ngâm, hay dùng từ ngữ cổ điển: *"Hồi đó... trước khi mọi chuyện xảy ra..."*.
-* **Số phận:** Sống sót; trở thành nguồn cung cấp manh mối lịch sử vô giá giúp Tiêu Trường Sinh hiểu về bản chất của cỗ máy Pendelton và dòng chữ ẩn ý "đường hầm".
+## 3. EDOR VANCE (EDOR) — NGƯỜI LÙN TRI THỨC & THỢ CƠ KHÍ CỔ
+* **Chủng tộc:** Tộc Người Lùn (Dwarf) — Tộc người có vóc dáng thấp đậm, vai u thịt bắp, khung xương và cơ bắp săn chắc bẩm sinh chịu được lực phản chấn cực hạn.
+* **Tuổi:** 65 tuổi (tương đương trung niên theo tuổi thọ người lùn).
+* **Ngoại hình:** Vóc người thấp nhưng bề ngang dày cộp như tảng đá, hai bắp tay cuồn cuộn gân xanh, mái tóc và chòm râu bạc trắng xơ xác, sống mũi gãy đeo một chiếc kính lúp quang học dày cộp. Khoác áo giáp da đính đinh tán kim loại, vác cây búa tạ cán dài và mang túi đồ nghề cơ khí cổ.
+* **Vai trò trong đội:** Đảm nhiệm vị trí tiền phong cản phá hạng nặng (đẩy xe thồ, phá chướng ngại vật) và là nhà sử học sống nắm giữ toàn bộ ký ức, cấu trúc công trình của thành phố Silva xưa.
+* **Kỹ thuật độc môn:** Nắm giữ bí thuật cận chiến của tộc Người Lùn — bộc phát năng lượng ở điểm tiếp xúc (Point-blank Burst) để phá giáp và đập nát xương quái vật. Kỹ thuật này người bình thường không ai dám dùng vì xương thịt người sẽ vỡ nát do phản lực.
+* **Bí mật:** Thời trẻ từng làm thợ rèn và phụ tá kỹ thuật tại khu nghiên cứu chữ `P.`, trực tiếp biết về các thí nghiệm của Giáo sư Arthur Pendelton. Ông câm nín suốt 20 năm vì hiểu rằng chạm vào tri thức đó đồng nghĩa với cái chết.
+* **Phong cách nói chuyện:** Trầm ngâm, giọng ồm ồm vang như tiếng chuông đồng: *"Hồi đó... trước khi mọi chuyện xảy ra..."*.
+* **Số phận:** Sống sót; trở thành người thầy chỉ dẫn mẹo cận chiến cho Trường Sinh và là nguồn manh mối lịch sử vô giá về cỗ máy Pendelton cùng bí mật "đường hầm".
 
 ---
 
