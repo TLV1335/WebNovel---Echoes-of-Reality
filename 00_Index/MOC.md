@@ -16,6 +16,7 @@
 * [[canon/dialouge_rules|Dialogue Rules]] — Quy tắc thoại chuẩn hóa: Nói ít theo từng người, khoảng lặng cụ thể (vỡ nhịp thở), hành động xen kẽ đổi nhịp, không nhồi lore, cấm "mày - tao", thẻ giọng nhân vật.
 * [[canon/information_reveal_rules|Information Reveal Rules]] — Quy tắc kiểm soát tiết lộ thông tin: POV ngôi 3 giới hạn, cấm tác giả toàn tri giải thích thay, quy tắc 1 đáp 2 hỏi, Show-Not-Tell qua triệu chứng thể xác.
 * [[canon/description_rules|Description Rules]] — Quy tắc kiểm soát miêu tả (Description Budget): Bài kiểm tra 4 tiêu chí ("Người đọc mất gì nếu thiếu nó?"), ngân sách so sánh, giữ nhịp câu ngắn, tự cắt trước khi gửi.
+* [[canon/character_rules|Character Rules]] — Quy tắc xây dựng nhân vật (Mô hình 3 lớp): Lớp 1 (Bề mặt manga - 2 biểu hiện), Lớp 2 (Động cơ - hoàn cảnh/nỗi sợ), Lớp 3 (Phá vỡ - hành động ngược lại), 9 nguyên tắc cốt tử, quy trình 5 bước và thẻ mẫu.
 * [[.agents/rules/chapter_workflow|Chapter Workflow]] — Quy trình bắt buộc trước - trong - sau khi chấp bút từng chương.
 
 
@@ -68,6 +69,7 @@
 
 ## 👥 III. HỒ SƠ NHÂN VẬT (CHARACTERS)
 * [[00_Index/Character|Chỉ Mục Nhân Vật]] — Tổng mục tra cứu hồ sơ nhân vật toàn tác phẩm.
+* [[canon/character_rules|Character Rules]] — Quy chuẩn xây dựng và thẩm định nhân vật theo Mô hình 3 lớp.
 * [[canon/characters/overview|Characters Overview]] — Bảng phân loại khoa học nhân vật.
 * **Tuyến Nhân Vật Chính & Nữ Chính:**
   * [[canon/characters/main_actors/tieu_truong_sinh|Tiêu Trường Sinh / Lucien Varetti]]

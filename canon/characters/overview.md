@@ -1,6 +1,6 @@
 # Tổng Mục Hồ Sơ Nhân Vật (Characters Master Index)
 
-Hệ thống nhân vật của tác phẩm **Vọng Âm Thực Tại** được phân loại khoa học theo từng thư mục:
+Hệ thống nhân vật của tác phẩm **Vọng Âm Thực Tại** được xây dựng và thẩm định theo [Quy Tắc Xây Dựng Nhân Vật — Mô Hình 3 Lớp](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/character_rules.md), phân loại khoa học theo từng thư mục:
 * **Tuyến Nhân Vật Chính:** Nằm trong thư mục [canon/characters/main_actors/](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/main_actors/)
 * **Tuyến Nhân Vật Phụ:** Nằm trong thư mục [canon/characters/supporting/](file:///mnt/E/Study/Syllabus/Orther/Something%20Special/Novel/canon/characters/supporting/)
 

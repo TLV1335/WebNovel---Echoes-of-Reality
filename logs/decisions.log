@@ -327,5 +327,24 @@
   3. `00_Index/MOC.md` (Cập nhật mục liên kết Dialogue Rules)
   4. `logs/decisions.log` (Ghi nhận Quyết định 17)
 
+---
+
+## 18. QUYẾT ĐỊNH CHUẨN HÓA QUY TẮC XÂY DỰNG NHÂN VẬT — MÔ HÌNH 3 LỚP (28/10/2026)
+* **Thứ bậc ưu tiên khi xung đột:** Sổ tay thế giới > Quy tắc xây dựng nhân vật.
+* **Mục tiêu cốt lõi:** Định hình dàn nhân vật có tính nhận diện cao, sắc nét, gắn chặt với hoàn cảnh sinh tồn khắc nghiệt của thế giới truyện, chống rập khuôn và sáo rỗng.
+* **Nội dung Mô hình 3 lớp:**
+  - **Lớp 1 (Bề mặt - Nhận diện nhanh):** 1–2 nét tính cách/hành vi nhìn thấy được (đẩy cao như manga), mỗi nét bắt buộc có 2 biểu hiện khác nhau để tránh lặp khuôn sáo.
+  - **Lớp 2 (Động cơ - Giải thích):** Gắn với hoàn cảnh, quá khứ hoặc nỗi sợ cụ thể trong thế giới truyện; bộc lộ gián tiếp qua 1–2 chi tiết vi mô (né tránh, khựng lại, việc trái với mặt nạ).
+  - **Lớp 3 (Phá vỡ - Tạo cao trào):** Điều kiện kích hoạt và hành vi phá vỡ bằng cách làm ngược lại hoàn toàn với nét Lớp 1 (không độc thoại tự thú dài dòng).
+* **9 Nguyên tắc xây dựng cốt tử:** Lớp 2 giải thích Lớp 1; Lớp 3 đảo ngược Lớp 1; Khác biệt với toàn bộ dàn nhân vật (bài kiểm tra che tên); Ưu tiên nét cụ thể, ít gặp, đúng bối cảnh; Lớp 1 tối đa 2 nét; Nhân vật chính giữ mặt nạ mỏng; Nhân vật phụ mới chỉ cần Lớp 1 và một chi tiết Lớp 2; Khớp tuyệt đối với Sổ tay thế giới (lore mới phải gắn `[ĐỀ XUẤT]`); Không tự ý thay đổi Lớp 1 do tác giả đã ấn định.
+* **Quy trình làm việc 5 bước:** Đọc thẻ & Sổ tay -> Hỏi thông tin thiếu (không đoán) -> Đề xuất 2–3 phương án phân nhánh ở Động cơ Lớp 2 (đủ 3 lớp) -> Kèm 2 câu thoại mẫu, xưng hô với MC và 1 cảnh ngắn 2–3 câu thể hiện Lớp 1 -> Tác giả chọn/ghép và hoàn thiện.
+* **Định dạng chuẩn thẻ nhân vật & Bộ tự kiểm tra (Checklist 5 câu hỏi).**
+* **Danh sách file cập nhật:**
+  1. `canon/character_rules.md` (Tạo mới toàn văn quy chuẩn)
+  2. `canon/characters/overview.md` (Dẫn link kim chỉ nam tại đầu trang)
+  3. `00_Index/MOC.md` (Cập nhật liên kết tại Mục I và Mục III)
+  4. `logs/decisions.log` (Ghi nhận Quyết định 18)
+
+
 
 
