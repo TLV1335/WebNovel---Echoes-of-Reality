@@ -70,10 +70,14 @@
 ---
 
 ## 8. Quy Chuẩn Hội Thoại (Xem chi tiết tại `canon/dialouge_rules.md`)
-1. **Thoại dưới áp lực:** Ngắn, rời rạc, cụ thể (<10–12 tiếng). Mang thông tin/ý định rõ ràng (tên, hướng, vật, cảnh báo, van xin, nói dối). Tránh tiếng thét sáo rỗng. Khi ẩn nấp: im lặng hoặc thì thầm.
-2. **Hành động xen kẽ:** Chỉ chèn để neo tư thế/vị trí hoặc lộ subtext. Không chèn miêu tả chung chung. Trao đổi nhanh cho phép 3–4 lượt lời không tả.
-3. **Cấm nhồi lore:** Không thuyết minh qua thoại hay suy nghĩ. Trường Sinh chỉ nhận tin vội/cắt ngang/cảnh báo. Giới hạn 2–3 quy tắc thế giới mới mỗi cảnh ở Arc 1 (1 quy tắc ở các Arc sau).
-4. **Giọng Tiêu Trường Sinh:** Quan sát nhiều, nói ít, cụt lủn, né nói về mình, hay hỏi lại. Nội tâm tối đa 2–3 chỗ/cảnh (mỗi chỗ 1–2 câu) và chỉ gắn với lựa chọn riêng, không suy nghĩ triết lý sinh tồn sáo rỗng.
+1. **Nói ít, theo từng người:** Mặc định 1–2 câu ngắn/lượt. Cắt câu nếu không mất ý và giọng. Không nói thẳng cảm xúc, để việc làm/sự im lặng thể hiện.
+2. **Khoảng lặng cụ thể:** Đặt ở đỉnh cảm xúc hoặc sau tin xấu; chứa 1 chi tiết cụ thể (vật, âm thanh, cơ thể), không dùng câu sáo rỗng. Với Trường Sinh, dùng nhịp thở điều tức (3 hít, 2 nén) bị vỡ nhịp khi hợp cảnh. Tối đa 1 lần/cảnh, 2 lần/chương.
+3. **Hành động xen kẽ:** Chỉ chèn khi mang thông tin mới hoặc đổi nhịp. Cho phép 3–4 lượt lời không tag. Không lặp khuôn "lời + động từ nói + hành động" quá 3 lần.
+4. **Cấm nhồi lore, không kể lại:** Không giảng giải thứ cả hai đều biết. Mỗi cảnh tối đa 1 quy tắc thế giới mới. Không bịa khái niệm ngoài sổ tay.
+5. **Nội tâm:** In nghiêng, 1–2 câu, tối đa 2–3 chỗ/cảnh. Gắn với hoàn cảnh riêng, không suy nghĩ triết lý sáo rỗng.
+6. **Định dạng & Xưng hô:** Thoại ngoặc kép, nội tâm in nghiêng. TUYỆT ĐỐI CẤM dùng "mày - tao". Dùng "cậu" cho Trường Sinh, không "cậu ấy".
+7. **Thẻ giọng nhân vật:** Theo đúng hồ sơ tác giả điền (Trường Sinh nói ngắn, hay hỏi lại, né nói về mình; Hirra cộc lốc vô cảm như đọc số).
+8. **Tự kiểm tra trước khi gửi:** Che tên đoán người nói, lọc bỏ sáo ngữ (*mồ hôi lạnh, siết chặt nắm đấm, thở dốc, tim đập thình thịch*).
 
 ---
 

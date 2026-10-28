@@ -1,41 +1,92 @@
-QUY TẮC THOẠI
+# QUY TẮC THOẠI
+*(Bổ sung cho quy tắc miêu tả. Khi xung đột: Sổ tay thế giới > Quy tắc miêu tả > Quy tắc này.)*
 
-1. Thoại dưới áp lực: ngắn, rời rạc, nhưng cụ thể.
-Khi nhân vật chạy trốn, chiến đấu hoặc ẩn nấp, lời thoại thường 
-chỉ một mệnh đề, khoảng dưới 10–12 tiếng; dài hơn thì phải có lý do. 
-Mỗi câu phải mang một thông tin hoặc ý định cụ thể: tên, hướng, vật, 
-cảnh báo, van xin, nói dối. Tránh tiếng kêu chung chung. Với Trường Sinh, 
-mặc định là im lặng hoặc câu ngắn cụt. Khi đang ẩn nấp, mặc định là im lặng hoặc thì thầm. Ngoài ra nếu cảnh đó trống quá thì có thể thêm 1-2 câu ngắn vào mục suy nghĩ của cậu. Và phải đảm bảo không có sự lặp lại.
+---
 
-2. Hành động xen kẽ khi cần, không phải mọi lượt.
-Chèn hành động hoặc miêu tả để neo vị trí và tư thế, để đổi nhịp, 
-hoặc để lộ điều nhân vật không nói ra. Mỗi chi tiết xen vào phải mang 
-thông tin mới về không gian, vật thể hoặc ý đồ. Không chèn hành động 
-chung chung. Trong trao đổi nhanh, được phép 3–4 lượt lời liên tiếp 
-không kèm miêu tả. Không lặp mãi khuôn "nói + hành động". Chỉ dùng 
-chi tiết thế giới có trong sổ tay.
+## MỤC TIÊU
+Thoại nghe như người thật nói, mỗi nhân vật nghe khác nhau, cảnh vẫn đi tiếp. Mượn từ manga ba điều: **nói ít**, **để hành động và khoảng lặng gánh cảm xúc**, **không giải thích điều người đọc tự thấy**. Không bắt chước manga ngoài ba điều này.
 
-3. Không nhồi lore, qua thoại lẫn qua suy nghĩ.
-Nhân vật sống ở Primordia không giảng cho nhau thứ cả hai đều biết. 
-Nhưng Trường Sinh là người ngoài, nên được nhận thông tin từ người khác 
-nếu thông tin đó ngắn, thiếu, vội, bị cắt ngang, hoặc là cảnh báo hành động. 
-Mỗi cảnh tối đa 1–2 quy tắc thế giới mới. Trong Arc 1 (main mới đến 
-Primordia), có thể 2–3 quy tắc mỗi cảnh vì main đang học. Từ Arc 2 trở đi, 
-giới hạn 1 quy tắc mỗi cảnh. Suy nghĩ của Trường Sinh cũng không được 
-dùng để nhồi lore: cậu chỉ biết điều cậu thấy, nghe, ngửi, hoặc đoán, 
-và phải để lộ rằng đó là đoán. Không tự bịa khái niệm, tên gọi hay quy 
-tắc mới ngoài sổ tay.
+---
 
-4. Trường Sinh: quan sát nhiều, nói ít, nói riêng.
-Lời nói của cậu ngắn nhưng phải có nét riêng (hay hỏi lại, né nói về 
-bản thân, thực tế đến cụt lủn), không chỉ là "ít". Nội tâm xuất hiện ở 
-những khoảnh khắc phải chọn, tối đa 2–3 chỗ mỗi cảnh, mỗi chỗ 1–2 câu, 
-và phải gắn với hoàn cảnh riêng của cậu (nỗi sợ mình là người thừa, 
-cảm giác bị bỏ rơi ở Primordia, ký ức về Caelia, sự im lặng của Lỗ Hổng), 
-không phải câu sinh tồn chung chung. Ưu tiên thể hiện qua chi tiết cậu 
-để ý và lựa chọn hành động, hạn chế "cậu nghĩ" trực tiếp.
+## 1. NÓI ÍT, NHƯNG THEO TỪNG NGƯỜI
+- Mặc định mỗi lượt thoại 1–2 câu ngắn. Dài hơn khi nhân vật vốn nói dài (xem thẻ giọng) hoặc cảnh cần (thuyết phục, trăn trối); khi đó cắt ngang bằng hành động hoặc người đối diện.
+- Câu nào cắt nửa mà không mất ý và không mất giọng nhân vật thì cắt. Không cắt đến mức mọi người nói như nhau.
+- Không nói thẳng cảm xúc (*"Tôi rất đau"*). Cho thấy bằng việc nhân vật làm, né, hoặc im.
 
-5. Thái độ xưng hô: Chừng mực, tự nhiên, TUYỆT ĐỐI KHÔNG dùng "mày - tao".
-- Không xưng hô kiểu hỗn hào hay thô lỗ bỗ bã: Tuyệt đối không dùng "mày - tao", kể cả khi tra hỏi, nghi kỵ, bị chĩa nỏ vào đầu hay trong các tình huống sinh tử đe dọa.
-- Giữ sự bình thường và lịch sự tự nhiên: Dùng cặp xưng hô đời thường ("tôi - cậu", "anh - cậu", "chúng tôi - cậu", "ông - tôi"). Sự căng thẳng hay nguy hiểm được thể hiện qua mệnh lệnh dứt khoát, âm sắc sắc lạnh và hành động thực tế ("Đứng yên đó!", "Bỏ tay ra!", "Ngươi từ đâu tới?"), chứ không thể hiện qua từ ngữ văng tục vô văn hóa.
-- Không quá lịch sự khách sáo: Không dùng các từ xưng hô cổ phong phong kiến hay sến súa rườm rà ("các hạ", "tiểu tử", "huynh đài", "tiện nhân"). Giữ đúng tinh thần giao tiếp thực dụng, gọn ghẽ giữa những con người sinh tồn.
+---
+
+## 2. KHOẢNG LẶNG
+- Dùng ở đỉnh cảm xúc hoặc ngay sau tin xấu: một đoạn không thoại, chứa một chi tiết cụ thể (vật, âm thanh, động tác cơ thể). Không dùng câu chung chung như *"không gian tĩnh lặng"*.
+- Tối đa 1 lần mỗi cảnh, 2 lần mỗi chương.
+- Với Trường Sinh, có thể dùng nhịp thở điều tức (ba hít, hai nén) bị vỡ nhịp, khi hợp cảnh.
+
+---
+
+## 3. HÀNH ĐỘNG XEN KẼ
+- Chỉ chèn khi mang thông tin mới (vị trí, vật đang cầm, ý đồ không nói ra) hoặc để đổi nhịp. Không chèn chung chung (*thở dốc, siết chặt tay*).
+- Được phép đảo: hành động đi trước lời, hoặc thay hẳn lời.
+- Trao đổi nhanh: 3–4 lượt liên tiếp không tag nếu rõ ai nói.
+- Không lặp khuôn *"lời + động từ nói + hành động"* quá ba lần liên tiếp.
+
+---
+
+## 4. KHÔNG NHỒI LORE, KHÔNG KỂ LẠI
+- Nhân vật không giảng cho nhau thứ cả hai đều biết. Trường Sinh là người ngoài nên được nghe cảnh báo ngắn, thiếu, bị cắt ngang bởi hành động, không phải bài giảng.
+- Mỗi cảnh tối đa một quy tắc thế giới mới; hậu quả vật lý đến trước hoặc cùng lúc với lời.
+- Không bịa khái niệm, tên gọi, quy tắc ngoài sổ tay.
+- Không dùng thoại để kể lại sự kiện đã xảy ra; nếu cần, một câu nhắc ngắn.
+
+---
+
+## 5. NỘI TÂM
+- In nghiêng, 1–2 câu, tối đa 2–3 chỗ mỗi cảnh. Gắn với hoàn cảnh riêng của nhân vật.
+- Không viết suy nghĩ chung chung (*"Phải chạy."*, *"Không đánh lại được."*).
+
+---
+
+## 6. ĐỊNH DẠNG & THÁI ĐỘ XƯNG HÔ
+- **Định dạng:**
+  - Thoại nói: ngoặc kép `""`.
+  - Nội tâm: in nghiêng `*...*`, không ngoặc kép.
+  - Thì thầm: ngoặc kép `""` + miêu tả ngắn.
+  - Hét: tối đa một dấu chấm than mỗi câu; chỉ viết hoa khi là tiếng hét một từ.
+  - Dùng "cậu" cho Trường Sinh, không "cậu ấy".
+  - Đoạn một câu chỉ để nhấn, không phải mặc định cho mọi đoạn.
+- **Thái độ xưng hô (Quy tắc bắt buộc từ Quyết định 13):**
+  - **TUYỆT ĐỐI CẤM dùng "mày - tao"**, kể cả khi tra hỏi, nghi kỵ, bị chĩa vũ khí hay trong tình thế sinh tử đe dọa.
+  - Bình thường, chừng mực và tự nhiên ("tôi - cậu", "anh - cậu", "chúng tôi - cậu", "ông - tôi"). Sự căng thẳng được thể hiện qua mệnh lệnh dứt khoát, âm sắc sắc lạnh và hành động thực tế.
+  - Không quá lịch sự khách sáo: không dùng từ ngữ phong kiến, cổ trang ("tiểu tử", "các hạ", "huynh đài").
+
+---
+
+## 7. THẺ GIỌNG (Tác giả điền; agent không tự thêm đặc điểm)
+Mỗi nhân vật gồm: *Xưng hô với từng người | Độ dài thoại | Từ/cách nói quen | Điều không bao giờ nói | 2 câu mẫu | Phản ứng khi bị ép.*
+- **Trường Sinh:** [điền]. Gợi ý từ bản thảo: ngắn, hay hỏi lại, né nói về bản thân.
+- **Hirra:** [điền]. Câu mẫu có sẵn: *"Cậu sắp chết rồi."*
+- **Caelia:** [điền cả hai trạng thái]. Đầu mỗi cảnh tác giả ghi: *Caelia = giả danh / thật*.
+- **Hạ Linh An:** [điền].
+
+---
+
+## 8. TỰ KIỂM TRA TRƯỚC KHI GỬI (Không in ra)
+- Che tên người nói: còn đoán được ai đang nói không?
+- Có câu thoại nào chỉ để giải thích? Có chi tiết nào ngoài sổ tay?
+- Có cụm sáo nào: *mồ hôi lạnh chảy dọc sống lưng, siết chặt nắm đấm, thở dốc, tim đập thình thịch*?
+- Khoảng lặng có chứa chi tiết cụ thể không?
+
+---
+
+## VÍ DỤ (CÙNG NỘI DUNG, KHÁC CÁCH VIẾT)
+
+**Sai:**
+> Trường Sinh nhìn con quái vật, tim đập thình thịch. Cậu nghĩ: *"Thứ này mạnh quá, sức người không đánh lại được. Mình phải nén Nguyên Mana vào nắm đấm mới có cơ hội."* Cậu quay sang Hirra: "Cậu giúp tôi đánh lạc hướng nó được không? Tôi cần thời gian chuẩn bị." Hirra đáp: "Được, nhưng tôi chỉ làm nó lóa mắt được một giây."
+
+**Đúng:**
+> Con quái chưa lao tới. Nó đứng im, mũi giật giật.  
+> Ba nhịp hít, hai nhịp nén. Nhịp nén thứ hai của cậu vỡ giữa chừng.  
+> "Hirra."  
+> Đốm sáng lam tím trong ngực rung lên. Không đáp.  
+> "Làm nó lóa mắt. Một lần thôi."  
+> "Một giây." Giọng nó khô như đọc số. "Đừng chết."
+
+*Lý do:* Thông tin giữ nguyên (cần đánh lạc hướng, chỉ có một giây), bỏ nội tâm giải thích và "nén Nguyên Mana", khoảng lặng chứa một chi tiết cụ thể (nhịp thở vỡ, đốm sáng không trả lời), mỗi người nói đúng một giọng.

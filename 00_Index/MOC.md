@@ -13,7 +13,7 @@
   * [[logs/daily_log/2026/2026-10-06_setup_canon_remove_system|2026-10-06: Setup Canon & Remove System]]
   * [[logs/daily_log/2026/2026-10-07_sync_index_modularize_lore|2026-10-07: Sync Index & Modularize Lore]]
 * [[canon/style|Style Guide]] — Quy chuẩn văn phong, hệ thống xưng hô, danh sách từ ngữ cấm (AI Cliché Blacklist) và khung độ dài 2.500 – 3.500 từ.
-* [[canon/dialouge_rules|Dialogue Rules]] — 4 Quy tắc thoại then chốt: Thoại dưới áp lực (<10–12 tiếng), không nhồi lore, tiết chế miêu tả, phong cách thoại cụt lủn & nội tâm chọn lọc của Trường Sinh.
+* [[canon/dialouge_rules|Dialogue Rules]] — Quy tắc thoại chuẩn hóa: Nói ít theo từng người, khoảng lặng cụ thể (vỡ nhịp thở), hành động xen kẽ đổi nhịp, không nhồi lore, cấm "mày - tao", thẻ giọng nhân vật.
 * [[canon/information_reveal_rules|Information Reveal Rules]] — Quy tắc kiểm soát tiết lộ thông tin: POV ngôi 3 giới hạn, cấm tác giả toàn tri giải thích thay, quy tắc 1 đáp 2 hỏi, Show-Not-Tell qua triệu chứng thể xác.
 * [[canon/description_rules|Description Rules]] — Quy tắc kiểm soát miêu tả (Description Budget): Bài kiểm tra 4 tiêu chí ("Người đọc mất gì nếu thiếu nó?"), ngân sách so sánh, giữ nhịp câu ngắn, tự cắt trước khi gửi.
 * [[.agents/rules/chapter_workflow|Chapter Workflow]] — Quy trình bắt buộc trước - trong - sau khi chấp bút từng chương.

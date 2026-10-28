@@ -307,4 +307,25 @@
   9. `00_Index/Power_System.md`
   10. `logs/decisions.log` (Ghi nhận Quyết định 16)
 
+---
+
+## 17. QUYẾT ĐỊNH CHUẨN HÓA TOÀN DIỆN QUY TẮC THOẠI (28/10/2026)
+* **Thứ bậc ưu tiên khi xung đột:** Sổ tay thế giới > Quy tắc miêu tả > Quy tắc thoại.
+* **Mục tiêu cốt lõi:** Thoại nghe như người thật nói, mỗi nhân vật nghe khác nhau, cảnh vẫn đi tiếp. Mượn từ manga 3 điều: (1) nói ít, (2) để hành động và khoảng lặng gánh cảm xúc, (3) không giải thích điều người đọc tự thấy.
+* **Nội dung 8 quy tắc bắt buộc:**
+  1. *Nói ít, theo từng người:* Mặc định mỗi lượt 1–2 câu ngắn. Cắt câu nếu không mất ý và giọng. Không nói thẳng cảm xúc ("Tôi rất đau").
+  2. *Khoảng lặng cụ thể:* Đặt ở đỉnh cảm xúc hoặc sau tin xấu; chứa một chi tiết cụ thể (vật, âm thanh, động tác cơ thể), tối đa 1 lần/cảnh, 2 lần/chương. Với Trường Sinh dùng nhịp thở điều tức (3 hít, 2 nén) bị vỡ nhịp khi hợp cảnh.
+  3. *Hành động xen kẽ:* Chỉ chèn khi mang thông tin mới hoặc để đổi nhịp. Cho phép 3–4 lượt lời liên tiếp không tag nếu rõ người nói. Không lặp khuôn "lời + động từ nói + hành động" quá 3 lần liên tiếp.
+  4. *Không nhồi lore, không kể lại:* Không giảng giải thứ cả hai đều biết. Mỗi cảnh tối đa 1 quy tắc thế giới mới. Không bịa khái niệm ngoài sổ tay.
+  5. *Nội tâm:* In nghiêng, 1–2 câu, tối đa 2–3 chỗ/cảnh, gắn với hoàn cảnh riêng, cấm suy nghĩ triết lý sáo rỗng.
+  6. *Định dạng & Thái độ xưng hô:* Thoại ngoặc kép, nội tâm in nghiêng. Hét tối đa 1 dấu chấm than. Dùng "cậu" cho Trường Sinh, không "cậu ấy". Tuyệt đối cấm "mày - tao". Xưng hô chừng mực, tự nhiên, không phong kiến cổ trang.
+  7. *Thẻ giọng nhân vật:* Tác giả điền thông số (Trường Sinh: ngắn, hay hỏi lại, né nói về mình; Hirra: khô như đọc số; Caelia: phân biệt rõ giả danh/thật).
+  8. *Tự kiểm tra trước khi gửi:* Che tên đoán người nói, lọc sạch cụm từ sáo ngữ (*mồ hôi lạnh, siết chặt nắm đấm, thở dốc, tim đập thình thịch*).
+* **Danh sách file cập nhật:**
+  1. `canon/dialouge_rules.md` (Thay thế toàn văn quy tắc chuẩn hóa)
+  2. `canon/style.md` (Cập nhật Mục 8)
+  3. `00_Index/MOC.md` (Cập nhật mục liên kết Dialogue Rules)
+  4. `logs/decisions.log` (Ghi nhận Quyết định 17)
+
+
 
