@@ -6,7 +6,7 @@ Ngọn lửa vàng cam le lói hắt lên bức tường đá sa thạch thô nh
 
 Bên ngoài phiến đá tảng dày nửa mét, những tiếng cào xé rin rít vẫn vang lên từng chặp rồi nhỏ dần. Bầy Tử Linh không ngửi thấy mùi máu tươi nữa, lại không thể xuyên qua lớp đá dày, bắt đầu lảo đảo tản mác ra các ngã rẽ xung quanh để tìm con mồi khác. Tiếng gầm rú the thé xa dần qua các con phố hoang, trả lại cho tầng hầm một bầu không khí tĩnh mịch đến lạnh ngắt.
 
-Kaelen Voss từ từ buông chiếc khiên gỗ viền đồng xuống mặt sàn đá, phát ra một tiếng *cộp* khô khốc.
+Kaelen từ từ buông chiếc khiên gỗ viền đồng xuống mặt sàn đá, phát ra một tiếng *cộp* khô khốc.
 
 Ông không vội cất đoản kiếm. Đôi mắt sâu hoắm, sắc như lưỡi dao của người đội trưởng chậm rãi lia một vòng quanh căn hầm. Tầm mắt ông lướt qua đống củi khô mục gom gọn ở góc tường, vết nứt đá nơi có dòng nước ngầm róc rách rỉ ra trong vắt, rồi dừng lại ở bộ hài cốt hiệp sĩ vô danh ngồi dựa lưng vào vách đá phía sâu bên trong.
 
@@ -14,7 +14,7 @@ Chiếc áo giáp sắt rỉ sét trên bộ xương mang dấu vết tháp đô
 
 Marko ngồi bệt dưới chân xe thồ, ngửa đầu tựa vào thành gỗ, thở hắt ra một hơi dài:
 
-"Bộ xương kia... chết ít nhất cũng mười mấy năm rồi. Chỗ này là trạm gác hầm thời trước sụp đổ." Hắn liếc nhìn Trường Sinh, giọng vẫn còn vương chút ngờ vực nhưng đã bớt vẻ gay gắt: "Cậu nhóc, cậu trốn ở đây một mình thật đấy à?"
+"Bộ xương kia... chết ít nhất cũng mấy năm rồi. Chỗ này là trạm gác hầm thời trước sụp đổ." Hắn liếc nhìn Trường Sinh, giọng vẫn còn vương chút ngờ vực nhưng đã bớt vẻ gay gắt: "Cậu nhóc, cậu trốn ở đây một mình thật đấy à?"
 
 Trường Sinh đứng dựa lưng vào vách đá cách họ vài bước, bàn tay cầm bật lửa hơi run nhẹ vì mỏi cơ. Cậu gật đầu, giọng khàn đặc:
 
@@ -32,29 +32,37 @@ Edor không rút vũ khí. Ông dừng lại cách cậu hai bước, thò bàn 
 
 Cổ tay cậu sưng đỏ, các khớp ngón tay tím tái, và cùi chỏ thì trầy da rướm máu do cú ngã đập xuống nền đá dăm lúc nãy.
 
-Edor nắn nhẹ vào các khớp xương ngón tay cậu, rồi đưa ngón tay cái ấn vào mu bàn tay. Vầng trán gồ ghề của người lùn nhăn tít lại, trong ánh mắt đục ngầu ánh lên vẻ sững sờ khó tin.
+Edor nắn nhẹ vào các khớp xương ngón tay cậu, rồi đưa ngón tay cái ấn sâu vào mu bàn tay. Vầng trán gồ ghề của người lùn nhăn tít lại, đôi mày rậm bạc trắng cau chặt, trong ánh mắt đục ngầu ánh lên vẻ kinh ngạc xen lẫn khó hiểu.
 
-"Xương cốt người trần..." Edor lầm bầm trong cuống họng, giọng ồm ồm như tiếng cối đá nghiền hạt. "Cậu nhóc, lúc nãy ở khúc ngoặt con hẻm, cậu đấm vỡ sọ con Tử Linh bốn chân bằng ngón đòn gì?"
+"Xương cốt người trần..." Edor lầm bầm trong cuống họng, giọng ồm ồm như tiếng cối đá nghiền hạt. "Cậu nhóc, lúc nãy ở khúc ngoặt con hẻm, cậu học cách đánh đó từ đâu?"
 
 ---
 
 Câu hỏi của Edor làm Kaelen và Marko cùng quay phắt đầu lại. Ngay cả cô gái trẻ tên Rita đang đứng cảnh giới cạnh xe thồ cũng tò mò đưa mắt nhìn sang.
 
-Trường Sinh lúng túng cúi nhìn bàn tay mình, cố giấu đi sự bối rối: "Tôi... tôi chỉ vung tay đấm bừa theo phản xạ thôi. Lúc đó con quái vật sắp vồ vào lưng người ta rồi."
+Trường Sinh lúng túng nhìn bàn tay mình, cố giấu đi sự bối rối: "Tôi... tôi chỉ vung tay đấm bừa theo phản xạ thôi. Lúc đó con quái vật sắp vồ vào lưng người ta rồi."
 
-"Đấm bừa?" Edor hừ một tiếng vang rền lồng ngực, lắc mạnh đầu. "Đừng có lừa một gã thợ rèn già đời này! Tay cậu không hề bọc mana từ trước. Cậu chỉ lao tới bằng tay không, đợi đến khi nắm đấm chỉ còn cách mõm con quái vật chừng nửa tấc, cậu mới đột ngột kích nổ luồng mana trong người ra một điểm duy nhất, đúng không?"
+"Đấm bừa cái con khỉ!" Edor hừ một tiếng vang rền lồng ngực, lắc mạnh đầu. "Lối xoay vòng mana nội thể chạy dọc kinh mạch để gia cố nắm đấm cận chiến... đó là cách đánh của tộc Người Lùn chúng ta. Người thường chẳng ai đi theo con đường đó cả. Cậu có biết vì sao không?"
+
+Edor gõ gõ ngón tay thô kệch vào cẳng tay Trường Sinh:
+
+"Bởi vì xương thịt loài người các cậu vốn giòn manh. Ở mức yếu ớt thì có thể gượng ép, nhưng một khi lên cao hơn, lượng mana nén bộc phát quá lớn thì phản lực dội ngược sẽ nghiền nát xương khớp các cậu thành từng mảnh! Người thường hoặc đi học niệm phép, hoặc dùng vũ khí có chuôi giảm chấn, chẳng ai dại dột tay không nén mana như thế cả."
+
+Nói đến đây, ánh mắt người lùn nheo lại qua thấu kính lúp, vẻ mặt càng lúc càng kỳ quái:
+
+"Nhưng cái ta thấy kì lạ nhất... là cách cậu đánh lại chẳng giống người lùn chút nào!"
+
+Trường Sinh chớp mắt: "Không giống thế nào cơ?"
+
+"Tộc Người Lùn sinh ra cơ bắp đặc như đá nguội, khi đánh bao giờ cũng bọc kín mana quanh cánh tay ngay từ đầu để hộ thân và tích lực," Edor chỉ thẳng vào nắm tay sưng đỏ của cậu, giọng cao lên: "Còn cậu, cả quãng lao tới tay cậu hoàn toàn trần trụi, chẳng có lấy một mống mana nào! Đợi đến khi nắm đấm chỉ còn cách mõm con quái vật chừng nửa tấc sát nút, cậu mới đột ngột bọc mana lên rồi đấm nát đầu nó. Đến tộc của ta cũng không ai dám đánh kiểu quái gở ấy! Cậu không sợ chỉ cần căn trễ một phần mười giây là nanh quái vật cắn nát bàn tay thịt của cậu à?"
 
 Trường Sinh sững sờ. Người lùn này nhìn thấu từng cử động nhỏ nhất của cậu trong khoảnh khắc hỗn loạn đó. "Mana"... Thì ra thứ hơi ấm kỳ lạ mà cậu và Hirra vẫn nén lại trong lồng ngực suốt mấy ngày qua, ở cái thế giới này được gọi là mana.
 
-Cậu nuốt khan một ngụm nước bọt, đành gật đầu thừa nhận: "Đúng... Vì trong người tôi chỉ có một chút ít ỏi. Nếu gom lại bao quanh tay suốt cả quãng chạy thì chưa tới nơi đã tan sạch rồi. Tôi chỉ dám nén hơi, đến sát nút mới đẩy nó ra."
+Cậu nuốt khan một ngụm nước bọt, đành thật thà thừa nhận: "Tôi đâu có muốn liều như thế... Chỉ là trong người tôi lượng mana ít ỏi lắm, gom lại chẳng được bao nhiêu. Nếu bọc quanh tay suốt cả quãng chạy thì chưa kịp chạm tới nó đã tan sạch rồi. Tôi bắt buộc phải nhịn thở ghìm chặt, đợi đến gần sát mới dám bọc lên đẩy ra một nhịp."
 
-"Thế thì đúng là điên thật rồi!" Marko buột miệng kêu lên từ phía sau. "Cậu nhóc này không biết sợ chết à?"
+"Vừa bần hàn vừa liều mạng!" Marko buột miệng kêu lên từ phía sau. "Cậu nhóc này đúng là điên thật rồi!"
 
-"Liều mạng đến mức ngông cuồng." Edor buông cổ tay Trường Sinh ra, ánh mắt nhìn cậu đã khác hẳn lúc trước. Người lùn khoanh hai cánh tay hộ pháp trước ngực, giọng trầm xuống: "Kỹ thuật bộc phát mana ở điểm tiếp xúc đó... là đòn độc môn của tộc Người Lùn chúng ta. Tộc của ta sinh ra đã có khung xương dày gấp đôi các giống loài khác, cơ bắp săn như thép nguội, mới dám dùng da thịt trần trụi chịu phản lực dội ngược của đòn nén. Người bình thường mà làm trò đó, phản chấn dội lại đủ bẻ gãy khớp tay thành ba khúc!"
-
-Edor nhìn chằm chằm vào nắm tay còn run rẩy của Trường Sinh, tấm tắc lắc đầu:
-
-"Vậy mà xương tay của cậu chỉ bị rạn nhẹ và sưng cơ. Cơ thể cậu dẻo dai và lì lợm hơn vẻ bề ngoài gầy gò này nhiều đấy. Cậu nhóc... cậu từng tập luyện thứ gì trước đây à?"
+"Điên đến mức ngông cuồng," Edor buông cổ tay Trường Sinh ra, nhưng ánh mắt nhìn cậu đã bớt vẻ dò xét mà thêm phần kiêng nể. "Dùng thịt da trần trụi để chịu va chạm, đợi gần chạm mới bọc mana để tiết kiệm... Vậy mà xương tay của cậu chỉ bị rạn nhẹ và sưng cơ, không bị phản chấn bẻ gãy. Thân thể cậu dẻo dai hơn vẻ bề ngoài gầy gò này nhiều đấy. Cậu nhóc... cậu từng rèn luyện thứ gì trước đây à?"
 
 Trường Sinh khẽ cụp mắt, nhớ tới những buổi sớm tinh mơ ở quê nhà Dầu Tiếng, khi ông nội bắt cậu đứng tấn dưới gốc cao su, tập từng nhịp thở điều tức nén hơi xuống bụng để chống chọi lại những cơn đau tức ngực triền miên.
 
