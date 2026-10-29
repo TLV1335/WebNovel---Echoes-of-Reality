@@ -54,7 +54,7 @@ Nói đến đây, ánh mắt người lùn nheo lại qua thấu kính lúp, v�
 
 Trường Sinh chớp mắt: "Không giống thế nào cơ?"
 
-"Tộc Người Lùn sinh ra cơ bắp đặc như đá nguội, khi đánh bao giờ cũng bọc kín mana quanh cánh tay ngay từ đầu để hộ thân và tích lực," Edor chỉ thẳng vào nắm tay sưng đỏ của cậu, giọng cao lên: "Còn cậu, cả quãng lao tới tay cậu hoàn toàn trần trụi, chẳng có lấy một mống mana nào! Đợi đến khi nắm đấm chỉ còn cách mõm con quái vật chừng nửa tấc sát nút, cậu mới đột ngột bọc mana lên rồi đấm nát đầu nó. Đến tộc của ta cũng không ai dám đánh kiểu quái gở ấy! Cậu không sợ chỉ cần căn trễ một phần mười giây là nanh quái vật cắn nát bàn tay thịt của cậu à?"
+"Tộc Người Lùn sinh ra cơ bắp đặc như đá nguội, khi đánh bao giờ cũng bọc kín mana quanh cánh tay ngay từ đầu để hộ thân và tích lực," Edor chỉ thẳng vào nắm tay sưng đỏ của cậu, giọng cao lên: "Còn cậu, cả quãng lao tới tay cậu hoàn toàn trần trụi, chẳng có lấy một mống mana nào! Đợi đến khi nắm đấm gần sát con quái vật , cậu mới đột ngột bọc mana lên rồi đấm nát đầu nó. Đến tộc của ta cũng không ai dám đánh kiểu quái gở ấy! Cậu không sợ chỉ cần căn trễ một chút là nanh quái vật cắn nát bàn tay thịt của cậu à?"
 
 Trường Sinh sững sờ. Người lùn này nhìn thấu từng cử động nhỏ nhất của cậu trong khoảnh khắc hỗn loạn đó. "Mana"... Thì ra thứ hơi ấm kỳ lạ mà cậu và Hirra vẫn nén lại trong lồng ngực suốt mấy ngày qua, ở cái thế giới này được gọi là mana.
 
@@ -104,34 +104,20 @@ Cậu quay lại hứng thêm mấy nắp nước nữa mang chia cho Rita và M
 
 ---
 
-Kaelen Voss đứng tựa lưng vào vách đá, lặng lẽ quan sát từng hành động của Trường Sinh.
+Kaelen Voss đứng thẳng dậy. Ông không thu kiếm, bàn tay chai sạn vẫn siết chặt chuôi sắt quấn dây da mòn vẹt.
 
-Vị đội trưởng cựu binh bước tới bên cạnh Trường Sinh, ánh mắt ông nhìn đống đồ đạc đơn sơ trong hầm, rồi nhìn ra cánh cửa đá kiên cố chắn ngang mặt ngoài.
+"Ở yên đây," Kaelen hạ giọng dặn dò, ánh mắt liếc qua Marko và Edor. "Tôi ra ngoài xem động tĩnh."
 
-"Bên ngoài im ắng rồi," Kaelen cất giọng trầm đục, ngữ điệu đã dịu đi rất nhiều. "Bầy Tử Linh đã kéo về hướng phế tích ga xe lửa. Chúng ta an toàn rồi."
+Ông bước chầm chậm về phía cửa hầm. Phiến đá tảng chắn lối ra chỉ hé một khe hẹp vừa đủ một người lách qua. Kaelen nghiêng mình ép sát vách đá sa thạch, trườn nửa thân người ra mép ngoài con hẻm để quan sát.
 
-Ông đưa tay tra thanh đoản kiếm rỉ vào bao da bên hông, phát ra tiếng *tách* dứt khoát. Rồi ông nhìn thẳng vào mắt Trường Sinh:
+Phía trước mặt, con hẻm phế tích chìm trong màn sương xám tro bảng lảng. Đống gạch vụn chất đống bên chân tường tháp đá, biển hiệu kim loại rỉ sét treo lơ lửng đung đưa khe khẽ theo từng cơn gió lạnh. Không một tiếng gầm rú. Bầy Tử Linh dường như đã dạt hết về phía ga xe lửa bỏ hoang. Phía trước con hẻm vắng lặng, không có lấy một bóng quái vật.
 
-"Cậu nhóc. Cậu đã cứu mạng cô gái đó, dẫn đường cho xe hàng của chúng tôi thoát nạn, lại cho chúng tôi một chỗ trốn an toàn giữa lúc ngàn cân treo sợi tóc."
+Kaelen khẽ thở hắt ra một nhịp, định bụng quay người lại để ra hiệu an toàn cho mọi người bên trong.
 
-Kaelen dừng lại một nhịp, đưa bàn tay chai sạn vỗ nhẹ lên bả vai lành lặn của Trường Sinh:
+Nhưng khoảnh khắc ông vừa ngoảnh đầu nhìn ra phía sau—
 
-"Một mình cậu không thể sống mãi dưới căn hầm này được đâu. Đồ khô rồi cũng sẽ hết, và lũ quái vật sớm muộn gì cũng sẽ lần ra mùi người sống nếu cậu ra vào quá nhiều lần."
+Ngay trên góc tường đổ nát sát lưng ông, một bóng đen to lớn đang thu mình ép chặt vào vách đá tự lúc nào.
 
-Trường Sinh im lặng lắng nghe, trong lòng dâng lên một tia hy vọng mơ hồ.
+Dưới vòm đá tối tăm, một cái đầu quái vật thò ra, áp sát đến mức hơi thở tanh tưởi lạnh toát phả thẳng vào gáy ông. Hàm răng trắng nhờ, nhọn hoắt như hàng chục mũi chông cắm chéo ken đặc lấy nhau, dãi đen sền sệt rỉ từng giọt xuống bờ vai áo giáp của Kaelen.
 
-"Thu dọn đồ đạc đi," Kaelen nói ngắn gọn, ánh mắt dứt khoát của một người chỉ huy đã đưa ra quyết định. "Theo chúng tôi về Nhà Ga Trung Tâm. Ở đó có chẩn trị cho vết thương của cậu, có một bát súp nóng, và ít nhất... cậu sẽ không phải đối mặt với bóng đêm của Silva một mình nữa."
-
-Trường Sinh nhìn người đội trưởng trung niên, rồi nhìn sang Edor đang gật gù vuốt chòm râu bạc, Marko đang nháy mắt cười toe toét, và cô gái có đôi mắt hổ phách ở góc hầm đang lặng lẽ ngước nhìn mình.
-
-Cậu thở ra một hơi dài nhẹ nhõm, gật đầu dứt khoát:
-
-"Được. Tôi đi với mọi người."
-
-Trường Sinh cúi người nhặt ba lô lên vai, gài lại thanh kiếm gãy bên hông áo khoác. Cậu đưa ngón tay cái gạt nhẹ nắp chiếc bật lửa Zippo.
-
-*Tách.*
-
-Ngọn lửa vàng cam tắt ngấm. Nhưng trong bóng tối vừa ập xuống của căn hầm, lồng ngực Trường Sinh bỗng cảm nhận được một luồng hơi ấm dịu dàng từ đốm sáng Hirra lan tỏa khắp buồng phổi.
-
-Cậu không còn là kẻ cô độc chạy trốn giữa đống đổ nát nữa.
+Hai tròng mắt đục ngầu không mí, trắng dã không có con ngươi, đang mở to trừng trừng nhìn thẳng vào mặt ông.
